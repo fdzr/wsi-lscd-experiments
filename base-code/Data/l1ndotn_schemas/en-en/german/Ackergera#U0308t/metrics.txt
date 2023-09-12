@@ -1,1 +1,0 @@
-defaultdict(<class 'float'>, {'eval_total_loss': 0.7671564775271242, 'accuracy.dev.Ackergerät.score': 0.048316251830161056, 'accuracy.dev.nen-nen.score': 0.048316251830161056})

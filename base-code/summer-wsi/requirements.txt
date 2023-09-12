@@ -1,9 +1,0 @@
-git+https://github.com/Samsung/LexSubGen.git#egg=LexSubGen
-fire==0.4.0
-word-forms==2.1.0
-mosestokenizer==1.1.0
-omegaconf==2.1.1
-hydra-core==1.1.1
-plotly==4.14.3
-hydra-optuna-sweeper==1.1.1
-

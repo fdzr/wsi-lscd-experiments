@@ -1,5 +1,0 @@
-_target_: pipe.Vectorizer_NSD
-model_str: xlm-roberta-large
-pretrained_path: #C:/Users/79222/PycharmProjects/Thesis/models/XLMR_large_05_unbal.ckpt
-pooling: mean
-layer: 12

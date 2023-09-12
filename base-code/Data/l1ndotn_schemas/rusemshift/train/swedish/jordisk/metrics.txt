@@ -1,1 +1,0 @@
-defaultdict(<class 'float'>, {'eval_total_loss': 0.6945786119906321, 'accuracy.dev.jordisk.score': 0.5320141487671093, 'accuracy.dev.nen-nen.score': 0.5320141487671093})

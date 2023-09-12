@@ -1,6 +1,0 @@
-_target_: glm_vectorizer.GLMVectorizer
-encoder_name: xlm-roberta-large
-encoder_weights_path: /home/myurachinskiy/WSD/wsd-multilingual-biencoders-checkpoints/checkpoints_context/XLMR_large_05_unbal.ckpt
-device: cuda
-max_context_words_count:
-target_window_size: 512

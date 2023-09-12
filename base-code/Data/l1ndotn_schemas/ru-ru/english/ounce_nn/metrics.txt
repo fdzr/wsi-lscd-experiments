@@ -1,1 +1,0 @@
-defaultdict(<class 'float'>, {'eval_total_loss': 0.7029023061042681, 'accuracy.dev.ounce_nn.score': 0.41122392281658837, 'accuracy.dev.nen-nen.score': 0.41122392281658837})

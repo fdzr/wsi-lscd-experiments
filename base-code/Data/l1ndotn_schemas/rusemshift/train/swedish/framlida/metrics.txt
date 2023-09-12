@@ -1,1 +1,0 @@
-defaultdict(<class 'float'>, {'eval_total_loss': 0.6990102002705668, 'accuracy.dev.framlida.score': 0.5187650401925145, 'accuracy.dev.nen-nen.score': 0.5187650401925145})

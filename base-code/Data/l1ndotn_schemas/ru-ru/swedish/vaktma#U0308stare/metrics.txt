@@ -1,1 +1,0 @@
-defaultdict(<class 'float'>, {'eval_total_loss': 0.7248993654174914, 'accuracy.dev.vaktmästare.score': 0.027014721505539536, 'accuracy.dev.nen-nen.score': 0.027014721505539536})

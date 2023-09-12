@@ -1,2 +1,0 @@
-git+https://github.com/Samsung/LexSubGen.git#egg=LexSubGen
-fire==0.4.0
