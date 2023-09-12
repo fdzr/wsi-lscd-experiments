@@ -1,0 +1,36 @@
+<script src="{{ url_for('static', filename='libs/cytoscape.min.js') }}"></script>
+<script src="{{ url_for('static', filename='libs/layout-base.js') }}"></script>
+<div id="container" style="clear:both">
+    <div id="cy"></div>
+</div>
+<style>
+    .status-bar {
+        height: 40px;
+        line-height: 40px;
+    }
+
+    .main-view {
+        float: left;
+        padding: 0;
+        width: calc(100% - 337px);
+    }
+
+    #cy, #container {
+        width: 100%;
+        height: calc(100vh - 115px);
+        display: block;
+        position: relative;
+        left: -1px;
+    }
+
+    #container {
+        border: solid 1px #cacaca;
+    }
+</style>
+
+<script>
+const experiment_id = '{{ experiment._id }}';
+const word = '{{ word }}';
+</script>
+
+<script src="{{ url_for('static', filename='graph.js') }}"></script>

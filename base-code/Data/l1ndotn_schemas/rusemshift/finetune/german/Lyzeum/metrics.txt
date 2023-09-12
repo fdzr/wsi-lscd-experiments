@@ -1,0 +1,1 @@
+defaultdict(<class 'float'>, {'eval_total_loss': 0.7146459417722554, 'accuracy.dev.Lyzeum.score': 0.28023854426831135, 'accuracy.dev.nen-nen.score': 0.28023854426831135})

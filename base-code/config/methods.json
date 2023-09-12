@@ -1,0 +1,309 @@
+{
+    "spectral_clustering": {
+        "fields": [
+            "adjusted_rand_score",
+            "ari_silhouette",
+            "ari_calinski",
+            "ari_eigengap",
+            "adjusted_rand_score_old",
+            "ari_silhouette_old",
+            "ari_calinski_old",
+            "ari_eigengap_old",
+            "adjusted_rand_score_new",
+            "ari_silhouette_new",
+            "ari_calinski_new",
+            "ari_eigengap_new",
+            "no_clusters_eigengap",
+            "no_clusters_results",
+            "predicted_clusters",
+            "gold_id",
+            "score_path",
+            "parameters"
+        ],
+        "drop": [
+            "silhouette",
+            "calinski_harabasz",
+            "eigengap"
+        ],
+        "drop_after": [
+            "gold_id_r2",
+            "gold_id_r3",
+            "gold_id_r4",
+            "gold_id_r5",
+            "parameters_r2",
+            "parameters_r3",
+            "parameters_r4",
+            "parameters_r5",
+            "score_path_r2",
+            "score_path_r3",
+            "score_path_r4",
+            "score_path_r5"
+        ],
+        "concatenate_clusters_jsd_files": {
+            "rename_columns": [
+                "jsd",
+                "freq_clusters_1",
+                "freq_clusters_2"
+            ],
+            "drop": [
+                "parameters"
+            ]
+        },
+        "concatenate_all_runs_experiments": {
+            "drop": [
+                "silhouette",
+                "calinski_harabasz",
+                "eigengap",
+                "no_clusters_eigengap"
+            ],
+            "drop_after": [
+                "gold_id_r2",
+                "gold_id_r3",
+                "gold_id_r4",
+                "gold_id_r5",
+                "parameters_r2",
+                "parameters_r3",
+                "parameters_r4",
+                "parameters_r5",
+                "score_path_r2",
+                "score_path_r3",
+                "score_path_r4",
+                "score_path_r5"
+            ],
+            "rename_before": {
+                "adjusted_rand_score": "ari",
+                "adjusted_rand_score_old": "ari_old",
+                "adjusted_rand_score_new": "ari_new"
+            },
+            "fields": [
+                "ari",
+                "ari_old",
+                "ari_silhouette_old",
+                "ari_calinski_old",
+                "ari_eigengap_old",
+                "ari_new",
+                "ari_silhouette_new",
+                "ari_calinski_new",
+                "ari_eigengap_new",
+                "ari_silhouette",
+                "ari_calinski",
+                "ari_eigengap",
+                "number_cluster_selected_by_silhouette",
+                "number_cluster_selected_by_calinski",
+                "number_cluster_selected_by_eigengap",
+                "no_clusters_results",
+                "score_path",
+                "parameters",
+                "gold_id",
+                "predicted_clusters"
+            ],
+            "no_full_dataset": {
+                "fields": [
+                    "ari",
+                    "ari_silhouette",
+                    "ari_calinski",
+                    "ari_eigengap",
+                    "number_cluster_selected_by_silhouette",
+                    "number_cluster_selected_by_calinski",
+                    "number_cluster_selected_by_eigengap",
+                    "no_clusters_results",
+                    "score_path",
+                    "parameters",
+                    "gold_id",
+                    "predicted_clusters"
+                ],
+                "drop": [
+                    "silhouette",
+                    "calinski_harabasz",
+                    "eigengap",
+                    "no_clusters_eigengap"
+                ],
+                "drop_after": [
+                    "gold_id_r2",
+                    "gold_id_r3",
+                    "gold_id_r4",
+                    "gold_id_r5",
+                    "parameters_r2",
+                    "parameters_r3",
+                    "parameters_r4",
+                    "parameters_r5",
+                    "score_path_r2",
+                    "score_path_r3",
+                    "score_path_r4",
+                    "score_path_r5"
+                ],
+                "rename_before": {
+                    "adjusted_rand_score": "ari"
+                }
+            }
+        }
+    },
+    "non_spectral_clustering": {
+        "fields": [
+            "adjusted_rand_score",
+            "parameters",
+            "predicted_clusters",
+            "gold_id",
+            "adjusted_rand_score_old",
+            "adjusted_rand_score_new"
+        ],
+        "drop": [
+            "status"
+        ],
+        "drop_after": [
+            "gold_id_r2",
+            "gold_id_r3",
+            "gold_id_r4",
+            "gold_id_r5",
+            "parameters_r2",
+            "parameters_r3",
+            "parameters_r4",
+            "parameters_r5"
+        ],
+        "concatenate_clusters_jsd_files": {
+            "rename_columns": [
+                "jsd",
+                "freq_clusters_1",
+                "freq_clusters_2"
+            ],
+            "drop": [
+                "parameters"
+            ]
+        },
+        "concatenate_all_runs_experiments": {
+            "drop": [
+                "status"
+            ],
+            "drop_after": [
+                "gold_id_r2",
+                "gold_id_r3",
+                "gold_id_r4",
+                "gold_id_r5",
+                "parameters_r2",
+                "parameters_r3",
+                "parameters_r4",
+                "parameters_r5"
+            ],
+            "rename_before": {
+                "adjusted_rand_score": "ari",
+                "adjusted_rand_score_old": "ari_old",
+                "adjusted_rand_score_new": "ari_new"
+            },
+            "fields": [
+                "ari",
+                "parameters",
+                "gold_id",
+                "predicted_clusters",
+                "ari_old",
+                "ari_new"
+            ],
+            "no_full_dataset": {
+                "fields": [
+                    "ari",
+                    "parameters",
+                    "predicted_clusters",
+                    "gold_id"
+                ],
+                "drop": [
+                    "status"
+                ],
+                "drop_after": [
+                    "gold_id_r2",
+                    "gold_id_r3",
+                    "gold_id_r4",
+                    "gold_id_r5",
+                    "parameters_r2",
+                    "parameters_r3",
+                    "parameters_r4",
+                    "parameters_r5"
+                ],
+                "rename_before": {
+                    "adjusted_rand_score": "ari"
+                }
+            }
+        }
+    },
+    "5-fold-cv": {
+        "test": {
+            "avg_ari": [
+                "adjusted_rand_score_r1",
+                "adjusted_rand_score_r2",
+                "adjusted_rand_score_r3",
+                "adjusted_rand_score_r4",
+                "adjusted_rand_score_r5"
+            ],
+            "avg_jsd": [
+                "jsd_r1",
+                "jsd_r2",
+                "jsd_r3",
+                "jsd_r4",
+                "jsd_r5"
+            ]
+        },
+        "spectral_clustering": {
+            "avg_ari_silhouette": [
+                "ari_silhouette_r1",
+                "ari_silhouette_r2",
+                "ari_silhouette_r3",
+                "ari_silhouette_r4",
+                "ari_silhouette_r5"
+            ],
+            "avg_ari_calinski": [
+                "ari_calinski_r1",
+                "ari_calinski_r2",
+                "ari_calinski_r3",
+                "ari_calinski_r4",
+                "ari_calinski_r5"
+            ],
+            "avg_ari_eigengap": [
+                "ari_eigengap_r1",
+                "ari_eigengap_r2",
+                "ari_eigengap_r3",
+                "ari_eigengap_r4",
+                "ari_eigengap_r5"
+            ],
+            "avg_ari_silhouette_old": [
+                "ari_silhouette_old_r1",
+                "ari_silhouette_old_r2",
+                "ari_silhouette_old_r3",
+                "ari_silhouette_old_r4",
+                "ari_silhouette_old_r5"
+            ],
+            "avg_ari_calinski_old": [
+                "ari_calinski_old_r1",
+                "ari_calinski_old_r2",
+                "ari_calinski_old_r3",
+                "ari_calinski_old_r4",
+                "ari_calinski_old_r5"
+            ],
+            "avg_ari_eigengap_old": [
+                "ari_eigengap_old_r1",
+                "ari_eigengap_old_r2",
+                "ari_eigengap_old_r3",
+                "ari_eigengap_old_r4",
+                "ari_eigengap_old_r5"
+            ],
+            "avg_ari_silhouette_new": [
+                "ari_silhouette_new_r1",
+                "ari_silhouette_new_r2",
+                "ari_silhouette_new_r3",
+                "ari_silhouette_new_r4",
+                "ari_silhouette_new_r5"
+            ],
+            "avg_ari_calinski_new": [
+                "ari_calinski_new_r1",
+                "ari_calinski_new_r2",
+                "ari_calinski_new_r3",
+                "ari_calinski_new_r4",
+                "ari_calinski_new_r5"
+            ],
+            "avg_ari_eigengap_new": [
+                "ari_eigengap_new_r1",
+                "ari_eigengap_new_r2",
+                "ari_eigengap_new_r3",
+                "ari_eigengap_new_r4",
+                "ari_eigengap_new_r5"
+            ]
+        }
+    }
+}

@@ -1,0 +1,1 @@
+defaultdict(<class 'float'>, {'eval_total_loss': 0.7275649866175055, 'accuracy.dev.vegetation.score': 0.13507526556914867, 'accuracy.dev.nen-nen.score': 0.13507526556914867})

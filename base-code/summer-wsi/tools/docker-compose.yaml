@@ -1,0 +1,66 @@
+version: "3.3"
+
+services:
+  app:
+    container_name: app
+    build:
+      context: ..
+      dockerfile: ./tools/app/Dockerfile
+    volumes:
+      - ./app/data/tmp:/app/tools/app/data/tmp
+      - ./app/data/datafiles:/app/tools/app/data/datafiles
+    depends_on:
+      - redis
+      - mongo
+    environment:
+      # this is very unsafe, use proper roles and save credentials in
+      # proper, secure repositories/vaults designed for that
+      MONGO_DB_ROOT_USERNAME: root
+      MONGO_DB_ROOT_PASSWORD: nr5O&y89yebVw4tW#TCVIYU
+      REDIS_HOST: redis
+      MONGO_HOST: mongo
+  mongo:
+    image: mongo
+    container_name: mongo
+    restart: always
+    environment:
+      # this is very unsafe, use proper roles and save credentials in
+      # proper, secure repositories/vaults designed for that
+      MONGO_INITDB_ROOT_USERNAME: root
+      MONGO_INITDB_ROOT_PASSWORD: nr5O&y89yebVw4tW#TCVIYU
+    volumes:
+      - ./app/data/db:/data/db
+  worker:
+    container_name: worker
+    build:
+      context: ..
+      dockerfile: ./tools/app/Dockerfile
+    entrypoint: ./tools/app/start-worker.sh
+    volumes:
+      - ./app/data/tmp:/app/tools/app/data/tmp
+      - ./app/data/datafiles:/app/tools/app/data/datafiles
+    depends_on:
+      - redis
+      - mongo
+    environment:
+      # this is very unsafe, use proper roles and save credentials in
+      # proper, secure repositories/vaults designed for that
+      MONGO_DB_ROOT_USERNAME: root
+      MONGO_DB_ROOT_PASSWORD: nr5O&y89yebVw4tW#TCVIYU
+      REDIS_HOST: redis
+      MONGO_HOST: mongo
+  redis:
+    image: redis:alpine
+    container_name: redis
+  proxy:
+    image: nginx:1.17
+    container_name: nginx
+    volumes:
+      - ./nginx.conf:/app/nginx-template.conf:ro
+    depends_on:
+      - app
+    environment:
+      - PORT=${PORT}
+    command: /bin/bash -c "envsubst '$${PORT}' < /app/nginx-template.conf > /etc/nginx/nginx.conf && nginx -g 'daemon off;'"
+    ports:
+      - ${PORT}:${PORT}

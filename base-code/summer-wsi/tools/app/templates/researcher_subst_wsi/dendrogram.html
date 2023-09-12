@@ -1,0 +1,50 @@
+<style>
+    body {
+
+    }
+
+    .mdl-layout__container {
+        position: relative !important;
+    }
+
+    .node circle {
+        fill: #999;
+    }
+
+    .node text {
+        font: 10px sans-serif;
+    }
+
+    .node--internal circle {
+        fill: #555;
+    }
+
+    .node--internal text {
+        text-shadow: 0 1px 0 #fff, 0 -1px 0 #fff, 1px 0 0 #fff, -1px 0 0 #fff;
+    }
+
+    .link {
+        fill: none;
+        stroke: #555;
+        stroke-opacity: 0.4;
+        stroke-width: 1.5px;
+    }
+
+</style>
+
+Zoom: <span id="zoomValue">1</span>
+<div id="svgContainer"></div>
+
+<script src="{{ url_for('static', filename='libs/d3.v4.min.js') }}"></script>
+
+<script>
+const experiment_id = '{{ experiment._id }}';
+const word = '{{ word }}';
+</script>
+<script src="{{ url_for('static', filename='dendrogram.js') }}"></script>
+
+
+
+
+
+

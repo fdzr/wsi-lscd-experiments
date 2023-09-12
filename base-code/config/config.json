@@ -1,0 +1,42 @@
+{
+    "spectral_clustering": {
+        "create_and_save_csv": [
+            "spearman_r1_silhouette",
+            "spearman_r2_silhouette",
+            "spearman_r3_silhouette",
+            "spearman_r4_silhouette",
+            "spearman_r5_silhouette",
+            "spearman_r1_calinski",
+            "spearman_r2_calinski",
+            "spearman_r3_calinski",
+            "spearman_r4_calinski",
+            "spearman_r5_calinski",
+            "spearman_r1_eigengap",
+            "spearman_r2_eigengap",
+            "spearman_r3_eigengap",
+            "spearman_r4_eigengap",
+            "spearman_r5_eigengap"
+        ],
+        "save_analysis_freq_clusters": [
+            "jsd_silhouette",
+            "jsd_calinski",
+            "jsd_eigengap",
+            "freq_clusters_1_silhouette",
+            "freq_clusters_2_silhouette",
+            "freq_clusters_1_calinski",
+            "freq_clusters_2_calinski",
+            "freq_clusters_1_eigengap",
+            "freq_clusters_2_eigengap",
+            "parameters"
+        ]
+    },
+    "non-spectral_clustering": {
+        "create_and_save_csv": [
+            "spearman_r1",
+            "spearman_r2",
+            "spearman_r3",
+            "spearman_r4",
+            "spearman_r5"
+        ]
+    }
+}

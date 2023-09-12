@@ -1,0 +1,18 @@
+defaults:
+  - _self_
+  - model_vec: glm # glm, bow my_vec
+
+evaluator:
+  input_path: ../../../../../datasets/russe_bts-rnc/ru/train.tsv
+  output_path: ../../../../results
+  preload: #../../../../vectors/bts-rnc_train_glm.npy
+  save_embeds:
+  eval_type: anachronical
+  dist_func: euclidean
+  threshold: 1.0
+  visualize: True
+  window: subword
+  norm: False
+  use_decision: True
+  min_precision: 0.1
+

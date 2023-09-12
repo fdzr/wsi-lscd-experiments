@@ -1,0 +1,1 @@
+defaultdict(<class 'float'>, {'eval_total_loss': 0.7261236556609812, 'accuracy.russe_bts-rnc.губа.score': 0.11957921854873337, 'accuracy.russe_bts-rnc.nen-nen.score': 0.11957921854873337})

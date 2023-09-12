@@ -1,0 +1,72 @@
+<script>
+    const updateTask = () => {
+        let selectedTask = document.getElementById('task_select').value
+        let taskElement = document.getElementById('task')
+
+        document.querySelectorAll('[id^="form-"]').forEach((elem) => {
+            elem.style.display = 'none'
+        })
+        taskElement.setAttribute('value', selectedTask)
+
+        document.getElementById('form-' + selectedTask).style.display = 'block'
+    }
+</script>
+<div class="dataset-upload-container">
+
+    <select id="task_select" onclick="updateTask()" class="mdl-select-workaround">
+        <option value="{{ TASK_SUBST_WSI }}">{{ TASK_SUBST_WSI }}</option>
+    </select>
+    <br /><br />
+    <form enctype="multipart/form-data" id="form-{{ TASK_SUBST_WSI }}" method="POST" action="{{ url_for('dataset_post') }}">
+        <input type="hidden" id="task" value="{{ TASK_SUBST_WSI }}" name="task">
+
+        <p>
+
+            <input name="new_dataset_id" type="text" class="mdl-textfield__input" id="new_dataset_id"
+                   placeholder="dataset id (string identifier)"/>
+        </p>
+
+        <p>
+            <input type="file" name="corpus1" id="corpus1" /><br />
+            <input name="corpus1_input_filename" type="text" class="mdl-textfield__input" id="corpus1_input_filename"
+                   placeholder="input filename"/>
+            <input type="text" name="corpus1_name" id="corpus1_name" class="mdl-textfield__input" placeholder="first corpus name"  /><br />
+        </p>
+        <p>
+            <input type="file" name="corpus2" id="corpus2" /><br />
+            <input name="corpus2_input_filename" type="text" class="mdl-textfield__input" id="corpus2_input_filename"
+                   placeholder="input filename"/>
+            <input type="text" name="corpus2_name" id="corpus2_name" class="mdl-textfield__input" placeholder="second corpus name"  /><br />
+        </p>
+        <input style="width:auto!important" class="run-button mdl-button mdl-js-button mdl-button--accent" type="submit" value="Upload dataset"/>
+    </form>
+</div>
+<div class="datasets-list">
+    The dataset file should a zip archive containing actual dataset and related files like precomputed substitutes.
+    <br /><br />
+    After uploading archive(s), they will be extracted into dedicated directories and the load_substs function will be called with
+the specified file name and the full path to the extracted directory as input.
+<br /><br />
+    File name serves as a description of format of the dataset, according to `substwsi.substs_loading.load_substs`
+<br /><br />
+    {% if dataset|length > 0 %}
+    <table class="mdl-data-table mdl-js-data-table mdl-shadow--0dp dataset-table">
+        <thead>
+        <tr>
+            <th class="center mdl-data-table__cell--non-numeric">ID</th>
+            <th class="center mdl-data-table__cell--non-numeric">Task</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for dataset in datasets %}
+            <tr>
+                <td class="center mdl-data-table__cell--non-numeric">{{ dataset._id }}</td>
+
+                <td class="center">{{ dataset.task }}</td>
+
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+    {% endif %}
+</div>

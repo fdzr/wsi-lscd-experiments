@@ -1,0 +1,4 @@
+app/data/datafiles/*
+app/data/db/*
+app/data/tmp/data_loading/*
+app/data/tmp/*.*

@@ -1,0 +1,1 @@
+defaultdict(<class 'float'>, {'eval_total_loss': 0.7283483291815915, 'accuracy.dev.Unentschlossenheit.score': 0.020546163849154746, 'accuracy.dev.nen-nen.score': 0.020546163849154746})

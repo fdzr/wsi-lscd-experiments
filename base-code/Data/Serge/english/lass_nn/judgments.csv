@@ -1,0 +1,795 @@
+identifier1	identifier2	annotator	judgment	comment	lemma	round
+fic_1843_8764.txt-2502-60	fic_1999_44468.txt-104-7	annotator2	4.0	 	lass_nn	3
+fic_1989_13956.txt-513-4	fic_1985_10727.txt-2751-2	annotator2	4.0	 	lass_nn	3
+mag_1995_415117.txt-3-23	news_1972_730482.txt-1-7	annotator2	1.0	 	lass_nn	3
+mag_1980_431982.txt-155-14	fic_2006_29620.txt-90-43	annotator2	4.0	 	lass_nn	3
+fic_1998_43328.txt-596-9	fic_1998_43328.txt-510-23	annotator2	4.0	 	lass_nn	3
+fic_1846_8819.txt-1886-16	fic_1998_43328.txt-596-9	annotator2	1.0	 	lass_nn	3
+fic_1824_8753.txt-829-11	fic_1998_43328.txt-581-6	annotator6	1.0	 	lass_nn	3
+fic_1993_1040075.txt-3226-4	fic_2005_50424.txt-0-36	annotator6	4.0	 	lass_nn	3
+fic_1815_8613.txt-100-9	fic_1849_7333.txt-432-11	annotator6	4.0	 	lass_nn	3
+fic_1834_7032.txt-2020-45	nf_1854_755030.txt-3112-24	annotator6	4.0	 	lass_nn	3
+fic_1823_7213.txt-551-14	fic_1859_9220.txt-669-14	annotator6	4.0	 	lass_nn	3
+fic_1849_7230.txt-2481-6	news_2006_623988.txt-62-17	annotator6	1.0	 	lass_nn	3
+fic_1824_8753.txt-829-11	fic_1994_53932.txt-676-20	annotator5	4.0	 	lass_nn	3
+nf_1998_773548.txt-664-1	fic_1823_7213.txt-1671-48	annotator5	4.0	 	lass_nn	3
+fic_1998_43328.txt-596-9	fic_1998_43328.txt-535-10	annotator5	4.0	 	lass_nn	3
+mag_1980_431982.txt-155-14	fic_2006_29620.txt-90-43	annotator5	4.0	 	lass_nn	3
+fic_2001_14559.txt-594-15	fic_1818_8861.txt-495-8	annotator0	4.0	 	lass_nn	3
+fic_1834_7032.txt-2020-45	nf_1854_755030.txt-3112-24	annotator0	4.0	 	lass_nn	3
+fic_1824_7211.txt-1161-4	fic_1860_8725.txt-8-2	annotator0	4.0	 	lass_nn	3
+fic_2004_32368.txt-134-15	mag_1964_208036.txt-1-10	annotator0	4.0	 	lass_nn	3
+fic_1985_10727.txt-2751-2	fic_1847_7149.txt-2014-29	annotator0	4.0	 	lass_nn	3
+fic_1847_9120.txt-24-3	fic_1849_583.txt-2574-50	annotator0	4.0	 	lass_nn	3
+mag_1987_494263.txt-44-14	fic_1838_7086.txt-2825-11	annotator2	4.0	 	lass_nn	2
+fic_1847_7149.txt-2014-29	fic_1837_7395.txt-1589-33	annotator2	4.0	 	lass_nn	2
+fic_1854_8328.txt-5343-12	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	2
+fic_1846_8819.txt-1886-16	fic_1981_10675.txt-2101-6	annotator2	4.0	 	lass_nn	2
+fic_1974_780164.txt-1015-9	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1844_7114.txt-736-14	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1974_10593.txt-3510-10	fic_1843_7208.txt-10532-32	annotator2	1.0	 	lass_nn	2
+mag_2001_417106.txt-821-5	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_2001_28777.txt-76-20	nf_1854_755030.txt-3112-24	annotator2	4.0	 	lass_nn	2
+news_2001_661933.txt-36-0	fic_1843_7208.txt-10532-32	annotator2	1.0	 	lass_nn	2
+fic_1818_7631.txt-309-6	fic_1843_7208.txt-10532-32	annotator2	4.0	 	lass_nn	2
+fic_1848_7107.txt-864-13	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_2006_27510.txt-18-4	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1999_44468.txt-90-4	fic_1999_30509.txt-368-9	annotator2	4.0	 	lass_nn	2
+fic_2006_26882.txt-27-9	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1824_7211.txt-1178-21	fic_1999_30509.txt-368-9	annotator2	4.0	 	lass_nn	2
+news_2001_661933.txt-36-0	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+news_1972_730482.txt-1-7	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_2008_36218.txt-33-18	fic_1980_10663.txt-1172-33	annotator2	4.0	 	lass_nn	2
+fic_1973_10576.txt-2136-2	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	2
+mag_2001_426201.txt-48-2	nf_1854_755030.txt-3112-24	annotator2	0.0	 	lass_nn	2
+fic_1974_780164.txt-382-3	fic_1854_9826.txt-1896-19	annotator2	4.0	 	lass_nn	2
+fic_1859_9220.txt-669-14	fic_1824_7211.txt-2276-17	annotator2	4.0	 	lass_nn	2
+fic_1847_7149.txt-48-54	fic_1999_30509.txt-368-9	annotator2	4.0	 	lass_nn	2
+fic_1835_7334.txt-1114-91	fic_1981_10675.txt-2101-6	annotator2	4.0	 	lass_nn	2
+fic_1846_8819.txt-1886-16	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	2
+fic_1999_44468.txt-90-4	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	2
+fic_1823_7213.txt-551-14	fic_1981_10675.txt-2101-6	annotator2	4.0	 	lass_nn	2
+fic_1832_7177.txt-3501-37	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+nf_1984_774242.txt-1326-11	nf_1854_755030.txt-3112-24	annotator2	4.0	 	lass_nn	2
+fic_1985_10727.txt-2745-6	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1838_7085.txt-2447-18	nf_1854_755030.txt-3112-24	annotator2	4.0	 	lass_nn	2
+fic_1834_7032.txt-2020-45	fic_1980_10663.txt-1172-33	annotator2	4.0	 	lass_nn	2
+fic_1854_7839.txt-1700-3	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+nf_1852_752548.txt-2830-27	fic_1999_30509.txt-368-9	annotator2	4.0	 	lass_nn	2
+fic_2004_32497.txt-94-6	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	2
+mag_1966_488145.txt-89-11	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_2002_31369.txt-22-12	fic_1981_10675.txt-2101-6	annotator2	4.0	 	lass_nn	2
+mag_1964_208036.txt-1-10	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1993_1040075.txt-3386-3	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	2
+fic_1853_9158.txt-109-11	news_1974_731687.txt-9-3	annotator2	4.0	 	lass_nn	2
+fic_1977_10628.txt-4037-4	fic_1981_10675.txt-2101-6	annotator2	4.0	 	lass_nn	2
+fic_1815_8717.txt-1117-15	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	2
+fic_2006_29620.txt-90-43	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	2
+fic_1838_7086.txt-2825-11	fic_1824_7211.txt-2276-17	annotator2	4.0	 	lass_nn	2
+fic_1837_7395.txt-2970-13	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	2
+fic_1977_10628.txt-4037-4	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1999_45249.txt-99-2	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_2005_50424.txt-0-36	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1995_39386.txt-190-9	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1823_7213.txt-1732-5	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1999_30509.txt-381-5	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	2
+mag_1988_487706.txt-108-9	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	2
+fic_1971_10541.txt-2230-30	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1854_2820.txt-5129-20	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	2
+fic_1823_7213.txt-1671-48	fic_1849_583.txt-2574-50	annotator2	4.0	 	lass_nn	2
+fic_1997_28876.txt-24-17	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+mag_1834_564618.txt-134-9	fic_1981_10675.txt-2101-6	annotator2	4.0	 	lass_nn	2
+fic_1971_10537.txt-9882-7	fic_1837_7395.txt-1589-33	annotator2	4.0	 	lass_nn	2
+fic_1849_5295.txt-500-60	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	2
+mag_1971_479219.txt-250-0	fic_1824_7211.txt-2276-17	annotator2	1.0	 	lass_nn	2
+fic_1823_7213.txt-3644-16	fic_1824_7211.txt-2276-17	annotator2	4.0	 	lass_nn	2
+fic_1815_8719.txt-718-15	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1846_544.txt-2641-14	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1815_8717.txt-1117-15	fic_2004_13808.txt-742-11	annotator2	4.0	 	lass_nn	2
+fic_1824_7211.txt-1090-18	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_2006_27510.txt-18-4	nf_1854_755030.txt-3112-24	annotator2	4.0	 	lass_nn	2
+fic_2001_14559.txt-594-15	fic_1824_7211.txt-2276-17	annotator2	4.0	 	lass_nn	2
+news_1966_725564.txt-42-13	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1829_7072.txt-2468-38	fic_1849_583.txt-2574-50	annotator2	4.0	 	lass_nn	2
+mag_1982_325004.txt-19-4	news_1974_731687.txt-9-3	annotator2	4.0	 	lass_nn	2
+fic_2009_36692.txt-135-11	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1998_43328.txt-535-10	fic_1824_7211.txt-2276-17	annotator2	1.0	 	lass_nn	2
+mag_2001_417106.txt-821-5	fic_1843_7208.txt-10532-32	annotator2	4.0	 	lass_nn	2
+fic_1965_780078.txt-2158-5	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	2
+fic_2007_34090.txt-89-5	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1980_10664.txt-5887-9	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	2
+fic_1860_9791.txt-1410-4	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	2
+fic_1849_583.txt-4636-79	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	2
+fic_1847_8919.txt-686-4	fic_1843_7208.txt-10532-32	annotator2	4.0	 	lass_nn	2
+fic_1823_7213.txt-1732-5	fic_1824_7211.txt-2276-17	annotator2	4.0	 	lass_nn	2
+fic_1971_10537.txt-9882-7	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1974_780164.txt-1256-32	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	2
+fic_1989_13956.txt-513-4	fic_1824_7211.txt-2276-17	annotator2	4.0	 	lass_nn	2
+mag_1859_506372.txt-189-19	fic_1980_10663.txt-1172-33	annotator2	4.0	 	lass_nn	2
+fic_1823_9628.txt-498-19	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1999_44468.txt-104-7	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1847_7149.txt-2762-9	news_1974_731687.txt-9-3	annotator2	4.0	 	lass_nn	2
+fic_1999_30509.txt-376-11	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	2
+fic_2009_36846.txt-47-6	fic_1993_1040075.txt-3226-4	annotator2	4.0	 	lass_nn	2
+fic_1989_13956.txt-513-4	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1854_2820.txt-5129-20	fic_1837_7395.txt-1589-33	annotator2	4.0	 	lass_nn	2
+fic_1986_10746.txt-660-9	fic_1849_583.txt-2574-50	annotator2	4.0	 	lass_nn	2
+fic_2001_28777.txt-76-20	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	2
+fic_1972_10557.txt-2747-5	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1849_5295.txt-500-60	fic_1999_30509.txt-368-9	annotator2	4.0	 	lass_nn	2
+fic_1835_7334.txt-1483-49	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	2
+fic_1980_10664.txt-5887-9	fic_1999_30509.txt-368-9	annotator2	4.0	 	lass_nn	2
+fic_2004_29590.txt-16-19	fic_1993_1040075.txt-3226-4	annotator2	4.0	 	lass_nn	2
+news_1966_725564.txt-42-13	fic_2004_13808.txt-742-11	annotator2	1.0	 	lass_nn	2
+fic_2000_32016.txt-389-3	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	2
+fic_1824_7211.txt-1090-18	fic_2004_13808.txt-742-11	annotator2	4.0	 	lass_nn	2
+fic_1993_1040075.txt-3226-4	fic_1824_7211.txt-1178-21	annotator2	4.0	 	lass_nn	2
+fic_1849_5168.txt-2217-20	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1834_7032.txt-2020-45	fic_2004_29590.txt-147-20	annotator2	4.0	 	lass_nn	2
+fic_1971_10541.txt-2230-30	nf_1854_755030.txt-3112-24	annotator2	4.0	 	lass_nn	2
+fic_1994_54062.txt-430-22	fic_1980_10663.txt-1172-33	annotator2	4.0	 	lass_nn	2
+fic_1847_9120.txt-24-3	fic_1849_583.txt-2574-50	annotator2	1.0	 	lass_nn	2
+fic_1844_7081.txt-543-12	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1994_53932.txt-676-20	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	2
+news_1985_668689.txt-13-13	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+mag_1982_325004.txt-19-4	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1857_8225.txt-230-6	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1815_8717.txt-3597-2	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1999_30509.txt-376-11	fic_1837_7395.txt-1589-33	annotator2	4.0	 	lass_nn	2
+fic_1999_30509.txt-381-5	fic_1854_9826.txt-1896-19	annotator2	4.0	 	lass_nn	2
+fic_1834_7032.txt-2020-45	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1824_8753.txt-828-7	fic_1999_30509.txt-368-9	annotator2	4.0	 	lass_nn	2
+mag_1834_564618.txt-134-9	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1848_7193.txt-13264-28	nf_1854_755030.txt-3112-24	annotator2	4.0	 	lass_nn	2
+nf_1984_774242.txt-1326-11	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+mag_1846_565490.txt-312-31	fic_1843_7208.txt-10532-32	annotator2	4.0	 	lass_nn	2
+nf_1824_747448.txt-1941-90	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	2
+fic_1846_544.txt-333-4	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	2
+fic_1997_28876.txt-24-17	fic_1993_1040075.txt-3226-4	annotator2	4.0	 	lass_nn	2
+mag_1987_494263.txt-44-14	fic_1824_7211.txt-2276-17	annotator2	4.0	 	lass_nn	2
+fic_2005_32787.txt-402-4	news_1974_731687.txt-9-3	annotator2	4.0	 	lass_nn	2
+nf_1832_758144.txt-421-17	fic_1824_7211.txt-2276-17	annotator2	4.0	 	lass_nn	2
+fic_1998_43328.txt-510-23	nf_1854_755030.txt-3112-24	annotator2	1.0	 	lass_nn	2
+fic_1824_7211.txt-752-15	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1986_10746.txt-1657-2	fic_1824_7211.txt-2276-17	annotator2	4.0	 	lass_nn	2
+fic_2006_26899.txt-32-22	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_2008_36218.txt-33-18	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1974_780164.txt-3162-16	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1998_43328.txt-596-9	fic_1998_43328.txt-581-6	annotator2	4.0	 	lass_nn	2
+fic_1974_780164.txt-1015-9	fic_1980_10663.txt-1172-33	annotator2	4.0	 	lass_nn	2
+fic_1987_780087.txt-248-19	fic_1993_1040075.txt-3226-4	annotator2	4.0	 	lass_nn	2
+mag_1967_274916.txt-5-15	fic_1981_10675.txt-2101-6	annotator2	4.0	 	lass_nn	2
+fic_1998_43328.txt-510-23	fic_1998_43328.txt-581-6	annotator2	4.0	 	lass_nn	2
+mag_1980_431982.txt-155-14	news_1974_731687.txt-9-3	annotator2	4.0	 	lass_nn	2
+fic_2004_30097.txt-143-3	fic_1843_7208.txt-10532-32	annotator2	4.0	 	lass_nn	2
+fic_2006_29620.txt-90-43	fic_1849_583.txt-2574-50	annotator2	4.0	 	lass_nn	2
+fic_1849_583.txt-4641-7	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	2
+fic_1832_7177.txt-3501-37	fic_1837_7395.txt-1589-33	annotator2	4.0	 	lass_nn	2
+fic_1849_583.txt-4636-79	fic_2004_13808.txt-742-11	annotator2	4.0	 	lass_nn	2
+news_1976_732547.txt-14-10	fic_1993_1040075.txt-3226-4	annotator2	1.0	 	lass_nn	2
+fic_1829_7072.txt-2505-39	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	2
+fic_2005_32787.txt-347-9	news_1974_731687.txt-9-3	annotator2	4.0	 	lass_nn	2
+fic_1987_782033.txt-1026-16	fic_1824_7211.txt-2276-17	annotator2	4.0	 	lass_nn	2
+fic_1823_7213.txt-3644-16	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+mag_1971_479219.txt-250-0	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	2
+fic_1838_7085.txt-574-8	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	2
+fic_1815_8613.txt-100-9	fic_1993_1040075.txt-3226-4	annotator2	4.0	 	lass_nn	2
+mag_1832_564115.txt-87-35	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1815_8719.txt-718-15	fic_1993_1040075.txt-3226-4	annotator2	4.0	 	lass_nn	2
+fic_1849_7230.txt-2481-6	fic_1854_9826.txt-1896-19	annotator2	4.0	 	lass_nn	2
+fic_1818_8861.txt-495-8	fic_1849_583.txt-2574-50	annotator2	4.0	 	lass_nn	2
+news_1976_732547.txt-14-10	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1832_8862.txt-1103-4	fic_1993_1040075.txt-3226-4	annotator2	4.0	 	lass_nn	2
+fic_1987_782033.txt-1026-16	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1995_39439.txt-273-15	news_1974_731687.txt-9-3	annotator2	4.0	 	lass_nn	2
+nf_1998_773548.txt-664-1	fic_1824_7211.txt-2276-17	annotator2	4.0	 	lass_nn	2
+news_1985_668689.txt-13-13	fic_1993_1040075.txt-3226-4	annotator2	4.0	 	lass_nn	2
+fic_1847_7149.txt-48-54	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	2
+fic_1844_7081.txt-543-12	fic_1837_7395.txt-1589-33	annotator2	4.0	 	lass_nn	2
+fic_1843_7116.txt-477-15	nf_1854_755030.txt-3112-24	annotator2	4.0	 	lass_nn	2
+mag_1833_554219.txt-312-26	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	2
+fic_2006_26899.txt-32-22	fic_1980_10663.txt-1172-33	annotator2	4.0	 	lass_nn	2
+nf_1998_773548.txt-664-1	fic_1998_43328.txt-581-6	annotator5	0.0	not the same root	lass_nn	2
+fic_1823_9628.txt-498-19	fic_1837_7395.txt-1589-33	annotator5	4.0	 	lass_nn	2
+fic_1846_4464.txt-1316-28	fic_1981_10675.txt-2101-6	annotator5	4.0	 	lass_nn	2
+fic_1859_9220.txt-669-14	fic_1824_7211.txt-2276-17	annotator5	4.0	 	lass_nn	2
+mag_1964_208036.txt-1-10	fic_1824_7211.txt-2276-17	annotator5	4.0	 	lass_nn	2
+fic_1986_10746.txt-2263-27	nf_1854_755030.txt-3112-24	annotator5	3.0	 	lass_nn	2
+fic_1854_2820.txt-5129-20	fic_1835_7272.txt-1843-27	annotator5	0.0	uncertain context, sentence 2	lass_nn	2
+fic_1846_4464.txt-1316-28	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_2004_29590.txt-16-19	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_1847_7149.txt-48-54	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_2005_32787.txt-347-9	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_1987_780087.txt-248-19	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_2009_36692.txt-135-11	fic_2004_13808.txt-742-11	annotator5	4.0	 	lass_nn	2
+fic_1847_7149.txt-2762-9	news_1974_731687.txt-9-3	annotator5	3.0	 	lass_nn	2
+fic_1981_10674.txt-5687-12	fic_1837_7395.txt-1589-33	annotator5	0.0	not the same root	lass_nn	2
+fic_2003_29566.txt-57-25	fic_1854_9826.txt-1896-19	annotator5	3.0	 	lass_nn	2
+fic_1835_7272.txt-1843-27	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_1829_7072.txt-2505-39	fic_1998_43328.txt-581-6	annotator5	0.0	not the same root	lass_nn	2
+fic_1985_10727.txt-2751-2	fic_2004_13808.txt-742-11	annotator5	4.0	 	lass_nn	2
+mag_1967_492341.txt-284-23	fic_1843_7208.txt-10532-32	annotator5	2.0	 	lass_nn	2
+fic_2009_36692.txt-135-11	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+nf_1852_752548.txt-2830-27	fic_1999_30509.txt-368-9	annotator5	4.0	 	lass_nn	2
+fic_1848_7193.txt-13264-28	fic_1998_43328.txt-581-6	annotator5	0.0	not the same root	lass_nn	2
+fic_1835_7272.txt-1859-68	fic_1993_1040075.txt-3226-4	annotator5	4.0	 	lass_nn	2
+fic_1853_3465.txt-2755-5	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_1834_7032.txt-2020-45	fic_2004_29590.txt-147-20	annotator5	4.0	 	lass_nn	2
+mag_1833_554219.txt-312-26	fic_1824_7211.txt-2276-17	annotator5	4.0	 	lass_nn	2
+fic_1849_7333.txt-432-11	fic_1998_43328.txt-581-6	annotator5	0.0	not the same root	lass_nn	2
+nf_1859_749190.txt-1021-9	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_1847_8919.txt-686-4	fic_1843_7208.txt-10532-32	annotator5	3.0	 	lass_nn	2
+mag_1971_479219.txt-250-0	fic_1998_43328.txt-581-6	annotator5	0.0	not the same root	lass_nn	2
+fic_1854_3384.txt-4392-16	fic_1980_10663.txt-1172-33	annotator5	4.0	 	lass_nn	2
+fic_1838_7085.txt-2447-18	nf_1854_755030.txt-3112-24	annotator5	3.0	 	lass_nn	2
+fic_1846_8819.txt-1886-16	fic_1998_43328.txt-581-6	annotator5	0.0	not the same root	lass_nn	2
+fic_2007_34090.txt-14-2	fic_1837_7395.txt-1589-33	annotator5	3.0	 	lass_nn	2
+fic_1971_10541.txt-2230-30	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_1972_780109.txt-2279-2	fic_1998_43328.txt-581-6	annotator5	0.0	not the same root	lass_nn	2
+fic_1848_7107.txt-864-13	fic_1824_7211.txt-2276-17	annotator5	4.0	 	lass_nn	2
+fic_2007_34090.txt-14-2	fic_1998_43328.txt-581-6	annotator5	0.0	not the same root	lass_nn	2
+mag_1967_492341.txt-284-23	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_1999_44468.txt-98-8	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+mag_1851_555722.txt-216-7	fic_1843_7208.txt-10532-32	annotator5	3.0	 	lass_nn	2
+fic_1853_9158.txt-109-11	news_1974_731687.txt-9-3	annotator5	4.0	 	lass_nn	2
+mag_1851_555722.txt-216-7	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_1860_9791.txt-1180-27	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_1986_10746.txt-2263-27	fic_1998_43328.txt-581-6	annotator5	0.0	not the same root	lass_nn	2
+fic_2003_29566.txt-57-25	fic_1998_43328.txt-581-6	annotator5	0.0	not the same root	lass_nn	2
+fic_1981_10674.txt-5687-12	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_2000_32016.txt-389-3	fic_1998_43328.txt-581-6	annotator5	0.0	not the same root	lass_nn	2
+fic_1844_7081.txt-1867-11	fic_1843_7208.txt-10532-32	annotator5	3.0	 	lass_nn	2
+fic_1987_782033.txt-1026-16	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_1854_9826.txt-1896-19	nf_1854_755030.txt-3112-24	annotator5	3.0	 	lass_nn	2
+fic_1860_9791.txt-1410-4	fic_1980_10663.txt-1172-33	annotator5	4.0	 	lass_nn	2
+fic_1843_8764.txt-2502-60	fic_1981_10675.txt-2101-6	annotator5	3.0	 	lass_nn	2
+fic_1974_780164.txt-1256-32	nf_1854_755030.txt-3112-24	annotator5	4.0	 	lass_nn	2
+news_1966_725564.txt-42-13	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_1854_8328.txt-5343-12	fic_1824_7211.txt-2276-17	annotator5	4.0	 	lass_nn	2
+fic_1999_44468.txt-104-7	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+news_2001_661933.txt-35-0	fic_1998_43328.txt-581-6	annotator5	0.0	not the same root	lass_nn	2
+fic_1834_7032.txt-2020-45	fic_1980_10663.txt-1172-33	annotator5	4.0	 	lass_nn	2
+fic_1965_780078.txt-2158-5	fic_1981_10675.txt-2101-6	annotator5	4.0	 	lass_nn	2
+fic_2000_38940.txt-758-38	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_2006_26899.txt-99-7	nf_1854_755030.txt-3112-24	annotator5	4.0	 	lass_nn	2
+fic_1823_7213.txt-551-14	fic_1981_10675.txt-2101-6	annotator5	4.0	 	lass_nn	2
+fic_1850_7171.txt-3943-10	fic_1998_43328.txt-581-6	annotator5	0.0	not the same root	lass_nn	2
+fic_1854_3384.txt-4392-16	fic_1998_43328.txt-581-6	annotator5	0.0	not the same root	lass_nn	2
+nf_1824_747448.txt-1941-90	fic_1998_43328.txt-581-6	annotator5	0.0	not the same root	lass_nn	2
+fic_2001_14559.txt-594-15	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_1854_7839.txt-1700-3	fic_1843_7208.txt-10532-32	annotator5	3.0	 	lass_nn	2
+fic_1849_7333.txt-1254-39	fic_1999_30509.txt-368-9	annotator5	4.0	 	lass_nn	2
+fic_1977_10628.txt-4037-4	fic_1981_10675.txt-2101-6	annotator5	4.0	 	lass_nn	2
+fic_2001_28777.txt-76-20	fic_1998_43328.txt-581-6	annotator5	0.0	not the same root	lass_nn	2
+mag_1987_494263.txt-44-14	fic_1824_7211.txt-2276-17	annotator5	3.0	 	lass_nn	2
+fic_1838_7085.txt-2447-18	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_1989_13956.txt-513-4	fic_1824_7211.txt-2276-17	annotator5	4.0	 	lass_nn	2
+fic_1993_1040075.txt-3386-3	fic_1999_30509.txt-368-9	annotator5	3.0	 	lass_nn	2
+fic_1974_780164.txt-1015-9	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_1824_8753.txt-829-11	fic_1998_43328.txt-581-6	annotator5	0.0	not the same root	lass_nn	2
+fic_1843_7325.txt-795-1	fic_1999_30509.txt-368-9	annotator5	4.0	 	lass_nn	2
+fic_1849_5168.txt-4805-6	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_1815_8717.txt-3597-2	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+news_1972_730482.txt-1-7	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+news_2001_661933.txt-36-0	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_1985_10727.txt-2745-6	fic_1837_7395.txt-1589-33	annotator5	3.0	 	lass_nn	2
+fic_1824_7211.txt-752-15	fic_1849_583.txt-2574-50	annotator5	4.0	 	lass_nn	2
+fic_2004_29590.txt-16-19	fic_1993_1040075.txt-3226-4	annotator5	3.0	 	lass_nn	2
+fic_1823_8520.txt-1516-23	fic_1824_7211.txt-2276-17	annotator5	3.0	 	lass_nn	2
+fic_1835_7272.txt-1843-27	fic_1837_7395.txt-1589-33	annotator5	4.0	 	lass_nn	2
+fic_1854_2820.txt-5129-20	fic_1998_43328.txt-581-6	annotator5	0.0	not the same root	lass_nn	2
+fic_1849_7230.txt-2481-6	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+mag_1832_564115.txt-87-35	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_2009_36846.txt-47-6	fic_1998_43328.txt-581-6	annotator5	0.0	not the same root	lass_nn	2
+fic_1974_780164.txt-1015-9	fic_1980_10663.txt-1172-33	annotator5	3.0	 	lass_nn	2
+fic_1833_7059.txt-1517-33	news_1974_731687.txt-9-3	annotator5	4.0	 	lass_nn	2
+fic_1838_7085.txt-574-8	nf_1854_755030.txt-3112-24	annotator5	3.0	 	lass_nn	2
+fic_1994_53932.txt-676-20	fic_1980_10663.txt-1172-33	annotator5	4.0	 	lass_nn	2
+fic_1986_10746.txt-660-9	fic_1849_583.txt-2574-50	annotator5	4.0	 	lass_nn	2
+fic_1833_7058.txt-1562-15	news_1974_731687.txt-9-3	annotator5	4.0	 	lass_nn	2
+fic_1980_10664.txt-5887-9	fic_1998_43328.txt-581-6	annotator5	0.0	not the same root	lass_nn	2
+fic_2002_28914.txt-4-24	fic_1998_43328.txt-581-6	annotator5	0.0	not the same root	lass_nn	2
+fic_1854_2820.txt-5129-20	fic_1993_1040075.txt-3226-4	annotator5	0.0	not the same root	lass_nn	2
+fic_1987_782033.txt-1026-16	fic_1824_7211.txt-2276-17	annotator5	4.0	 	lass_nn	2
+mag_1966_488145.txt-89-11	fic_1993_1040075.txt-3226-4	annotator5	4.0	 	lass_nn	2
+fic_1844_7114.txt-736-14	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_1823_7213.txt-551-14	fic_1998_43328.txt-581-6	annotator5	0.0	not the same root	lass_nn	2
+mag_2001_417106.txt-821-5	fic_1843_7208.txt-10532-32	annotator5	4.0	 	lass_nn	2
+fic_1832_7177.txt-3501-37	fic_1837_7395.txt-1589-33	annotator5	4.0	 	lass_nn	2
+fic_1824_8753.txt-829-11	fic_1854_9826.txt-1896-19	annotator5	4.0	 	lass_nn	2
+fic_1824_7211.txt-745-21	fic_1998_43328.txt-581-6	annotator5	0.0	not the same root	lass_nn	2
+fic_1974_780164.txt-382-3	fic_1854_9826.txt-1896-19	annotator5	4.0	 	lass_nn	2
+fic_2000_38940.txt-758-38	fic_1980_10663.txt-1172-33	annotator5	4.0	 	lass_nn	2
+fic_1844_7114.txt-736-14	fic_1837_7395.txt-1589-33	annotator5	4.0	 	lass_nn	2
+fic_2004_29590.txt-142-2	fic_1998_43328.txt-581-6	annotator5	0.0	not the same root	lass_nn	2
+fic_1986_10746.txt-660-9	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_1973_10576.txt-2136-2	fic_2004_13808.txt-742-11	annotator5	4.0	 	lass_nn	2
+fic_1974_780164.txt-3162-16	fic_1837_7395.txt-1589-33	annotator5	4.0	 	lass_nn	2
+fic_2007_34090.txt-89-5	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_1972_10557.txt-2747-5	news_1974_731687.txt-9-3	annotator5	4.0	 	lass_nn	2
+fic_1998_43328.txt-510-23	nf_1854_755030.txt-3112-24	annotator5	0.0	not the same root	lass_nn	2
+fic_1850_7171.txt-3943-10	fic_1837_7395.txt-1589-33	annotator5	0.0	not the same root	lass_nn	2
+fic_1849_5295.txt-473-8	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_2004_29590.txt-147-20	fic_1849_583.txt-2574-50	annotator5	4.0	 	lass_nn	2
+fic_2006_26899.txt-99-7	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_1844_7081.txt-543-12	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_2006_27510.txt-18-4	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_1854_9826.txt-1896-19	fic_1981_10675.txt-2101-6	annotator5	4.0	 	lass_nn	2
+fic_2007_34090.txt-89-5	fic_1980_10663.txt-1172-33	annotator5	4.0	 	lass_nn	2
+fic_1999_44468.txt-90-4	fic_1998_43328.txt-581-6	annotator5	0.0	not the same root	lass_nn	2
+fic_1857_8225.txt-230-6	fic_1843_7208.txt-10532-32	annotator5	4.0	 	lass_nn	2
+fic_1815_8613.txt-100-9	fic_1998_43328.txt-581-6	annotator5	0.0	not the same root	lass_nn	2
+nf_1852_752548.txt-2830-27	fic_1998_43328.txt-581-6	annotator5	0.0	not the same root	lass_nn	2
+fic_1849_583.txt-4641-7	fic_1843_7208.txt-10532-32	annotator5	3.0	 	lass_nn	2
+fic_1854_7839.txt-1700-3	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_1843_7116.txt-477-15	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_1846_544.txt-2641-14	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+mag_1987_494263.txt-44-14	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_1999_30509.txt-376-11	fic_1837_7395.txt-1589-33	annotator5	4.0	 	lass_nn	2
+nf_1832_758144.txt-421-17	fic_1824_7211.txt-2276-17	annotator5	4.0	 	lass_nn	2
+fic_1994_54062.txt-430-22	news_2006_623988.txt-62-17	annotator5	0.0	not the same root	lass_nn	2
+fic_1857_2618.txt-4212-39	fic_1993_1040075.txt-3226-4	annotator5	4.0	 	lass_nn	2
+mag_1971_479219.txt-250-0	fic_1824_7211.txt-2276-17	annotator5	4.0	 	lass_nn	2
+fic_1823_7213.txt-1671-48	fic_1849_583.txt-2574-50	annotator5	4.0	 	lass_nn	2
+mag_2001_417106.txt-800-8	news_2006_623988.txt-62-17	annotator5	0.0	not same root	lass_nn	2
+fic_1824_8753.txt-828-7	fic_1999_30509.txt-368-9	annotator5	4.0	 	lass_nn	2
+fic_2005_50424.txt-0-36	fic_1993_1040075.txt-3226-4	annotator5	4.0	 	lass_nn	2
+fic_1832_8862.txt-1103-4	fic_1993_1040075.txt-3226-4	annotator5	4.0	 	lass_nn	2
+fic_1815_8717.txt-3597-2	fic_1993_1040075.txt-3226-4	annotator5	4.0	 	lass_nn	2
+fic_1849_583.txt-4641-7	fic_1998_43328.txt-581-6	annotator5	0.0	not same root	lass_nn	2
+fic_1974_780164.txt-382-3	news_2006_623988.txt-62-17	annotator5	0.0	not same root	lass_nn	2
+fic_1857_8225.txt-230-6	news_2006_623988.txt-62-17	annotator5	0.0	not same root	lass_nn	2
+fic_1832_8862.txt-1103-4	fic_1998_43328.txt-581-6	annotator5	0.0	not same root	lass_nn	2
+fic_1849_7333.txt-1254-39	fic_1998_43328.txt-581-6	annotator5	0.0	not same root	lass_nn	2
+fic_1860_9791.txt-1180-27	fic_1837_7395.txt-1589-33	annotator5	4.0	 	lass_nn	2
+fic_2006_29620.txt-90-43	fic_1849_583.txt-2574-50	annotator5	4.0	 	lass_nn	2
+fic_1824_7211.txt-2316-18	fic_1998_43328.txt-581-6	annotator5	0.0	not same root	lass_nn	2
+fic_1997_28876.txt-24-17	news_2006_623988.txt-62-17	annotator5	0.0	not same root	lass_nn	2
+fic_1823_7213.txt-3644-16	news_2006_623988.txt-62-17	annotator5	0.0	not same root	lass_nn	2
+fic_1974_780164.txt-1989-3	news_1974_731687.txt-9-3	annotator5	4.0	 	lass_nn	2
+fic_1818_8860.txt-1186-12	fic_1993_1040075.txt-3226-4	annotator5	4.0	 	lass_nn	2
+fic_1860_8725.txt-8-2	fic_1998_43328.txt-581-6	annotator5	0.0	not same root	lass_nn	2
+fic_1815_8719.txt-718-15	news_2006_623988.txt-62-17	annotator5	0.0	not same root	lass_nn	2
+fic_1860_8725.txt-8-2	fic_1999_30509.txt-368-9	annotator5	4.0	 	lass_nn	2
+fic_1849_5295.txt-473-8	fic_1843_7208.txt-10532-32	annotator5	3.0	 	lass_nn	2
+news_1985_668689.txt-13-13	news_2006_623988.txt-62-17	annotator5	0.0	not same root	lass_nn	2
+news_1985_669432.txt-5-23	fic_1998_43328.txt-581-6	annotator5	0.0	not same root	lass_nn	2
+fic_2006_26899.txt-32-22	news_2006_623988.txt-62-17	annotator5	0.0	not same root	lass_nn	2
+fic_1818_8860.txt-1186-12	fic_1998_43328.txt-581-6	annotator5	0.0	not same root	lass_nn	2
+fic_1998_43328.txt-596-9	fic_1998_43328.txt-581-6	annotator5	0.0	same word, but not target root	lass_nn	2
+fic_2009_36846.txt-47-6	fic_1993_1040075.txt-3226-4	annotator5	4.0	 	lass_nn	2
+fic_1818_8861.txt-495-8	news_2006_623988.txt-62-17	annotator5	0.0	not same root	lass_nn	2
+fic_1860_9791.txt-1180-27	fic_1837_7395.txt-1589-33	annotator4	4.0	 	lass_nn	2
+fic_2009_36692.txt-135-11	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_1849_5168.txt-2217-20	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_1981_10674.txt-5687-12	fic_1837_7395.txt-1589-33	annotator4	0.0	 	lass_nn	2
+fic_1824_7211.txt-2316-18	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_1849_7230.txt-2481-6	fic_1854_9826.txt-1896-19	annotator4	4.0	 	lass_nn	2
+fic_1999_45249.txt-99-2	fic_1849_583.txt-2574-50	annotator4	4.0	 	lass_nn	2
+fic_1840_7164.txt-1181-13	fic_2004_13808.txt-742-11	annotator4	3.0	quadroon lass is a specific type of lass (¼ African American) vs any lass	lass_nn	2
+fic_1846_8819.txt-1886-16	fic_1981_10675.txt-2101-6	annotator4	4.0	 	lass_nn	2
+fic_1860_8725.txt-8-2	fic_1999_30509.txt-368-9	annotator4	4.0	 	lass_nn	2
+fic_2004_29590.txt-142-2	nf_1854_755030.txt-3112-24	annotator4	4.0	 	lass_nn	2
+fic_1840_7164.txt-1181-13	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_1857_8225.txt-230-6	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_1854_9826.txt-1896-19	nf_1854_755030.txt-3112-24	annotator4	4.0	 	lass_nn	2
+fic_2000_32016.txt-389-3	fic_1981_10675.txt-2101-6	annotator4	4.0	 	lass_nn	2
+news_1972_730482.txt-1-7	fic_1993_1040075.txt-3226-4	annotator4	1.0	 	lass_nn	2
+fic_1818_7631.txt-309-6	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_1995_39439.txt-273-15	fic_1998_43328.txt-581-6	annotator4	0.0	 	lass_nn	2
+fic_2005_50424.txt-0-36	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_1860_9791.txt-1410-4	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_1833_7059.txt-1517-33	news_1974_731687.txt-9-3	annotator4	4.0	 	lass_nn	2
+fic_1837_7395.txt-3207-35	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_1972_780109.txt-2279-2	fic_1980_10663.txt-1172-33	annotator4	4.0	 	lass_nn	2
+mag_1833_554219.txt-312-26	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+nf_1998_773548.txt-664-1	fic_1824_7211.txt-2276-17	annotator4	4.0	 	lass_nn	2
+mag_1846_565490.txt-312-31	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_1838_7086.txt-2825-11	fic_1824_7211.txt-2276-17	annotator4	4.0	 	lass_nn	2
+nf_1998_773548.txt-664-1	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_1832_7177.txt-3501-37	fic_1837_7395.txt-1589-33	annotator4	4.0	 	lass_nn	2
+fic_1838_7085.txt-2447-18	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_1835_7272.txt-1843-27	fic_1837_7395.txt-1589-33	annotator4	4.0	 	lass_nn	2
+nf_1999_773549.txt-625-21	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_1847_8919.txt-686-4	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_1844_7114.txt-736-14	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_1860_9791.txt-1410-4	fic_1980_10663.txt-1172-33	annotator4	4.0	 	lass_nn	2
+fic_1824_8753.txt-829-11	fic_1854_9826.txt-1896-19	annotator4	4.0	 	lass_nn	2
+mag_1988_487706.txt-108-9	fic_1837_7395.txt-1589-33	annotator4	4.0	 	lass_nn	2
+fic_1854_7839.txt-1700-3	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_1849_7230.txt-2481-6	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_1981_10674.txt-5687-12	fic_1999_30509.txt-368-9	annotator4	0.0	 	lass_nn	2
+fic_1849_7230.txt-2481-6	fic_1847_7149.txt-2762-9	annotator4	4.0	 	lass_nn	2
+fic_2005_31478.txt-87-12	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_2006_26899.txt-99-7	nf_1854_755030.txt-3112-24	annotator4	4.0	 	lass_nn	2
+fic_1995_39386.txt-190-9	news_1974_731687.txt-9-3	annotator4	4.0	 	lass_nn	2
+fic_1971_10541.txt-2230-30	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_1986_10746.txt-660-9	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_1993_1040075.txt-3386-3	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_1843_7116.txt-477-15	nf_1854_755030.txt-3112-24	annotator4	4.0	 	lass_nn	2
+fic_2004_29590.txt-147-20	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_1843_7116.txt-477-15	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+news_1985_669432.txt-5-23	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_1974_780164.txt-1989-3	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_1974_780164.txt-1015-9	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_1854_2820.txt-5129-20	fic_1835_7272.txt-1843-27	annotator4	4.0	 	lass_nn	2
+fic_1829_7072.txt-2468-38	fic_1849_583.txt-2574-50	annotator4	4.0	 	lass_nn	2
+fic_2001_28777.txt-76-20	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_1847_7149.txt-2014-29	fic_1837_7395.txt-1589-33	annotator4	4.0	 	lass_nn	2
+fic_1849_583.txt-4636-79	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_1838_7085.txt-2447-18	nf_1854_755030.txt-3112-24	annotator4	4.0	 	lass_nn	2
+fic_1824_7211.txt-1178-21	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+mag_1967_492341.txt-284-23	fic_1843_7208.txt-10532-32	annotator4	0.0	I don't understand s1	lass_nn	2
+nf_1859_749190.txt-1021-9	news_2006_623988.txt-62-17	annotator4	0.0	different language?	lass_nn	2
+fic_2004_32497.txt-94-6	fic_1854_9826.txt-1896-19	annotator4	4.0	 	lass_nn	2
+fic_2006_26899.txt-32-22	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_1849_7333.txt-1254-39	fic_1999_30509.txt-368-9	annotator4	4.0	 	lass_nn	2
+fic_1854_7839.txt-1700-3	fic_1843_7208.txt-10532-32	annotator4	4.0	 	lass_nn	2
+fic_1974_10593.txt-3509-5	fic_1849_583.txt-2574-50	annotator4	4.0	 	lass_nn	2
+news_1966_725564.txt-42-13	fic_2004_13808.txt-742-11	annotator4	0.0	I don't understand s1 (less instead of lass?)	lass_nn	2
+mag_1846_565490.txt-312-31	fic_1843_7208.txt-10532-32	annotator4	0.0	class vs lass?	lass_nn	2
+fic_1994_54062.txt-430-22	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_2002_28914.txt-4-24	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_1999_44468.txt-104-7	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_1821_8985.txt-571-18	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_1998_43328.txt-510-23	nf_1854_755030.txt-3112-24	annotator4	1.0	 	lass_nn	2
+fic_1995_39439.txt-273-15	news_1974_731687.txt-9-3	annotator4	0.0	I don't understand s1	lass_nn	2
+fic_2002_28914.txt-4-24	fic_1824_7211.txt-2276-17	annotator4	4.0	 	lass_nn	2
+fic_1974_10593.txt-3510-10	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+mag_1987_494263.txt-44-14	fic_1824_7211.txt-2276-17	annotator4	4.0	 	lass_nn	2
+fic_1837_7395.txt-2970-13	fic_1849_583.txt-2574-50	annotator4	4.0	 	lass_nn	2
+mag_1971_479219.txt-250-0	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_1998_43328.txt-596-9	fic_1843_7208.txt-10532-32	annotator4	1.0	 	lass_nn	2
+fic_1849_5168.txt-2217-20	fic_1980_10663.txt-1172-33	annotator4	4.0	 	lass_nn	2
+fic_1849_5168.txt-4805-6	fic_1824_7211.txt-2276-17	annotator4	4.0	 	lass_nn	2
+fic_1844_7081.txt-543-12	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_1824_7211.txt-1161-4	fic_1824_7211.txt-2276-17	annotator4	4.0	 	lass_nn	2
+fic_1824_7211.txt-2276-17	fic_1854_9826.txt-1896-19	annotator4	4.0	 	lass_nn	2
+mag_1967_274916.txt-5-15	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_1849_5295.txt-473-8	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_1999_44468.txt-98-8	nf_1854_755030.txt-3112-24	annotator4	4.0	 	lass_nn	2
+fic_1832_8862.txt-1103-4	fic_1993_1040075.txt-3226-4	annotator4	4.0	 	lass_nn	2
+mag_1980_431982.txt-155-14	news_1974_731687.txt-9-3	annotator4	4.0	 	lass_nn	2
+fic_1835_7334.txt-1483-49	fic_2004_13808.txt-742-11	annotator4	4.0	 	lass_nn	2
+fic_1860_9791.txt-1180-27	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_1853_3465.txt-2755-5	news_2006_623988.txt-62-17	annotator4	0.0	lassi vs loss?	lass_nn	2
+fic_1846_544.txt-333-4	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_1843_8764.txt-2502-60	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_2004_30097.txt-143-3	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_2008_36218.txt-33-18	fic_1980_10663.txt-1172-33	annotator4	4.0	 	lass_nn	2
+fic_1860_8725.txt-8-2	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_2005_31478.txt-87-12	fic_1824_7211.txt-2276-17	annotator4	4.0	 	lass_nn	2
+fic_1986_10746.txt-1657-2	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_1849_583.txt-4641-7	fic_1843_7208.txt-10532-32	annotator4	4.0	 	lass_nn	2
+fic_2006_26882.txt-27-9	fic_1824_7211.txt-2276-17	annotator4	4.0	 	lass_nn	2
+nf_1824_747448.txt-1941-90	fic_1999_30509.txt-368-9	annotator4	4.0	 	lass_nn	2
+fic_2002_31369.txt-22-12	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+mag_1967_492341.txt-284-23	news_2006_623988.txt-62-17	annotator4	0.0	class instead of lass?	lass_nn	2
+fic_2005_32787.txt-347-9	news_1974_731687.txt-9-3	annotator4	4.0	 	lass_nn	2
+fic_1835_7063.txt-1748-31	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_1999_44468.txt-90-4	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_1824_7211.txt-189-15	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_1833_7058.txt-1562-15	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_1999_44468.txt-104-7	news_1974_731687.txt-9-3	annotator4	4.0	 	lass_nn	2
+fic_1818_7631.txt-309-6	fic_1843_7208.txt-10532-32	annotator4	4.0	 	lass_nn	2
+fic_2009_36692.txt-135-11	fic_2004_13808.txt-742-11	annotator4	4.0	 	lass_nn	2
+fic_1972_10557.txt-2747-5	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_1829_7072.txt-2505-39	nf_1854_755030.txt-3112-24	annotator4	4.0	 	lass_nn	2
+fic_2006_26899.txt-32-22	fic_1980_10663.txt-1172-33	annotator4	4.0	 	lass_nn	2
+fic_1971_10537.txt-9882-7	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_1847_9120.txt-24-3	fic_1849_583.txt-2574-50	annotator4	4.0	 	lass_nn	2
+fic_1843_7325.txt-795-1	fic_1818_8861.txt-495-8	annotator4	4.0	 	lass_nn	2
+mag_1859_506372.txt-189-19	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_2005_32787.txt-402-4	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+nf_1999_773549.txt-625-21	fic_1837_7395.txt-1589-33	annotator4	0.0	class instead of lass?	lass_nn	2
+fic_1854_3384.txt-4392-16	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_1847_7149.txt-2014-29	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_1824_7211.txt-1161-4	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_1824_7211.txt-1090-18	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_1823_7213.txt-551-14	fic_1981_10675.txt-2101-6	annotator4	4.0	 	lass_nn	2
+fic_1835_7334.txt-1114-91	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_2000_38940.txt-758-38	fic_1980_10663.txt-1172-33	annotator4	4.0	 	lass_nn	2
+fic_1859_9220.txt-669-14	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_2006_27510.txt-18-4	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+mag_1988_487706.txt-108-9	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_1999_44468.txt-90-4	fic_1999_30509.txt-368-9	annotator4	4.0	 	lass_nn	2
+fic_1977_10628.txt-4037-4	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_2004_32368.txt-134-15	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_1859_9220.txt-669-14	fic_1824_7211.txt-2276-17	annotator4	4.0	 	lass_nn	2
+nf_1832_758144.txt-421-17	fic_1824_7211.txt-2276-17	annotator4	4.0	 	lass_nn	2
+fic_1824_7211.txt-2316-18	fic_1849_583.txt-2574-50	annotator4	4.0	 	lass_nn	2
+fic_1815_8717.txt-3597-2	fic_1993_1040075.txt-3226-4	annotator4	4.0	 	lass_nn	2
+fic_2006_27510.txt-18-4	nf_1854_755030.txt-3112-24	annotator4	4.0	 	lass_nn	2
+fic_1846_544.txt-2641-14	fic_1824_7211.txt-2276-17	annotator4	4.0	 	lass_nn	2
+fic_1853_9158.txt-109-11	news_1974_731687.txt-9-3	annotator4	4.0	 	lass_nn	2
+fic_1837_7395.txt-3207-35	fic_1993_1040075.txt-3226-4	annotator4	4.0	 	lass_nn	2
+fic_1995_39386.txt-190-9	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+news_1976_732547.txt-14-10	news_2006_623988.txt-62-17	annotator4	0.0	 	lass_nn	2
+fic_1998_43328.txt-535-10	fic_1998_43328.txt-581-6	annotator4	4.0	 	lass_nn	2
+fic_1985_10727.txt-2745-6	fic_1837_7395.txt-1589-33	annotator4	4.0	 	lass_nn	2
+fic_1834_7032.txt-2020-45	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_2006_26882.txt-27-9	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_1823_7213.txt-1732-5	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_1986_10746.txt-2263-27	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_1837_7395.txt-2970-13	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_1846_4464.txt-1316-28	fic_1981_10675.txt-2101-6	annotator4	4.0	 	lass_nn	2
+fic_1843_7155.txt-1237-67	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_1994_53932.txt-676-20	fic_1980_10663.txt-1172-33	annotator4	4.0	 	lass_nn	2
+fic_1824_7211.txt-752-15	fic_1849_583.txt-2574-50	annotator4	4.0	 	lass_nn	2
+fic_1815_8717.txt-1117-15	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_1824_7211.txt-745-21	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+news_2001_661933.txt-36-0	fic_1843_7208.txt-10532-32	annotator4	0.0	 	lass_nn	2
+fic_1965_780078.txt-2158-5	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+fic_1999_44468.txt-98-8	news_2006_623988.txt-62-17	annotator4	1.0	 	lass_nn	2
+fic_1824_8753.txt-828-7	fic_1999_30509.txt-368-9	annotator4	4.0	 	lass_nn	2
+fic_1993_1040075.txt-3226-4	fic_1824_7211.txt-1178-21	annotator4	4.0	 	lass_nn	2
+fic_1849_5295.txt-473-8	fic_1843_7208.txt-10532-32	annotator4	4.0	 	lass_nn	2
+fic_1844_7081.txt-1867-11	fic_1843_7208.txt-10532-32	annotator4	4.0	 	lass_nn	2
+fic_1824_7211.txt-189-15	fic_1993_1040075.txt-3226-4	annotator4	4.0	 	lass_nn	2
+fic_1823_8520.txt-1516-23	fic_1824_7211.txt-2276-17	annotator4	4.0	 	lass_nn	2
+fic_1985_10727.txt-2751-2	fic_1998_43328.txt-581-6	annotator4	1.0	 	lass_nn	2
+mag_1832_564115.txt-87-35	news_1974_731687.txt-9-3	annotator4	4.0	 	lass_nn	2
+fic_1987_780087.txt-248-19	fic_1993_1040075.txt-3226-4	annotator4	4.0	 	lass_nn	2
+fic_1972_780109.txt-2279-2	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_1823_8520.txt-1516-23	fic_1824_7211.txt-2276-17	annotator0	4.0	 	lass_nn	2
+fic_1824_7211.txt-1178-21	fic_1999_30509.txt-368-9	annotator0	4.0	 	lass_nn	2
+fic_1857_2618.txt-4212-39	fic_1993_1040075.txt-3226-4	annotator0	4.0	 	lass_nn	2
+fic_1835_7272.txt-1843-27	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+mag_1980_431982.txt-155-14	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+nf_1832_758144.txt-421-17	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_2001_14559.txt-594-15	fic_1824_7211.txt-2276-17	annotator0	4.0	 	lass_nn	2
+fic_2005_32787.txt-347-9	news_1974_731687.txt-9-3	annotator0	4.0	 	lass_nn	2
+fic_1818_8861.txt-495-8	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1860_9791.txt-1180-27	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1843_7116.txt-477-15	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+mag_1833_554219.txt-312-26	fic_1824_7211.txt-2276-17	annotator0	4.0	 	lass_nn	2
+fic_1997_28876.txt-24-17	fic_1993_1040075.txt-3226-4	annotator0	4.0	 	lass_nn	2
+fic_1843_7155.txt-1237-67	fic_1843_7208.txt-10532-32	annotator0	4.0	 	lass_nn	2
+fic_1985_10727.txt-2751-2	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_1823_7213.txt-551-14	fic_1981_10675.txt-2101-6	annotator0	4.0	 	lass_nn	2
+mag_2001_417106.txt-800-8	fic_1981_10675.txt-2101-6	annotator0	4.0	 	lass_nn	2
+fic_1860_8725.txt-8-2	fic_1999_30509.txt-368-9	annotator0	4.0	 	lass_nn	2
+fic_1854_9826.txt-1896-19	fic_1981_10675.txt-2101-6	annotator0	4.0	 	lass_nn	2
+fic_1850_7171.txt-3943-10	fic_1837_7395.txt-1589-33	annotator0	4.0	 	lass_nn	2
+mag_1988_487706.txt-108-9	fic_1837_7395.txt-1589-33	annotator0	4.0	 	lass_nn	2
+fic_2006_26899.txt-32-22	fic_1980_10663.txt-1172-33	annotator0	1.0	 	lass_nn	2
+nf_1999_773549.txt-625-21	fic_1998_43328.txt-581-6	annotator0	0.0	UNK; I think the intended meaning of the target word in sentence 1 might be class	lass_nn	2
+fic_1974_10593.txt-3509-5	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+mag_1846_565490.txt-312-31	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_2009_36846.txt-47-6	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_1843_8764.txt-2502-60	fic_1981_10675.txt-2101-6	annotator0	4.0	 	lass_nn	2
+fic_1999_30509.txt-376-11	fic_1837_7395.txt-1589-33	annotator0	4.0	 	lass_nn	2
+fic_1854_8328.txt-5343-12	fic_1824_7211.txt-2276-17	annotator0	4.0	 	lass_nn	2
+nf_1984_774242.txt-1326-11	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1849_5168.txt-2217-20	fic_1980_10663.txt-1172-33	annotator0	4.0	 	lass_nn	2
+fic_1849_7230.txt-2481-6	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1849_5168.txt-4805-6	fic_1824_7211.txt-2276-17	annotator0	4.0	 	lass_nn	2
+nf_1999_773549.txt-625-21	fic_1837_7395.txt-1589-33	annotator0	0.0	UNK; I think the intended meaning of the target word in sentence 2 might be class	lass_nn	2
+fic_1823_9628.txt-498-19	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1824_7211.txt-189-15	fic_1993_1040075.txt-3226-4	annotator0	4.0	 	lass_nn	2
+fic_1844_7081.txt-543-12	fic_1837_7395.txt-1589-33	annotator0	4.0	 	lass_nn	2
+news_2001_661933.txt-36-0	news_2006_623988.txt-62-17	annotator0	0.0	 	lass_nn	2
+fic_2000_32016.txt-389-3	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_1860_9791.txt-1410-4	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_1823_7213.txt-1732-5	fic_1824_7211.txt-2276-17	annotator0	4.0	 	lass_nn	2
+nf_1974_773785.txt-272-22	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_2006_26899.txt-99-7	nf_1854_755030.txt-3112-24	annotator0	4.0	 	lass_nn	2
+fic_1999_44468.txt-90-4	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_2000_38940.txt-758-38	fic_1980_10663.txt-1172-33	annotator0	4.0	 	lass_nn	2
+fic_1823_8520.txt-1516-23	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1846_4464.txt-1316-28	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1973_10576.txt-2136-2	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_1843_7325.txt-795-1	fic_1818_8861.txt-495-8	annotator0	4.0	 	lass_nn	2
+fic_1994_53932.txt-676-20	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_1824_7211.txt-2316-18	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_1821_8985.txt-571-18	fic_1993_1040075.txt-3226-4	annotator0	4.0	 	lass_nn	2
+fic_1854_8328.txt-5343-12	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_1824_7211.txt-745-21	fic_1999_30509.txt-368-9	annotator0	4.0	 	lass_nn	2
+fic_1835_7334.txt-1114-91	fic_1981_10675.txt-2101-6	annotator0	4.0	 	lass_nn	2
+fic_1973_10576.txt-2136-2	fic_2004_13808.txt-742-11	annotator0	4.0	 	lass_nn	2
+fic_1849_5295.txt-500-60	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_1849_7333.txt-1254-39	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_1987_782033.txt-1026-16	fic_1824_7211.txt-2276-17	annotator0	4.0	 	lass_nn	2
+fic_1832_8862.txt-1103-4	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+news_1985_669432.txt-5-23	fic_1824_7211.txt-2276-17	annotator0	4.0	 	lass_nn	2
+nf_1998_773548.txt-664-1	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_1974_780164.txt-382-3	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+news_2001_661933.txt-36-0	fic_1843_7208.txt-10532-32	annotator0	0.0	 	lass_nn	2
+fic_1853_9158.txt-109-11	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_1833_7058.txt-1562-15	news_1974_731687.txt-9-3	annotator0	4.0	 	lass_nn	2
+mag_1987_494263.txt-44-14	fic_1824_7211.txt-2276-17	annotator0	4.0	 	lass_nn	2
+fic_1829_7072.txt-2468-38	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_2005_50424.txt-0-36	fic_1993_1040075.txt-3226-4	annotator0	1.0	 	lass_nn	2
+fic_1986_10746.txt-660-9	fic_1849_583.txt-2574-50	annotator0	1.0	 	lass_nn	2
+fic_1824_7211.txt-1161-4	fic_1824_7211.txt-2276-17	annotator0	4.0	 	lass_nn	2
+fic_1846_8819.txt-1886-16	fic_1981_10675.txt-2101-6	annotator0	4.0	 	lass_nn	2
+fic_2006_26882.txt-27-9	fic_1824_7211.txt-2276-17	annotator0	4.0	 	lass_nn	2
+fic_2006_26899.txt-99-7	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+nf_1852_752548.txt-2830-27	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_1815_8717.txt-3597-2	fic_1993_1040075.txt-3226-4	annotator0	4.0	 	lass_nn	2
+fic_1849_7333.txt-432-11	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_1999_44468.txt-98-8	nf_1854_755030.txt-3112-24	annotator0	4.0	 	lass_nn	2
+fic_1843_7325.txt-795-1	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_1843_7116.txt-477-15	nf_1854_755030.txt-3112-24	annotator0	4.0	 	lass_nn	2
+fic_1824_7211.txt-752-15	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1849_7333.txt-432-11	fic_1854_9826.txt-1896-19	annotator0	4.0	 	lass_nn	2
+fic_2006_29620.txt-90-43	fic_1849_583.txt-2574-50	annotator0	4.0	 	lass_nn	2
+fic_2004_29590.txt-142-2	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_1995_39386.txt-190-9	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1854_3384.txt-4392-16	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_1824_8753.txt-828-7	fic_1999_30509.txt-368-9	annotator0	4.0	 	lass_nn	2
+fic_1993_1040075.txt-3386-3	fic_1999_30509.txt-368-9	annotator0	4.0	 	lass_nn	2
+fic_1986_10746.txt-1657-2	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1845_7103.txt-24-29	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+mag_1971_479219.txt-250-0	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_1838_7085.txt-574-8	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_2001_14559.txt-594-15	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1854_3384.txt-4392-16	fic_1980_10663.txt-1172-33	annotator0	4.0	 	lass_nn	2
+fic_2005_32787.txt-347-9	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1847_7149.txt-2014-29	fic_1837_7395.txt-1589-33	annotator0	4.0	 	lass_nn	2
+fic_1815_8613.txt-100-9	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_1854_2820.txt-5129-20	fic_1835_7272.txt-1843-27	annotator0	4.0	 	lass_nn	2
+news_2001_661933.txt-35-0	fic_1849_583.txt-2574-50	annotator0	0.0	 	lass_nn	2
+fic_1999_44468.txt-104-7	news_1974_731687.txt-9-3	annotator0	4.0	 	lass_nn	2
+fic_1838_7085.txt-574-8	nf_1854_755030.txt-3112-24	annotator0	4.0	 	lass_nn	2
+fic_1849_5168.txt-4805-6	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1853_3465.txt-2755-5	fic_1999_30509.txt-368-9	annotator0	4.0	 	lass_nn	2
+mag_1966_488145.txt-89-11	fic_1993_1040075.txt-3226-4	annotator0	1.0	NOTE: I think in sentence 1 “lass” might be a misspelling of “laws”	lass_nn	2
+fic_1849_583.txt-4641-7	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_1847_7149.txt-48-54	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+nf_1824_747448.txt-1941-90	fic_1999_30509.txt-368-9	annotator0	4.0	 	lass_nn	2
+fic_1854_7839.txt-1700-3	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+mag_2001_417106.txt-821-5	fic_1843_7208.txt-10532-32	annotator0	4.0	 	lass_nn	2
+fic_1987_780087.txt-248-19	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1833_7058.txt-1562-15	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1823_7213.txt-1671-48	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_1974_780164.txt-1989-3	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_1847_7149.txt-2762-9	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_1824_8753.txt-829-11	fic_1854_9826.txt-1896-19	annotator0	4.0	 	lass_nn	2
+fic_1848_7107.txt-864-13	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1854_2820.txt-5129-20	fic_1837_7395.txt-1589-33	annotator0	4.0	 	lass_nn	2
+fic_2005_50424.txt-0-36	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1845_7103.txt-24-29	fic_1849_583.txt-2574-50	annotator0	4.0	 	lass_nn	2
+fic_2004_32368.txt-134-15	fic_1837_7395.txt-1589-33	annotator0	4.0	 	lass_nn	2
+fic_1824_8753.txt-828-7	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1849_583.txt-4636-79	fic_2004_13808.txt-742-11	annotator0	4.0	 	lass_nn	2
+fic_1815_8613.txt-100-9	fic_1993_1040075.txt-3226-4	annotator0	4.0	 	lass_nn	2
+fic_1835_7063.txt-1748-31	fic_1849_583.txt-2574-50	annotator0	4.0	 	lass_nn	2
+fic_1980_10664.txt-5887-9	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_1987_782033.txt-1026-16	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+mag_1987_494263.txt-44-14	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1815_8719.txt-718-15	fic_1993_1040075.txt-3226-4	annotator0	4.0	 	lass_nn	2
+fic_1833_7059.txt-1517-33	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1832_7177.txt-3501-37	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1974_780164.txt-1015-9	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1824_7211.txt-189-15	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_2005_31478.txt-87-12	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_1824_7211.txt-752-15	fic_1849_583.txt-2574-50	annotator0	4.0	 	lass_nn	2
+fic_2004_32497.txt-94-6	fic_1854_9826.txt-1896-19	annotator0	4.0	 	lass_nn	2
+fic_1824_7211.txt-2316-18	fic_1849_583.txt-2574-50	annotator0	4.0	 	lass_nn	2
+mag_1834_564618.txt-134-9	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_2002_28914.txt-4-24	fic_1824_7211.txt-2276-17	annotator0	4.0	 	lass_nn	2
+nf_1974_773785.txt-272-22	fic_1999_30509.txt-368-9	annotator0	4.0	 	lass_nn	2
+fic_1847_9120.txt-24-3	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1974_780164.txt-3162-16	fic_1837_7395.txt-1589-33	annotator0	4.0	 	lass_nn	2
+fic_1857_2618.txt-4212-39	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1835_7272.txt-1859-68	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1834_7032.txt-2020-45	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1846_544.txt-333-4	nf_1854_755030.txt-3112-24	annotator0	4.0	 	lass_nn	2
+fic_1962_16286.txt-2686-24	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1838_7085.txt-2447-18	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_2000_32016.txt-389-3	fic_1981_10675.txt-2101-6	annotator0	4.0	 	lass_nn	2
+mag_1982_325004.txt-19-4	news_1974_731687.txt-9-3	annotator0	4.0	 	lass_nn	2
+fic_1824_7211.txt-1090-18	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1972_780109.txt-2279-2	fic_1980_10663.txt-1172-33	annotator0	4.0	 	lass_nn	2
+mag_1964_208036.txt-1-10	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1844_7081.txt-1867-11	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_2006_29620.txt-90-43	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_1815_8717.txt-1117-15	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+fic_1838_7086.txt-2825-11	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	2
+mag_1851_555722.txt-216-7	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1962_16286.txt-2686-24	fic_2004_13808.txt-742-11	annotator0	4.0	 	lass_nn	2
+fic_1846_4464.txt-1316-28	mag_1967_492341.txt-284-23	annotator0	4.0	 	lass_nn	2
+fic_1846_544.txt-2641-14	fic_1824_7211.txt-2276-17	annotator0	4.0	 	lass_nn	2
+fic_2007_34090.txt-89-5	fic_1980_10663.txt-1172-33	annotator0	4.0	 	lass_nn	2
+fic_1847_8919.txt-686-4	fic_1843_7208.txt-10532-32	annotator0	4.0	 	lass_nn	2
+nf_1859_749190.txt-1021-9	fic_1854_9826.txt-1896-19	annotator0	0.0	Sentence 1 is German!	lass_nn	2
+fic_1971_10541.txt-2230-30	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+fic_1846_544.txt-2641-14	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	2
+mag_2001_426201.txt-48-2	fic_1998_43328.txt-581-6	annotator0	0.0	Sentence 1 is...Turkish?	lass_nn	2
+fic_1838_7085.txt-574-8	fic_1847_7149.txt-2762-9	annotator2	4.0	 	lass_nn	4
+fic_1998_43328.txt-581-6	fic_1815_8613.txt-100-9	annotator2	1.0	 	lass_nn	4
+fic_1974_10593.txt-3510-10	news_1972_730482.txt-1-7	annotator2	1.0	 	lass_nn	4
+news_1974_731687.txt-9-3	mag_1964_208036.txt-1-10	annotator2	4.0	 	lass_nn	4
+fic_1974_10593.txt-3510-10	news_1976_732547.txt-14-10	annotator8	0.0	S2 is a proper noun	lass_nn	4
+mag_1995_415117.txt-3-23	fic_1974_10593.txt-3510-10	annotator8	0.0	S2's use of lass didn't make sense, so I googled it and it seems to be a transcription error; it should be “Glass”	lass_nn	4
+fic_1993_1040075.txt-3226-4	mag_1966_488145.txt-89-11	annotator6	0.0	 	lass_nn	4
+news_1972_730482.txt-1-7	news_1976_732547.txt-14-10	annotator6	0.0	 	lass_nn	4
+fic_1998_43328.txt-535-10	fic_1998_43328.txt-510-23	annotator6	4.0	 	lass_nn	4
+fic_1824_7211.txt-2276-17	mag_1971_479219.txt-250-0	annotator0	4.0	 	lass_nn	4
+news_1976_732547.txt-14-10	mag_1995_415117.txt-3-23	annotator0	0.0	 	lass_nn	4
+fic_1998_43328.txt-596-9	fic_1843_7116.txt-477-15	annotator0	1.0	 	lass_nn	4
+mag_1961_268246.txt-9-15	fic_1854_9826.txt-1896-19	annotator2	1.0	 	lass_nn	1
+fic_1998_43328.txt-581-6	mag_1835_565217.txt-61-8	annotator2	1.0	Lassi != lass	lass_nn	1
+fic_2004_13808.txt-742-11	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	1
+news_2006_623988.txt-62-17	fic_1980_10663.txt-1172-33	annotator2	1.0	 	lass_nn	1
+fic_1854_9826.txt-1896-19	fic_1824_7211.txt-2276-17	annotator2	2.0	 	lass_nn	1
+fic_1993_1040075.txt-3226-4	mag_1961_268246.txt-9-15	annotator2	1.0	 	lass_nn	1
+news_1974_731687.txt-9-3	fic_1999_30509.txt-368-9	annotator2	3.0	 	lass_nn	1
+nf_1854_755030.txt-3112-24	fic_1843_7208.txt-10532-32	annotator2	4.0	 	lass_nn	1
+fic_1824_7211.txt-2276-17	news_1974_731687.txt-9-3	annotator2	4.0	 	lass_nn	1
+fic_1849_583.txt-2574-50	fic_1998_43328.txt-581-6	annotator2	1.0	 	lass_nn	1
+nf_1854_755030.txt-3112-24	mag_1961_268246.txt-9-15	annotator2	1.0	 	lass_nn	1
+fic_1854_9826.txt-1896-19	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	1
+mag_1995_415117.txt-3-23	news_2006_623988.txt-62-17	annotator2	1.0	 	lass_nn	1
+fic_1981_10675.txt-2101-6	fic_1854_9826.txt-1896-19	annotator2	2.0	 	lass_nn	1
+news_1974_731687.txt-9-3	fic_1981_10675.txt-2101-6	annotator2	4.0	 	lass_nn	1
+mag_1961_268246.txt-9-15	fic_1814_8564.txt-739-3	annotator2	1.0	 	lass_nn	1
+fic_1843_7208.txt-10532-32	fic_1981_10675.txt-2101-6	annotator2	4.0	 	lass_nn	1
+fic_1824_7211.txt-2276-17	fic_1999_30509.txt-368-9	annotator2	4.0	 	lass_nn	1
+fic_1854_9826.txt-1896-19	nf_1854_755030.txt-3112-24	annotator2	2.0	 	lass_nn	1
+mag_1835_565217.txt-61-8	fic_1999_30509.txt-368-9	annotator2	3.0	 	lass_nn	1
+news_1974_731687.txt-9-3	mag_1835_565217.txt-61-8	annotator2	4.0	 	lass_nn	1
+fic_1998_43328.txt-581-6	mag_1995_415117.txt-3-23	annotator2	1.0	 	lass_nn	1
+news_2006_623988.txt-62-17	fic_1999_30509.txt-368-9	annotator2	1.0	 	lass_nn	1
+fic_1981_10675.txt-2101-6	fic_1824_7211.txt-2276-17	annotator2	4.0	 	lass_nn	1
+nf_1854_755030.txt-3112-24	fic_1993_1040075.txt-3226-4	annotator2	4.0	 	lass_nn	1
+fic_1824_7211.txt-2276-17	mag_1835_565217.txt-61-8	annotator1	1.0	 	lass_nn	1
+fic_1981_10675.txt-2101-6	fic_1999_30509.txt-368-9	annotator1	3.0	 	lass_nn	1
+fic_1980_10663.txt-1172-33	fic_1824_7211.txt-2276-17	annotator1	4.0	 	lass_nn	1
+news_2006_623988.txt-62-17	fic_1843_7208.txt-10532-32	annotator1	1.0	 	lass_nn	1
+news_2006_623988.txt-62-17	fic_1998_43328.txt-581-6	annotator1	4.0	 	lass_nn	1
+fic_1854_9826.txt-1896-19	fic_1824_7211.txt-2276-17	annotator1	4.0	 	lass_nn	1
+mag_1835_565217.txt-61-8	fic_1993_1040075.txt-3226-4	annotator1	3.0	 	lass_nn	1
+fic_1999_30509.txt-368-9	fic_2004_13808.txt-742-11	annotator1	4.0	 	lass_nn	1
+fic_1981_10675.txt-2101-6	fic_1999_30509.txt-368-9	annotator3	4.0	 	lass_nn	1
+mag_1961_268246.txt-9-15	fic_1981_10675.txt-2101-6	annotator3	0.0	#1 part of proper name	lass_nn	1
+fic_1824_7211.txt-2276-17	fic_1999_30509.txt-368-9	annotator3	3.0	 	lass_nn	1
+news_1974_731687.txt-9-3	fic_1981_10675.txt-2101-6	annotator3	4.0	 	lass_nn	1
+fic_1843_7208.txt-10532-32	mag_1961_268246.txt-9-15	annotator3	0.0	#1 is a proper name 	lass_nn	1
+fic_1843_7208.txt-10532-32	mag_1835_565217.txt-61-8	annotator3	3.0	 	lass_nn	1
+fic_1854_9826.txt-1896-19	news_2006_623988.txt-62-17	annotator3	1.0	 	lass_nn	1
+fic_1824_7211.txt-2276-17	mag_1835_565217.txt-61-8	annotator3	0.0	#2 is a proper name 	lass_nn	1
+fic_1837_7395.txt-1589-33	mag_1835_565217.txt-61-8	annotator3	0.0	#1 part of proper name	lass_nn	1
+mag_1835_565217.txt-61-8	fic_1814_8564.txt-739-3	annotator3	0.0	#2 is a proper name 	lass_nn	1
+nf_1854_755030.txt-3112-24	fic_1843_7208.txt-10532-32	annotator3	0.0	unsure of meaning in sentence 2 	lass_nn	1
+fic_1999_30509.txt-368-9	fic_1998_43328.txt-581-6	annotator3	1.0	 	lass_nn	1
+mag_1835_565217.txt-61-8	fic_1999_30509.txt-368-9	annotator3	0.0	Sentence 2 proper name	lass_nn	1
+fic_1999_30509.txt-368-9	nf_1854_755030.txt-3112-24	annotator3	4.0	 	lass_nn	1
+fic_1849_583.txt-2574-50	fic_1998_43328.txt-581-6	annotator3	1.0	 	lass_nn	1
+mag_1995_415117.txt-3-23	fic_1824_7211.txt-2276-17	annotator3	1.0	 	lass_nn	1
+fic_1981_10675.txt-2101-6	fic_1837_7395.txt-1589-33	annotator3	4.0	 	lass_nn	1
+fic_1993_1040075.txt-3226-4	mag_1961_268246.txt-9-15	annotator3	0.0	#2 is a proper name 	lass_nn	1
+news_2006_623988.txt-62-17	fic_1999_30509.txt-368-9	annotator3	1.0	 	lass_nn	1
+fic_1999_30509.txt-368-9	fic_2004_13808.txt-742-11	annotator3	4.0	 	lass_nn	1
+news_2006_623988.txt-62-17	fic_1998_43328.txt-581-6	annotator3	4.0	 	lass_nn	1
+fic_1993_1040075.txt-3226-4	fic_1837_7395.txt-1589-33	annotator3	4.0	 	lass_nn	1
+fic_1980_10663.txt-1172-33	fic_1824_7211.txt-2276-17	annotator3	4.0	 	lass_nn	1
+fic_1999_30509.txt-368-9	fic_1849_583.txt-2574-50	annotator3	4.0	 	lass_nn	1
+fic_1981_10675.txt-2101-6	nf_1854_755030.txt-3112-24	annotator3	4.0	 	lass_nn	1
+news_1974_731687.txt-9-3	fic_1981_10675.txt-2101-6	annotator0	4.0	 	lass_nn	1
+fic_1854_9826.txt-1896-19	news_2006_623988.txt-62-17	annotator0	1.0	 	lass_nn	1
+news_2006_623988.txt-62-17	fic_1843_7208.txt-10532-32	annotator0	1.0	 	lass_nn	1
+fic_1843_7208.txt-10532-32	mag_1961_268246.txt-9-15	annotator0	0.0	 	lass_nn	1
+mag_1835_565217.txt-61-8	fic_1981_10675.txt-2101-6	annotator0	1.0	UNK	lass_nn	1
+news_2006_623988.txt-62-17	fic_1998_43328.txt-581-6	annotator0	4.0	 	lass_nn	1
+fic_1824_7211.txt-2276-17	news_1974_731687.txt-9-3	annotator0	4.0	 	lass_nn	1
+fic_1824_7211.txt-2276-17	mag_1835_565217.txt-61-8	annotator0	4.0	 	lass_nn	1
+fic_1824_7211.txt-2276-17	mag_1961_268246.txt-9-15	annotator0	0.0	 	lass_nn	1
+news_1974_731687.txt-9-3	mag_1835_565217.txt-61-8	annotator0	0.0	 	lass_nn	1
+fic_1854_9826.txt-1896-19	fic_1824_7211.txt-2276-17	annotator0	4.0	 	lass_nn	1
+fic_1981_10675.txt-2101-6	fic_1999_30509.txt-368-9	annotator0	4.0	 	lass_nn	1
+fic_1993_1040075.txt-3226-4	fic_1837_7395.txt-1589-33	annotator0	4.0	 	lass_nn	1
+mag_1961_268246.txt-9-15	news_2006_623988.txt-62-17	annotator0	0.0	 	lass_nn	1
+fic_1849_583.txt-2574-50	fic_1993_1040075.txt-3226-4	annotator0	4.0	 	lass_nn	1
+fic_1998_43328.txt-581-6	mag_1835_565217.txt-61-8	annotator0	0.0	 	lass_nn	1
+fic_1998_43328.txt-581-6	mag_1995_415117.txt-3-23	annotator0	1.0	 	lass_nn	1
+mag_1835_565217.txt-61-8	fic_1993_1040075.txt-3226-4	annotator0	0.0	 	lass_nn	1
+news_1974_731687.txt-9-3	fic_1999_30509.txt-368-9	annotator0	4.0	 	lass_nn	1
+mag_1961_268246.txt-9-15	fic_1849_583.txt-2574-50	annotator0	0.0	 	lass_nn	1
+fic_1837_7395.txt-1589-33	news_1974_731687.txt-9-3	annotator0	4.0	 	lass_nn	1
+fic_1999_30509.txt-368-9	fic_1998_43328.txt-581-6	annotator0	1.0	 	lass_nn	1
+fic_1999_30509.txt-368-9	fic_2004_13808.txt-742-11	annotator0	4.0	 	lass_nn	1
+fic_1854_9826.txt-1896-19	nf_1854_755030.txt-3112-24	annotator0	4.0	 	lass_nn	1
+fic_1998_43328.txt-581-6	fic_1854_9826.txt-1896-19	annotator0	1.0	 	lass_nn	1
+fic_1981_10675.txt-2101-6	fic_1824_7211.txt-2276-17	annotator0	4.0	 	lass_nn	1

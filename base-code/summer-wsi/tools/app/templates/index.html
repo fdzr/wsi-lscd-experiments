@@ -1,0 +1,48 @@
+<div class="left-panel">
+    {% with experiment=experiment, subtask=subtask, datasets=datasets %}
+        {% include task~'/panel.html' %}
+    {% endwith %}
+</div>
+<div class="main-view">
+    {% if experiment %}
+        {% with experiment=experiment, subtask=subtask, word=word %}
+            {% include task~'/main.html' %}
+        {% endwith %}
+    {% elif experiments %}
+
+        <table class="mdl-data-table mdl-js-data-table mdl-shadow--0dp overview-table">
+            <thead>
+            <tr>
+                <th class="center mdl-data-table__cell--non-numeric">Task</th>
+                <th class="center">Dataset</th>
+                <th class="center">Start time</th>
+                <th class="center">End time</th>
+                <th class="center">Status</th>
+                <th class="center">Load</th>
+            </tr>
+            </thead>
+            <tbody>
+            {% for experiment in experiments %}
+                <tr>
+                    <td class="center mdl-data-table__cell--non-numeric">{{ experiment.task }}</td>
+                    <td class="center" style="white-space: break-spaces!important;">{{ experiment.dataset_id }}</td>
+                    <td class="center">{{ experiment.start_time }}</td>
+                    <td class="center">{{ experiment.end_time }}</td>
+                    <td class="center">{{ experiment.status }}</td>
+                    <td class="center">
+                        <a class="mdl-button mdl-js-button mdl-button--colored" href="{{ url_for('index', experiment_id=experiment._id) }}">Load</a>
+                    </td>
+                </tr>
+            {% endfor %}
+            </tbody>
+        </table>
+
+    {% else %}
+        <div>
+            No results to work with, first run an experiment to get updated results.
+            <br /><br />
+            Here is a <a style="color:blue" target="_blank" href="https://drive.google.com/drive/folders/1lGo8zPbfy7_fywQ-v4JHWsSrXd6x99hY?usp=sharing">dataset</a> to start with.
+        </div>
+
+    {% endif %}
+</div>

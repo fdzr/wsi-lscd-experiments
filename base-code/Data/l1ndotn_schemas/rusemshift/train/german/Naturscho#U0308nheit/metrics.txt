@@ -1,0 +1,1 @@
+defaultdict(<class 'float'>, {'eval_total_loss': 0.7324472775539644, 'accuracy.dev.Naturschönheit.score': 0.12087799374326888, 'accuracy.dev.nen-nen.score': 0.12087799374326888})

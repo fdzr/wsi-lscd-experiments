@@ -1,0 +1,164 @@
+{
+    "spectral_clustering": {
+        "fields": [
+            "adjusted_rand_score",
+            "ari_silhouette",
+            "ari_calinski",
+            "ari_eigengap",
+            "adjusted_rand_score_old",
+            "ari_silhouette_old",
+            "ari_calinski_old",
+            "ari_eigengap_old",
+            "adjusted_rand_score_new",
+            "ari_silhouette_new",
+            "ari_calinski_new",
+            "ari_eigengap_new",
+            "no_clusters_eigengap",
+            "no_clusters_results",
+            "predicted_clusters",
+            "gold_id",
+            "score_path",
+            "parameters"
+        ],
+        "drop": [
+            "silhouette",
+            "calinski_harabasz",
+            "eigengap"
+        ],
+        "drop_after": [
+            "gold_id_r2",
+            "gold_id_r3",
+            "gold_id_r4",
+            "gold_id_r5",
+            "parameters_r2",
+            "parameters_r3",
+            "parameters_r4",
+            "parameters_r5",
+            "score_path_r2",
+            "score_path_r3",
+            "score_path_r4",
+            "score_path_r5"
+        ]
+    },
+    "non_spectral_clustering": {
+        "fields": [
+            "adjusted_rand_score",
+            "parameters",
+            "predicted_clusters",
+            "gold_id",
+            "adjusted_rand_score_old",
+            "adjusted_rand_score_new"
+        ],
+        "drop": [
+            "status"
+        ],
+        "drop_after": [
+            "gold_id_r2",
+            "gold_id_r3",
+            "gold_id_r4",
+            "gold_id_r5",
+            "parameters_r2",
+            "parameters_r3",
+            "parameters_r4",
+            "parameters_r5"
+        ]
+    },
+    "5-fold-cv": {
+        "test": {
+            "avg_ari": {
+                "field": "ari_r"
+            },
+            "avg_jsd": {
+                "field": "jsd_r"
+            }
+        },
+        "spectral_clustering": {
+            "avg_ari_silhouette": {
+                "field": "ari_silhouette_r"
+            },
+            "avg_ari_calinski": {
+                "field": "ari_calinski_r"
+            },
+            "avg_ari_eigengap": {
+                "field": "ari_eigengap_r"
+            },
+            "avg_ari_silhouette_old": {
+                "field": "ari_silhouette_old_r"
+            },
+            "avg_ari_calinski_old": {
+                "field": "ari_calinski_old_r"
+            },
+            "avg_ari_eigengap_old": {
+                "field": "ari_eigengap_old_r"
+            },
+            "avg_ari_silhouette_new": {
+                "field": "ari_silhouette_new_r"
+            },
+            "avg_ari_calinski_new": {
+                "field": "ari_calinski_new_r"
+            },
+            "avg_ari_eigengap_new": {
+                "field": "ari_eigengap_new_r"
+            },
+            "avg_jsd_silhouette": {
+                "field": "jsd_silhouette_r"
+            },
+            "avg_jsd_calinski": {
+                "field": "jsd_calinski_r"
+            },
+            "avg_jsd_eigengap": {
+                "field": "jsd_eigengap_r"
+            },
+            "calculate_results_for_spectral_clustering_method": [
+                "avg_ari_silhouette",
+                "avg_ari_calinski",
+                "avg_ari_eigengap",
+                "avg_ari_silhouette_old",
+                "avg_ari_calinski_old",
+                "avg_ari_eigengap_old",
+                "avg_ari_silhouette_new",
+                "avg_ari_calinski_new",
+                "avg_ari_eigengap_new",
+                "spr_lscd_silhouette",
+                "spr_lscd_calinski",
+                "spr_lscd_eigengap"
+            ],
+            "include_extra_information": {
+                "avg_number_cluster_selected_by_silhouette": {
+                    "field": "number_cluster_selected_by_silhouette_r"
+                },
+                "avg_number_cluster_selected_by_calinski": {
+                    "field": "number_cluster_selected_by_calinski_r"
+                },
+                "avg_number_cluster_selected_by_eigengap": {
+                    "field": "number_cluster_selected_by_eigengap_r"
+                },
+                "avg_abs_difference_silhouette": {
+                    "field": "abs_difference_silhouette_r"
+                },
+                "avg_abs_difference_calinski": {
+                    "field": "abs_difference_calinski_r"
+                },
+                "avg_abs_difference_eigengap": {
+                    "field": "abs_difference_eigengap_r"
+                },
+                "hyperparameter": [
+                    "score_path_r1"
+                ]
+            }
+        },
+        "non_spectral_clustering": {
+            "include_extra_information": {
+                "avg_number_clusters_predicted": {
+                    "field": "number_clusters_predicted_r"
+                },
+                "avg_abs_difference": {
+                    "field": "abs_difference_r"
+                },
+                "hyperparameter": [
+                    "hyperparameter"
+                ]
+            }
+        }
+    }
+}

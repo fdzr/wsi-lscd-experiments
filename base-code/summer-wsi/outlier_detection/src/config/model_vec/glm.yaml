@@ -1,0 +1,6 @@
+_target_: GLM.glm_vectorizer.GLMVectorizer
+encoder_name: xlm-roberta-large
+encoder_weights_path: #C:/Users/79222/PycharmProjects/Thesis/models/XLMR_large_05_unbal.ckpt
+device: cpu
+max_context_words_count:
+target_window_size: 512

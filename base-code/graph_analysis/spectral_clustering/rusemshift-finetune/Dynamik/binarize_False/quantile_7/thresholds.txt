@@ -1,0 +1,2 @@
+Initial threshold: 0.5223275145
+Final threshold: 0.8584850715294134

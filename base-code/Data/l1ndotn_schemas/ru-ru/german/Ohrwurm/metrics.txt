@@ -1,0 +1,1 @@
+defaultdict(<class 'float'>, {'eval_total_loss': 0.7068007867653053, 'accuracy.dev.Ohrwurm.score': 0.31674013546930435, 'accuracy.dev.nen-nen.score': 0.31674013546930435})

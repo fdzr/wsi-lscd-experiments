@@ -1,0 +1,36 @@
+{% if experiment.status != 'finished' %}
+    The experiment is running, please wait...
+{% else %}
+    <table class="mdl-data-table mdl-js-data-table mdl-shadow--0dp overview-table">
+        <thead>
+        <tr>
+            <th class="center mdl-data-table__cell--non-numeric">Word</th>
+            <th class="center">ARI (max silhouette)</th>
+            <th class="center">Max ARI</th>
+            <th class="center">Max Silhouette</th>
+            <th class="center">Actions</th>
+        </tr>
+        </thead>
+        <tbody>
+        {% for word in experiment.result %}
+            <tr>
+                <td class="center mdl-data-table__cell--non-numeric">{{ word }}</td>
+
+                <td class="center">{{ "%.3f"|format(experiment.result[word]['ari_score'] if experiment.result[word]['ari_score'] else 0) }}</td>
+                <td class="center">{{ "%.3f"|format(experiment.result[word]['max_ari_score']) if experiment.result[word]['max_ari_score'] else 0}}</td>
+                <td class="center">{{ "%.3f"|format(experiment.result[word]['score']) }}</td>
+
+                <td class="center">
+                    <a href="{{ url_for('index', experiment_id=experiment._id, word=word, subtask='clustering') }}">Inspect Senses</a>
+                    <br />
+                    <a href="{{ url_for('index', experiment_id=experiment._id, word=word, subtask='examples') }}">View clusters summary</a>
+                    <br />
+                    <a href="{{ url_for('index', experiment_id=experiment._id, word=word, subtask='dendrogram') }}">View clustering dendrogram</a>
+                    <br />
+                    <a href="{{ url_for('index', experiment_id=experiment._id, word=word, subtask='graph') }}">View samples scatter plot</a>
+                </td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+{% endif %}

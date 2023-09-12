@@ -1,0 +1,129 @@
+Method: chinese_whispers
+  ARI:
+    Iter-1: {'quantile': 6, 'dataset': 'en-en', 'binarize': True, 'avg_number_clusters_predicted': 3.6842105263157894, 'avg_abs_difference': 1.105263157894737}
+    Iter-2: {'quantile': 5, 'dataset': 'en-en', 'binarize': True, 'avg_number_clusters_predicted': 2.789473684210526, 'avg_abs_difference': 0.7368421052631579}
+    Iter-3: {'quantile': 0, 'dataset': 'rusemshift-train', 'binarize': False, 'avg_number_clusters_predicted': 3.4210526315789473, 'avg_abs_difference': 0.7894736842105263}
+    Iter-4: {'quantile': 5, 'dataset': 'rusemshift-finetune', 'binarize': False, 'avg_number_clusters_predicted': 2.9473684210526314, 'avg_abs_difference': 0.631578947368421}
+    Iter-5: {'quantile': 0, 'dataset': 'rusemshift-train', 'binarize': False, 'avg_number_clusters_predicted': 3.05, 'avg_abs_difference': 0.65}
+ Spr_LSCD:
+    Iter-1: {'quantile': 3, 'dataset': 'rusemshift-finetune', 'binarize': False, 'avg_number_clusters_predicted': 1.9473684210526316, 'avg_abs_difference': 0.8421052631578947}
+    Iter-2: {'quantile': 0, 'dataset': 'en-en', 'binarize': True, 'avg_number_clusters_predicted': 2.0526315789473686, 'avg_abs_difference': 0.7368421052631579}
+    Iter-3: {'quantile': 6, 'dataset': 'en-en', 'binarize': True, 'avg_number_clusters_predicted': 3.789473684210526, 'avg_abs_difference': 1.1578947368421053}
+    Iter-4: {'quantile': 4, 'dataset': 'rusemshift-finetune', 'binarize': False, 'avg_number_clusters_predicted': 2.3157894736842106, 'avg_abs_difference': 0.631578947368421}
+    Iter-5: {'quantile': 4, 'dataset': 'rusemshift-finetune', 'binarize': False, 'avg_number_clusters_predicted': 2.25, 'avg_abs_difference': 0.55}
+
+Method: correlation_clustering
+  ARI:
+    Iter-1: {'quantile': 1, 'dataset': 'en-en', 'binarize': False, 'avg_number_clusters_predicted': 4.0, 'avg_abs_difference': 1.2105263157894737}
+    Iter-2: {'quantile': 1, 'dataset': 'en-en', 'binarize': False, 'avg_number_clusters_predicted': 3.5789473684210527, 'avg_abs_difference': 1.0}
+    Iter-3: {'quantile': 1, 'dataset': 'en-en', 'binarize': False, 'avg_number_clusters_predicted': 4.105263157894737, 'avg_abs_difference': 1.1578947368421053}
+    Iter-4: {'quantile': 1, 'dataset': 'en-en', 'binarize': False, 'avg_number_clusters_predicted': 4.0, 'avg_abs_difference': 1.1578947368421053}
+    Iter-5: {'quantile': 1, 'dataset': 'en-en', 'binarize': False, 'avg_number_clusters_predicted': 3.9, 'avg_abs_difference': 1.3}
+ Spr_LSCD:
+    Iter-1: {'quantile': 2, 'dataset': 'rusemshift-finetune', 'binarize': False, 'avg_number_clusters_predicted': 4.684210526315789, 'avg_abs_difference': 1.894736842105263}
+    Iter-2: {'quantile': 2, 'dataset': 'rusemshift-finetune', 'binarize': False, 'avg_number_clusters_predicted': 4.421052631578948, 'avg_abs_difference': 1.8421052631578947}
+    Iter-3: {'quantile': 3, 'dataset': 'rusemshift-finetune', 'binarize': False, 'avg_number_clusters_predicted': 4.631578947368421, 'avg_abs_difference': 1.7894736842105263}
+    Iter-4: {'quantile': 1, 'dataset': 'rusemshift-finetune', 'binarize': False, 'avg_number_clusters_predicted': 4.421052631578948, 'avg_abs_difference': 1.5789473684210527}
+    Iter-5: {'quantile': 4, 'dataset': 'rusemshift-finetune', 'binarize': False, 'avg_number_clusters_predicted': 3.75, 'avg_abs_difference': 1.25}
+
+Method: wsbm
+  ARI:
+    Iter-1: {'quantile': 5, 'dataset': 'rusemshift-finetune', 'binarize': True, 'distribution': 'discrete-geometric', 'avg_number_clusters_predicted': 2.3157894736842106, 'avg_abs_difference': 1.105263157894737}
+    Iter-2: {'quantile': 0, 'dataset': 'ru-ru', 'binarize': True, 'distribution': 'discrete-binomial', 'avg_number_clusters_predicted': 2.4210526315789473, 'avg_abs_difference': 0.7894736842105263}
+    Iter-3: {'quantile': 0, 'dataset': 'rusemshift-finetune', 'binarize': True, 'distribution': 'discrete-geometric', 'avg_number_clusters_predicted': 2.3157894736842106, 'avg_abs_difference': 1.0315789473684212}
+    Iter-4: {'quantile': 5, 'dataset': 'rusemshift-finetune', 'binarize': True, 'distribution': 'discrete-poisson', 'avg_number_clusters_predicted': 2.210526315789474, 'avg_abs_difference': 1.0526315789473684}
+    Iter-5: {'quantile': 6, 'dataset': 'rusemshift-train', 'binarize': True, 'distribution': 'discrete-binomial', 'avg_number_clusters_predicted': 2.57, 'avg_abs_difference': 0.8300000000000001}
+ Spr_LSCD:
+    Iter-1: {'quantile': 5, 'dataset': 'rusemshift-finetune', 'binarize': True, 'distribution': 'discrete-geometric', 'avg_number_clusters_predicted': 2.3157894736842106, 'avg_abs_difference': 1.105263157894737}
+    Iter-2: {'quantile': 5, 'dataset': 'rusemshift-finetune', 'binarize': True, 'distribution': 'discrete-geometric', 'avg_number_clusters_predicted': 2.2210526315789476, 'avg_abs_difference': 0.8842105263157896}
+    Iter-3: {'quantile': 6, 'dataset': 'ru-ru', 'binarize': True, 'distribution': 'discrete-binomial', 'avg_number_clusters_predicted': 2.5894736842105264, 'avg_abs_difference': 1.0526315789473684}
+    Iter-4: {'quantile': 5, 'dataset': 'rusemshift-finetune', 'binarize': True, 'distribution': 'discrete-binomial', 'avg_number_clusters_predicted': 2.473684210526316, 'avg_abs_difference': 1.105263157894737}
+    Iter-5: {'quantile': 5, 'dataset': 'rusemshift-finetune', 'binarize': True, 'distribution': 'discrete-geometric', 'avg_number_clusters_predicted': 2.31, 'avg_abs_difference': 0.89}
+
+Method: spectral_clustering
+  ARI:
+  silhouette
+    Iter-1: {'binarize': False, 'quantile': 3, 'score_path': 'en-en', 'avg_number_cluster_selected_by_silhouette': 2.1052631578947367, 'avg_abs_difference_silhouette': 0.7894736842105263}
+    Iter-2: {'binarize': False, 'quantile': 3, 'score_path': 'en-en', 'avg_number_cluster_selected_by_silhouette': 2.0526315789473686, 'avg_abs_difference_silhouette': 0.631578947368421}
+    Iter-3: {'binarize': False, 'quantile': 3, 'score_path': 'en-en', 'avg_number_cluster_selected_by_silhouette': 2.0526315789473686, 'avg_abs_difference_silhouette': 0.8947368421052632}
+    Iter-4: {'binarize': False, 'quantile': 3, 'score_path': 'en-en', 'avg_number_cluster_selected_by_silhouette': 2.1052631578947367, 'avg_abs_difference_silhouette': 0.8421052631578947}
+    Iter-5: {'binarize': False, 'quantile': 3, 'score_path': 'en-en', 'avg_number_cluster_selected_by_silhouette': 2.1, 'avg_abs_difference_silhouette': 0.6}
+
+  calinski
+    Iter-1: {'binarize': False, 'quantile': 3, 'score_path': 'en-en', 'avg_number_cluster_selected_by_calinski': 2.231578947368421, 'avg_abs_difference_calinski': 0.8105263157894737}
+    Iter-2: {'binarize': False, 'quantile': 3, 'score_path': 'en-en', 'avg_number_cluster_selected_by_calinski': 2.1789473684210527, 'avg_abs_difference_calinski': 0.6526315789473685}
+    Iter-3: {'binarize': False, 'quantile': 3, 'score_path': 'en-en', 'avg_number_cluster_selected_by_calinski': 2.1789473684210527, 'avg_abs_difference_calinski': 0.9157894736842105}
+    Iter-4: {'binarize': False, 'quantile': 3, 'score_path': 'en-en', 'avg_number_cluster_selected_by_calinski': 2.126315789473684, 'avg_abs_difference_calinski': 0.863157894736842}
+    Iter-5: {'binarize': False, 'quantile': 3, 'score_path': 'en-en', 'avg_number_cluster_selected_by_calinski': 2.2, 'avg_abs_difference_calinski': 0.6}
+
+  eigengap
+    Iter-1: {'binarize': False, 'quantile': 3, 'score_path': 'rusemshift-finetune', 'avg_number_cluster_selected_by_eigengap': 1.9473684210526316, 'avg_abs_difference_eigengap': 0.8421052631578947}
+    Iter-2: {'binarize': True, 'quantile': 5, 'score_path': 'rusemshift-train', 'avg_number_cluster_selected_by_eigengap': 2.0526315789473686, 'avg_abs_difference_eigengap': 0.631578947368421}
+    Iter-3: {'binarize': False, 'quantile': 0, 'score_path': 'rusemshift-train', 'avg_number_cluster_selected_by_eigengap': 2.4210526315789473, 'avg_abs_difference_eigengap': 0.7368421052631579}
+    Iter-4: {'binarize': False, 'quantile': 0, 'score_path': 'en-en', 'avg_number_cluster_selected_by_eigengap': 2.3684210526315788, 'avg_abs_difference_eigengap': 0.6842105263157895}
+    Iter-5: {'binarize': False, 'quantile': 4, 'score_path': 'rusemshift-finetune', 'avg_number_cluster_selected_by_eigengap': 2.05, 'avg_abs_difference_eigengap': 0.65}
+
+  silhouette_old
+    Iter-1: {'binarize': False, 'quantile': 3, 'score_path': 'en-en'}
+    Iter-2: {'binarize': True, 'quantile': 4, 'score_path': 'ru-ru'}
+    Iter-3: {'binarize': False, 'quantile': 3, 'score_path': 'en-en'}
+    Iter-4: {'binarize': False, 'quantile': 3, 'score_path': 'en-en'}
+    Iter-5: {'binarize': False, 'quantile': 3, 'score_path': 'en-en'}
+
+  calinski_old
+    Iter-1: {'binarize': False, 'quantile': 3, 'score_path': 'en-en'}
+    Iter-2: {'binarize': True, 'quantile': 4, 'score_path': 'ru-ru'}
+    Iter-3: {'binarize': False, 'quantile': 3, 'score_path': 'en-en'}
+    Iter-4: {'binarize': False, 'quantile': 3, 'score_path': 'en-en'}
+    Iter-5: {'binarize': False, 'quantile': 3, 'score_path': 'en-en'}
+
+  eigengap_old
+    Iter-1: {'binarize': False, 'quantile': 4, 'score_path': 'rusemshift-train'}
+    Iter-2: {'binarize': True, 'quantile': 4, 'score_path': 'ru-ru'}
+    Iter-3: {'binarize': False, 'quantile': 4, 'score_path': 'rusemshift-train'}
+    Iter-4: {'binarize': False, 'quantile': 4, 'score_path': 'rusemshift-train'}
+    Iter-5: {'binarize': False, 'quantile': 4, 'score_path': 'rusemshift-train'}
+
+  silhouette_new
+    Iter-1: {'binarize': False, 'quantile': 0, 'score_path': 'en-en'}
+    Iter-2: {'binarize': True, 'quantile': 0, 'score_path': 'en-en'}
+    Iter-3: {'binarize': True, 'quantile': 5, 'score_path': 'en-en'}
+    Iter-4: {'binarize': True, 'quantile': 0, 'score_path': 'en-en'}
+    Iter-5: {'binarize': False, 'quantile': 4, 'score_path': 'en-en'}
+
+  calinski_new
+    Iter-1: {'binarize': False, 'quantile': 3, 'score_path': 'en-en'}
+    Iter-2: {'binarize': False, 'quantile': 4, 'score_path': 'en-en'}
+    Iter-3: {'binarize': False, 'quantile': 4, 'score_path': 'en-en'}
+    Iter-4: {'binarize': False, 'quantile': 4, 'score_path': 'en-en'}
+    Iter-5: {'binarize': False, 'quantile': 4, 'score_path': 'en-en'}
+
+  eigengap_new
+    Iter-1: {'binarize': False, 'quantile': 3, 'score_path': 'rusemshift-finetune'}
+    Iter-2: {'binarize': False, 'quantile': 3, 'score_path': 'ru-ru'}
+    Iter-3: {'binarize': True, 'quantile': 0, 'score_path': 'en-en'}
+    Iter-4: {'binarize': False, 'quantile': 3, 'score_path': 'rusemshift-finetune'}
+    Iter-5: {'binarize': False, 'quantile': 3, 'score_path': 'rusemshift-finetune'}
+
+ Spr_LSCD:
+  silhouette
+    Iter-1: {'binarize': False, 'quantile': 3, 'score_path': 'en-en'}
+    Iter-2: {'binarize': False, 'quantile': 3, 'score_path': 'en-en'}
+    Iter-3: {'binarize': False, 'quantile': 2, 'score_path': 'rusemshift-train'}
+    Iter-4: {'binarize': True, 'quantile': 5, 'score_path': 'en-en'}
+    Iter-5: {'binarize': False, 'quantile': 3, 'score_path': 'en-en'}
+
+  calinski
+    Iter-1: {'binarize': True, 'quantile': 4, 'score_path': 'rusemshift-finetune'}
+    Iter-2: {'binarize': True, 'quantile': 3, 'score_path': 'en-en'}
+    Iter-3: {'binarize': False, 'quantile': 2, 'score_path': 'rusemshift-finetune'}
+    Iter-4: {'binarize': False, 'quantile': 7, 'score_path': 'en-en'}
+    Iter-5: {'binarize': True, 'quantile': 3, 'score_path': 'en-en'}
+
+  eigengap
+    Iter-1: {'binarize': False, 'quantile': 3, 'score_path': 'rusemshift-finetune'}
+    Iter-2: {'binarize': False, 'quantile': 4, 'score_path': 'rusemshift-finetune'}
+    Iter-3: {'binarize': False, 'quantile': 4, 'score_path': 'rusemshift-finetune'}
+    Iter-4: {'binarize': False, 'quantile': 0, 'score_path': 'en-en'}
+    Iter-5: {'binarize': True, 'quantile': 0, 'score_path': 'en-en'}
+

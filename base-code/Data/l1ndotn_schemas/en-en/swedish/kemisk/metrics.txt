@@ -1,0 +1,1 @@
+defaultdict(<class 'float'>, {'eval_total_loss': 0.701101521957235, 'accuracy.dev.kemisk.score': 0.5311980661731379, 'accuracy.dev.nen-nen.score': 0.5311980661731379})

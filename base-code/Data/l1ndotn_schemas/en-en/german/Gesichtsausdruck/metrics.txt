@@ -1,0 +1,1 @@
+defaultdict(<class 'float'>, {'eval_total_loss': 0.7775937080625596, 'accuracy.dev.Gesichtsausdruck.score': 0.013150545823813151, 'accuracy.dev.nen-nen.score': 0.013150545823813151})

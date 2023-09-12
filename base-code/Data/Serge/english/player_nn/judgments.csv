@@ -1,0 +1,643 @@
+identifier1	identifier2	annotator	judgment	comment	lemma	round
+fic_1844_7114.txt-1472-20	news_1980_668002.txt-14-9	annotator2	4.0	 	player_nn	3
+mag_1984_326101.txt-12-15	nf_1833_747531.txt-1407-18	annotator2	3.0	 	player_nn	3
+news_2005_648986.txt-71-14	mag_2006_385919.txt-27-40	annotator2	1.0	 	player_nn	3
+mag_1994_425778.txt-18-10	fic_1833_7058.txt-508-44	annotator2	2.0	 	player_nn	3
+news_2005_648986.txt-71-14	news_1993_630359.txt-52-23	annotator2	2.0	 	player_nn	3
+nf_1833_747531.txt-2900-1	news_2006_607690.txt-28-12	annotator2	4.0	 	player_nn	3
+fic_1992_30681.txt-25-26	mag_2004_414611.txt-17-0	annotator2	2.0	 	player_nn	3
+fic_1843_7155.txt-1334-5	fic_1833_7058.txt-508-44	annotator2	4.0	 	player_nn	3
+nf_2008_774810.txt-327-77	fic_1992_29899.txt-15-25	annotator2	1.0	 	player_nn	3
+news_2005_648986.txt-71-14	news_2007_637876.txt-55-20	annotator2	4.0	 	player_nn	3
+mag_1997_389166.txt-31-27	fic_1845_7170.txt-11079-11	annotator2	4.0	 	player_nn	3
+news_2006_607690.txt-28-12	mag_1997_389166.txt-31-27	annotator2	1.0	 	player_nn	3
+mag_2009_405435.txt-1-15	fic_1992_29899.txt-15-25	annotator2	4.0	 	player_nn	3
+fic_1997_54827.txt-448-2	news_1996_625833.txt-62-1	annotator2	0.0	S2 ambiguous	player_nn	3
+mag_1992_61839.txt-50-24	fic_1841_799.txt-1809-16	annotator2	2.0	 	player_nn	3
+mag_2006_385919.txt-27-40	mag_1984_326101.txt-12-15	annotator2	1.0	 	player_nn	3
+fic_1992_29899.txt-15-25	mag_1846_524089.txt-294-22	annotator2	1.0	 	player_nn	3
+fic_1859_9192.txt-12566-11	news_2006_607690.txt-28-12	annotator2	2.0	 	player_nn	3
+fic_1992_29899.txt-15-25	fic_2009_36644.txt-534-12	annotator2	4.0	 	player_nn	3
+fic_1833_7058.txt-508-44	mag_1984_326101.txt-12-15	annotator2	4.0	 	player_nn	3
+news_2007_637876.txt-55-20	fic_2009_36644.txt-534-12	annotator2	1.0	 	player_nn	3
+mag_1846_524089.txt-294-22	news_2005_648986.txt-71-14	annotator2	1.0	 	player_nn	3
+news_1993_630359.txt-52-23	mag_1997_389166.txt-31-27	annotator2	1.0	 	player_nn	3
+nf_1834_747621.txt-357-38	mag_2003_376656.txt-21-25	annotator2	2.0	 	player_nn	3
+nf_1859_748120.txt-2700-49	news_1993_630359.txt-52-23	annotator2	1.0	 	player_nn	3
+fic_1992_29899.txt-15-25	news_2006_607690.txt-28-12	annotator2	1.0	 	player_nn	3
+nf_1859_748120.txt-2700-49	nf_2008_774810.txt-327-77	annotator2	2.0	 	player_nn	3
+fic_1992_29899.txt-15-25	mag_1997_389166.txt-31-27	annotator2	1.0	 	player_nn	3
+fic_2004_29720.txt-33-32	fic_1845_7170.txt-11079-11	annotator2	1.0	 	player_nn	3
+fic_1976_780159.txt-418-30	nf_1834_747621.txt-292-8	annotator6	4.0	 	player_nn	3
+fic_2000_52519.txt-272-0	mag_1963_492078.txt-28-12	annotator6	4.0	 	player_nn	3
+mag_1997_356208.txt-22-17	mag_2009_405435.txt-1-15	annotator6	4.0	 	player_nn	3
+nf_1833_747531.txt-2900-1	news_2007_637876.txt-55-20	annotator6	4.0	 	player_nn	3
+fic_1993_25036.txt-2086-4	fic_2004_31868.txt-198-7	annotator6	2.0	 	player_nn	3
+mag_1997_389166.txt-31-27	fic_1845_7170.txt-11079-11	annotator6	3.0	 	player_nn	3
+nf_1833_747531.txt-1407-18	news_1993_630359.txt-52-23	annotator6	4.0	 	player_nn	3
+fic_1973_10570.txt-2597-9	mag_1832_554166.txt-207-13	annotator6	3.0	 	player_nn	3
+fic_1836_7053.txt-2899-11	fic_1859_9192.txt-12566-11	annotator6	4.0	 	player_nn	3
+nf_2008_774810.txt-327-77	fic_1845_7170.txt-11079-11	annotator6	3.0	 	player_nn	3
+mag_1963_248405.txt-21-14	nf_1840_768793.txt-1049-0	annotator6	3.0	 	player_nn	3
+fic_1845_7170.txt-11079-11	mag_1984_326101.txt-12-15	annotator6	4.0	 	player_nn	3
+fic_1859_9192.txt-12566-11	news_1999_639410.txt-48-4	annotator6	3.0	 	player_nn	3
+fic_1844_800.txt-1250-37	fic_1836_7052.txt-1521-3	annotator6	2.0	 	player_nn	3
+fic_1833_7058.txt-508-44	mag_1984_326101.txt-12-15	annotator6	4.0	 	player_nn	3
+nf_1833_747531.txt-2900-1	fic_1992_29899.txt-15-25	annotator6	2.0	 	player_nn	3
+news_2007_637876.txt-55-20	nf_1833_747531.txt-1407-18	annotator6	3.0	 	player_nn	3
+mag_1823_553496.txt-80-3	nf_1834_747621.txt-195-13	annotator6	4.0	 	player_nn	3
+news_2007_637876.txt-55-20	news_1993_630359.txt-52-23	annotator6	3.0	 	player_nn	3
+mag_1997_389166.txt-31-27	nf_1833_747531.txt-2900-1	annotator6	2.0	 	player_nn	3
+nf_1834_747621.txt-34-4	fic_2000_52519.txt-272-0	annotator6	3.0	 	player_nn	3
+nf_1833_747531.txt-1441-15	mag_1970_313865.txt-9-2	annotator6	3.0	 	player_nn	3
+mag_1997_389166.txt-31-27	nf_1859_748120.txt-2700-49	annotator6	2.0	 	player_nn	3
+mag_2009_405435.txt-1-15	news_1993_630359.txt-52-23	annotator6	2.0	 	player_nn	3
+mag_2006_385919.txt-27-40	nf_1859_748120.txt-2700-49	annotator6	2.0	 	player_nn	3
+fic_1833_7058.txt-508-44	nf_1833_747531.txt-1407-18	annotator6	3.0	 	player_nn	3
+news_1993_630359.txt-52-23	mag_1997_389166.txt-31-27	annotator6	2.0	 	player_nn	3
+mag_2006_385919.txt-27-40	mag_1997_356208.txt-22-17	annotator6	4.0	 	player_nn	3
+mag_1823_553496.txt-80-3	mag_1997_68233.txt-15-32	annotator6	4.0	 	player_nn	3
+mag_2004_414611.txt-17-0	nf_1846_748061.txt-948-16	annotator6	3.0	 	player_nn	3
+nf_1834_747621.txt-290-1	fic_1836_7052.txt-1521-3	annotator6	2.0	 	player_nn	3
+mag_1997_356208.txt-22-17	mag_1994_425778.txt-18-10	annotator6	2.0	 	player_nn	3
+nf_1833_747531.txt-2900-1	news_2005_648986.txt-71-14	annotator6	4.0	 	player_nn	3
+fic_1850_7171.txt-4473-10	mag_2004_414611.txt-17-0	annotator6	3.0	 	player_nn	3
+fic_1843_7155.txt-1334-5	news_2006_607690.txt-28-12	annotator5	2.0	 	player_nn	3
+nf_1834_747621.txt-291-1	nf_1840_768793.txt-1049-0	annotator5	2.0	 	player_nn	3
+news_2006_607690.txt-28-12	fic_1833_7058.txt-508-44	annotator5	2.0	 	player_nn	3
+fic_2004_31868.txt-198-7	mag_1984_326101.txt-12-15	annotator5	2.0	 	player_nn	3
+fic_2009_36644.txt-534-12	nf_2008_774810.txt-327-77	annotator5	2.0	 	player_nn	3
+fic_1859_270.txt-2477-7	fic_1962_4271.txt-108-11	annotator5	3.0	 	player_nn	3
+news_1993_630359.txt-52-23	fic_1844_7114.txt-1647-20	annotator5	3.0	 	player_nn	3
+mag_1997_68233.txt-15-32	fic_1833_7058.txt-508-44	annotator5	3.0	 	player_nn	3
+news_2005_648986.txt-71-14	mag_1994_425778.txt-18-10	annotator5	2.0	 	player_nn	3
+fic_1833_7058.txt-508-44	mag_1984_326101.txt-12-15	annotator5	2.0	 	player_nn	3
+fic_1844_7114.txt-1647-20	nf_1833_747531.txt-2900-1	annotator5	3.0	 	player_nn	3
+fic_2000_52519.txt-272-0	mag_1963_492078.txt-28-12	annotator5	4.0	 	player_nn	3
+fic_2004_31868.txt-198-7	nf_1833_747531.txt-2900-1	annotator5	2.0	 	player_nn	3
+mag_1984_326101.txt-12-15	mag_1997_356208.txt-22-17	annotator5	2.0	 	player_nn	3
+mag_2002_80772.txt-61-11	news_2000_627632.txt-147-0	annotator5	4.0	 	player_nn	3
+nf_2008_774810.txt-327-77	fic_2004_29720.txt-33-32	annotator5	2.0	 	player_nn	3
+mag_1997_356208.txt-22-17	fic_1843_7155.txt-1334-5	annotator5	3.0	 	player_nn	3
+news_2005_648986.txt-71-14	news_2007_637876.txt-55-20	annotator5	4.0	 	player_nn	3
+fic_1992_29899.txt-15-25	fic_2009_36644.txt-534-12	annotator5	4.0	 	player_nn	3
+mag_1969_213728.txt-11-1	mag_2003_376656.txt-21-25	annotator5	2.0	 	player_nn	3
+fic_1836_7052.txt-949-60	fic_1859_270.txt-2477-7	annotator5	2.0	 	player_nn	3
+nf_1833_747531.txt-2900-1	news_2005_648986.txt-71-14	annotator5	4.0	 	player_nn	3
+fic_2009_36644.txt-534-12	nf_1833_747531.txt-2900-1	annotator5	2.0	 	player_nn	3
+fic_1973_10570.txt-2597-9	mag_1832_554166.txt-207-13	annotator5	2.0	 	player_nn	3
+fic_1833_7058.txt-508-44	fic_1992_29899.txt-15-25	annotator5	1.0	 	player_nn	3
+fic_1833_7058.txt-508-44	fic_1993_25036.txt-2086-4	annotator5	2.0	 	player_nn	3
+news_1993_630359.txt-52-23	mag_1846_524089.txt-294-22	annotator5	2.0	 	player_nn	3
+fic_1845_7170.txt-11079-11	fic_1833_7058.txt-508-44	annotator5	2.0	 	player_nn	3
+nf_1833_747531.txt-1407-18	fic_1992_29899.txt-15-25	annotator5	2.0	 	player_nn	3
+fic_1844_7114.txt-1647-20	fic_1845_7170.txt-11079-11	annotator0	3.0	Unsure; difficult to judge the meaning in sentence 1	player_nn	3
+mag_2006_385919.txt-27-40	fic_2004_31868.txt-198-7	annotator0	4.0	 	player_nn	3
+fic_2004_31868.txt-198-7	mag_1997_389166.txt-31-27	annotator0	2.0	Unsure	player_nn	3
+mag_2009_405435.txt-1-15	fic_1992_29899.txt-15-25	annotator0	4.0	 	player_nn	3
+mag_2009_405435.txt-1-15	news_1993_630359.txt-52-23	annotator0	2.0	 	player_nn	3
+news_2005_648986.txt-71-14	news_1993_630359.txt-52-23	annotator0	3.0	 	player_nn	3
+mag_1846_524089.txt-294-22	mag_2009_405435.txt-1-15	annotator0	2.0	Unsure	player_nn	3
+fic_1843_7155.txt-1334-5	fic_1992_29899.txt-15-25	annotator0	2.0	 	player_nn	3
+mag_1994_425778.txt-18-10	mag_2006_385919.txt-27-40	annotator0	2.0	Unsure	player_nn	3
+nf_1833_747531.txt-2900-1	fic_1992_29899.txt-15-25	annotator0	2.0	 	player_nn	3
+news_1993_630359.txt-52-23	mag_1997_389166.txt-31-27	annotator0	2.0	 	player_nn	3
+mag_2006_385919.txt-27-40	mag_1984_326101.txt-12-15	annotator0	2.0	 	player_nn	3
+mag_2009_405435.txt-1-15	fic_1993_25036.txt-2086-4	annotator0	2.0	 	player_nn	3
+fic_1844_7114.txt-1472-20	news_1980_668002.txt-14-9	annotator0	3.0	 	player_nn	3
+fic_1845_7170.txt-11079-11	fic_1843_7155.txt-1334-5	annotator0	4.0	 	player_nn	3
+news_2006_607690.txt-28-12	nf_2008_774810.txt-327-77	annotator0	2.0	 	player_nn	3
+nf_1834_747621.txt-292-8	fic_1962_4271.txt-108-11	annotator0	0.0	UNK; I can't determine the meaning in sentence 1	player_nn	3
+mag_1817_552906.txt-34-42	nf_1834_747621.txt-198-15	annotator0	3.0	Unsure	player_nn	3
+fic_1845_7170.txt-11079-11	mag_2006_385919.txt-27-40	annotator0	2.0	 	player_nn	3
+nf_1834_747621.txt-34-4	nf_1840_768793.txt-1049-0	annotator0	3.0	 	player_nn	3
+fic_2004_31868.txt-198-7	nf_1833_747531.txt-2900-1	annotator0	2.0	 	player_nn	3
+fic_1976_780159.txt-418-30	nf_1834_747621.txt-292-8	annotator0	0.0	UNK; I can't determine the meaning in sentence 2	player_nn	3
+news_1993_630359.txt-52-23	fic_1843_7155.txt-1334-5	annotator0	4.0	 	player_nn	3
+nf_1833_747531.txt-1441-15	mag_1970_313865.txt-9-2	annotator0	3.0	 	player_nn	3
+mag_1997_389166.txt-31-27	fic_1845_7170.txt-11079-11	annotator0	3.0	 	player_nn	3
+fic_1836_7052.txt-1521-3	nf_1834_747621.txt-317-16	annotator0	3.0	 	player_nn	3
+fic_1833_7058.txt-508-44	nf_1833_747531.txt-1407-18	annotator0	2.0	Unsure	player_nn	3
+fic_1997_54827.txt-448-2	news_1996_625833.txt-62-1	annotator0	3.0	 	player_nn	3
+fic_1992_29899.txt-15-25	mag_1846_524089.txt-294-22	annotator0	2.0	 	player_nn	3
+mag_1997_389166.txt-31-27	nf_2008_774810.txt-327-77	annotator0	2.0	 	player_nn	3
+fic_1992_29899.txt-15-25	mag_1994_425778.txt-18-10	annotator0	2.0	 	player_nn	3
+mag_1984_326101.txt-12-15	fic_1859_9192.txt-12566-11	annotator2	3.0	 	player_nn	2
+mag_1997_392275.txt-133-24	mag_1994_63618.txt-68-2	annotator2	4.0	 	player_nn	2
+nf_2008_774810.txt-327-77	fic_1859_270.txt-2477-7	annotator2	2.0	 	player_nn	2
+news_1999_603005.txt-28-1	mag_2002_80772.txt-61-11	annotator2	4.0	 	player_nn	2
+fic_2004_31868.txt-198-7	fic_1836_7052.txt-1521-3	annotator2	2.0	 	player_nn	2
+nf_1834_747621.txt-306-2	fic_1836_7052.txt-1521-3	annotator2	3.0	 	player_nn	2
+nf_1834_747621.txt-195-13	mag_1823_553496.txt-80-3	annotator2	3.0	 	player_nn	2
+nf_1833_747505.txt-1515-21	mag_1823_553496.txt-80-3	annotator2	3.0	 	player_nn	2
+fic_1995_53078.txt-338-25	nf_1859_748120.txt-2700-49	annotator2	2.0	 	player_nn	2
+nf_1834_747621.txt-163-7	news_1995_638651.txt-27-25	annotator2	4.0	 	player_nn	2
+fic_1855_1209.txt-1870-1	nf_1834_747621.txt-34-4	annotator2	3.0	 	player_nn	2
+news_2003_628482.txt-16-5	mag_1969_213728.txt-11-1	annotator2	4.0	 	player_nn	2
+mag_1828_553906.txt-302-24	news_1981_668210.txt-14-11	annotator2	4.0	 	player_nn	2
+mag_1993_135894.txt-36-8	nf_1834_747621.txt-290-1	annotator2	4.0	 	player_nn	2
+fic_1832_7176.txt-2067-3	news_1981_668210.txt-14-11	annotator2	4.0	 	player_nn	2
+mag_1963_492078.txt-28-12	mag_1997_68233.txt-15-32	annotator2	4.0	 	player_nn	2
+nf_1834_747621.txt-292-8	fic_1962_4271.txt-108-11	annotator2	2.0	 	player_nn	2
+news_1981_669238.txt-41-4	fic_1962_4271.txt-108-11	annotator2	4.0	 	player_nn	2
+fic_1835_7327.txt-1201-26	mag_1853_566330.txt-85-13	annotator2	4.0	 	player_nn	2
+fic_2001_30165.txt-154-6	news_1995_638651.txt-27-25	annotator2	4.0	 	player_nn	2
+nf_1846_748061.txt-948-16	mag_2004_414611.txt-17-0	annotator2	4.0	 	player_nn	2
+mag_1998_399437.txt-44-4	mag_1853_566330.txt-85-13	annotator2	4.0	 	player_nn	2
+fic_1833_7058.txt-508-44	mag_1997_68233.txt-15-32	annotator2	3.0	 	player_nn	2
+nf_1834_747621.txt-180-16	nf_1834_747621.txt-290-1	annotator2	4.0	 	player_nn	2
+mag_1832_554166.txt-207-13	nf_1834_747621.txt-34-4	annotator2	4.0	 	player_nn	2
+mag_2006_112386.txt-19-14	news_1996_625833.txt-62-1	annotator2	4.0	 	player_nn	2
+news_2000_627649.txt-202-17	mag_1817_552906.txt-34-42	annotator2	3.0	 	player_nn	2
+nf_1834_747621.txt-167-3	fic_1962_4271.txt-108-11	annotator2	4.0	 	player_nn	2
+nf_1834_747621.txt-317-16	fic_1836_7052.txt-1521-3	annotator2	4.0	 	player_nn	2
+mag_1963_249002.txt-7-21	mag_1817_552906.txt-34-42	annotator2	4.0	 	player_nn	2
+mag_1969_213728.txt-11-1	mag_1817_552906.txt-34-42	annotator2	4.0	 	player_nn	2
+fic_1840_7292.txt-1966-31	fic_1859_270.txt-2477-7	annotator2	3.0	 	player_nn	2
+mag_2003_376656.txt-21-25	mag_1969_213728.txt-11-1	annotator2	3.0	 	player_nn	2
+fic_1849_7347.txt-3166-3	nf_1834_747621.txt-34-4	annotator2	4.0	 	player_nn	2
+fic_1833_7046.txt-6734-2	mag_1853_566330.txt-85-13	annotator2	4.0	 	player_nn	2
+news_1999_603005.txt-28-1	mag_2004_414611.txt-17-0	annotator2	4.0	 	player_nn	2
+nf_1846_748061.txt-1725-12	mag_1817_552906.txt-34-42	annotator2	4.0	 	player_nn	2
+mag_1960_431612.txt-115-16	nf_1834_747621.txt-290-1	annotator2	4.0	 	player_nn	2
+fic_1859_270.txt-245-19	nf_1834_747621.txt-290-1	annotator2	4.0	 	player_nn	2
+fic_1836_7053.txt-2899-11	fic_1859_9192.txt-12566-11	annotator2	3.0	 	player_nn	2
+mag_2000_75252.txt-22-3	fic_1836_7052.txt-1521-3	annotator2	4.0	 	player_nn	2
+fic_1976_780159.txt-418-30	news_1981_668210.txt-14-11	annotator2	4.0	 	player_nn	2
+news_1965_724715.txt-19-15	mag_1969_213728.txt-11-1	annotator2	4.0	 	player_nn	2
+fic_1844_7114.txt-1472-20	mag_1853_566330.txt-85-13	annotator2	4.0	 	player_nn	2
+nf_1834_747621.txt-16-8	mag_1823_553496.txt-80-3	annotator2	3.0	 	player_nn	2
+fic_1836_7052.txt-949-60	fic_1859_270.txt-2477-7	annotator2	3.0	 	player_nn	2
+news_2005_629411.txt-92-2	news_1981_668210.txt-14-11	annotator2	4.0	 	player_nn	2
+fic_1850_7304.txt-572-24	mag_2004_414611.txt-17-0	annotator2	4.0	 	player_nn	2
+news_1993_630359.txt-52-23	mag_1817_552906.txt-34-42	annotator2	2.0	 	player_nn	2
+fic_1850_7171.txt-4473-10	mag_2004_414611.txt-17-0	annotator2	4.0	 	player_nn	2
+mag_1967_218804.txt-16-18	mag_1853_566330.txt-85-13	annotator2	4.0	 	player_nn	2
+fic_1840_7292.txt-119-46	nf_1834_747621.txt-34-4	annotator2	3.0	 	player_nn	2
+mag_1997_392267.txt-29-6	fic_1859_9192.txt-12566-11	annotator2	4.0	 	player_nn	2
+news_1999_639410.txt-48-4	fic_1859_9192.txt-12566-11	annotator2	4.0	 	player_nn	2
+nf_1834_747621.txt-176-55	fic_1859_9192.txt-12566-11	annotator2	4.0	 	player_nn	2
+fic_1993_53861.txt-263-8	mag_1997_68233.txt-15-32	annotator2	4.0	 	player_nn	2
+news_1994_620083.txt-61-30	mag_1853_566330.txt-85-13	annotator2	4.0	 	player_nn	2
+fic_2000_52519.txt-272-0	nf_1834_747621.txt-34-4	annotator2	2.0	 	player_nn	2
+fic_1833_7201.txt-475-16	mag_1817_552906.txt-34-42	annotator2	4.0	 	player_nn	2
+fic_1859_270.txt-245-19	fic_1832_7176.txt-2067-3	annotator2	4.0	 	player_nn	2
+fic_1852_9031.txt-1889-30	fic_1859_9192.txt-12566-11	annotator2	3.0	 	player_nn	2
+fic_1851_3300.txt-2782-16	fic_1859_270.txt-2477-7	annotator2	4.0	 	player_nn	2
+fic_1847_7801.txt-60-20	mag_1853_566330.txt-85-13	annotator2	4.0	 	player_nn	2
+fic_1835_7134.txt-554-23	nf_1834_747621.txt-34-4	annotator2	3.0	 	player_nn	2
+nf_1834_747621.txt-92-11	fic_1836_7052.txt-1521-3	annotator2	3.0	 	player_nn	2
+mag_2003_376656.txt-21-25	nf_1834_747621.txt-195-13	annotator2	2.0	 	player_nn	2
+fic_1849_8065.txt-1143-10	mag_1997_68233.txt-15-32	annotator2	0.0	 	player_nn	2
+nf_1840_768793.txt-1049-0	nf_1834_747621.txt-34-4	annotator2	3.0	 	player_nn	2
+fic_1993_25036.txt-2086-4	nf_1834_747621.txt-290-1	annotator2	2.0	 	player_nn	2
+fic_1855_9098.txt-519-15	news_1995_638651.txt-27-25	annotator2	3.0	 	player_nn	2
+news_1996_659232.txt-99-34	mag_1969_213728.txt-11-1	annotator2	4.0	 	player_nn	2
+fic_1850_9136.txt-28-24	nf_1834_747621.txt-290-1	annotator2	4.0	 	player_nn	2
+mag_1840_586565.txt-450-2	nf_1834_747621.txt-34-4	annotator2	4.0	 	player_nn	2
+news_1995_641085.txt-21-11	mag_1853_566330.txt-85-13	annotator2	4.0	 	player_nn	2
+news_1987_668828.txt-1-19	news_1996_625833.txt-62-1	annotator2	4.0	 	player_nn	2
+news_1998_615330.txt-27-16	fic_1859_9192.txt-12566-11	annotator2	3.0	 	player_nn	2
+nf_1834_747621.txt-232-29	nf_1834_747621.txt-290-1	annotator2	4.0	 	player_nn	2
+mag_1822_553391.txt-123-36	mag_1853_566330.txt-85-13	annotator2	4.0	 	player_nn	2
+fic_1850_7304.txt-2361-5	news_1996_625833.txt-62-1	annotator2	4.0	 	player_nn	2
+mag_1969_100601.txt-76-16	mag_1853_566330.txt-85-13	annotator2	4.0	 	player_nn	2
+mag_1978_110781.txt-110-10	mag_1823_553496.txt-80-3	annotator2	3.0	 	player_nn	2
+fic_1859_9192.txt-6816-6	nf_1834_747621.txt-34-4	annotator2	3.0	 	player_nn	2
+nf_1834_747621.txt-74-42	nf_1834_747621.txt-34-4	annotator2	3.0	 	player_nn	2
+nf_1834_747621.txt-357-38	news_1995_638651.txt-27-25	annotator2	3.0	 	player_nn	2
+nf_1834_747621.txt-198-15	mag_1817_552906.txt-34-42	annotator2	2.0	 	player_nn	2
+mag_2004_414611.txt-17-0	news_1996_659232.txt-99-34	annotator2	4.0	 	player_nn	2
+news_1993_600262.txt-295-1	mag_1997_68233.txt-15-32	annotator5	4.0	 	player_nn	2
+fic_1859_9220.txt-4976-45	mag_1997_68233.txt-15-32	annotator5	3.0	 	player_nn	2
+mag_2003_384205.txt-92-21	news_1996_625833.txt-62-1	annotator5	4.0	 	player_nn	2
+news_2004_635161.txt-70-16	news_1996_625833.txt-62-1	annotator5	4.0	 	player_nn	2
+fic_1819_9004.txt-421-21	news_1996_625833.txt-62-1	annotator5	3.0	 	player_nn	2
+fic_1844_7114.txt-1472-20	mag_1853_566330.txt-85-13	annotator5	3.0	 	player_nn	2
+news_2000_627632.txt-147-0	news_1996_625833.txt-62-1	annotator5	4.0	 	player_nn	2
+mag_1969_213728.txt-11-1	mag_1817_552906.txt-34-42	annotator5	4.0	 	player_nn	2
+fic_1995_53078.txt-338-25	fic_1859_270.txt-2477-7	annotator5	4.0	 	player_nn	2
+fic_1851_3300.txt-2782-16	fic_1859_270.txt-2477-7	annotator5	3.0	 	player_nn	2
+fic_1855_9098.txt-519-15	news_1995_638651.txt-27-25	annotator5	4.0	 	player_nn	2
+nf_1834_747621.txt-176-55	fic_1859_9192.txt-12566-11	annotator5	4.0	 	player_nn	2
+mag_1823_553496.txt-80-3	mag_1997_68233.txt-15-32	annotator5	2.0	 	player_nn	2
+news_1978_733812.txt-56-40	mag_1853_566330.txt-85-13	annotator5	4.0	 	player_nn	2
+nf_1834_747621.txt-317-16	fic_1836_7052.txt-1521-3	annotator5	2.0	 	player_nn	2
+news_1971_729751.txt-43-22	mag_1853_566330.txt-85-13	annotator5	4.0	 	player_nn	2
+mag_1984_326101.txt-12-15	fic_1859_9192.txt-12566-11	annotator5	2.0	 	player_nn	2
+nf_1834_747621.txt-180-16	nf_1834_747621.txt-290-1	annotator5	4.0	 	player_nn	2
+mag_1823_553496.txt-80-3	mag_2004_414611.txt-17-0	annotator5	2.0	 	player_nn	2
+news_2000_639446.txt-35-10	mag_1994_63618.txt-68-2	annotator5	3.0	 	player_nn	2
+news_2003_628482.txt-16-5	mag_1969_213728.txt-11-1	annotator5	4.0	 	player_nn	2
+mag_1823_553496.txt-80-3	news_1996_625833.txt-62-1	annotator5	2.0	 	player_nn	2
+news_2005_648986.txt-71-14	mag_1817_552906.txt-34-42	annotator5	2.0	 	player_nn	2
+nf_1834_747621.txt-290-1	fic_1836_7052.txt-1521-3	annotator5	2.0	 	player_nn	2
+news_2005_607662.txt-32-4	mag_1853_566330.txt-85-13	annotator5	4.0	 	player_nn	2
+nf_1834_747621.txt-198-15	mag_1817_552906.txt-34-42	annotator5	4.0	 	player_nn	2
+fic_1845_7170.txt-11079-11	mag_1994_63618.txt-68-2	annotator5	2.0	 	player_nn	2
+fic_2005_780529.txt-2279-8	news_1996_625833.txt-62-1	annotator5	3.0	 	player_nn	2
+nf_1834_747621.txt-192-1	mag_1823_553496.txt-80-3	annotator5	2.0	 	player_nn	2
+news_1985_671471.txt-76-10	mag_2004_414611.txt-17-0	annotator5	4.0	 	player_nn	2
+fic_1976_780159.txt-418-30	news_1981_668210.txt-14-11	annotator5	4.0	 	player_nn	2
+nf_1834_747621.txt-283-22	news_1996_625833.txt-62-1	annotator5	4.0	 	player_nn	2
+fic_2001_30165.txt-154-6	news_1995_638651.txt-27-25	annotator5	4.0	 	player_nn	2
+news_1999_603005.txt-28-1	mag_2004_414611.txt-17-0	annotator5	3.0	 	player_nn	2
+mag_1963_492078.txt-28-12	nf_1834_747621.txt-317-16	annotator5	4.0	 	player_nn	2
+fic_2009_36644.txt-534-12	mag_1853_566330.txt-85-13	annotator5	2.0	 	player_nn	2
+nf_1834_747621.txt-292-8	fic_1962_4271.txt-108-11	annotator5	4.0	 	player_nn	2
+news_1995_641085.txt-21-11	mag_1853_566330.txt-85-13	annotator5	4.0	 	player_nn	2
+mag_1992_61839.txt-50-24	news_1995_638651.txt-27-25	annotator5	4.0	 	player_nn	2
+fic_1844_800.txt-1250-37	fic_1836_7052.txt-1521-3	annotator5	2.0	 	player_nn	2
+news_1997_602128.txt-163-19	mag_1994_63618.txt-68-2	annotator5	4.0	 	player_nn	2
+mag_1963_248405.txt-21-14	fic_1859_9192.txt-12566-11	annotator5	3.0	 	player_nn	2
+fic_1859_9192.txt-12566-11	mag_1853_566330.txt-85-13	annotator5	4.0	 	player_nn	2
+mag_2009_405435.txt-1-15	nf_1834_747621.txt-290-1	annotator5	2.0	 	player_nn	2
+nf_1834_747621.txt-74-42	nf_1834_747621.txt-34-4	annotator5	3.0	 	player_nn	2
+nf_1846_748061.txt-948-16	mag_2004_414611.txt-17-0	annotator5	2.0	 	player_nn	2
+mag_2003_376656.txt-21-25	nf_1834_747621.txt-195-13	annotator5	2.0	 	player_nn	2
+fic_1859_9192.txt-2469-6	nf_1834_747621.txt-290-1	annotator5	4.0	 	player_nn	2
+nf_1833_747531.txt-2900-1	mag_1817_552906.txt-34-42	annotator5	2.0	 	player_nn	2
+mag_1850_555676.txt-420-17	fic_1859_9192.txt-12566-11	annotator5	3.0	 	player_nn	2
+fic_1844_7114.txt-1647-20	fic_1836_7052.txt-1521-3	annotator5	2.0	 	player_nn	2
+fic_1836_7053.txt-229-6	mag_1823_553496.txt-80-3	annotator5	3.0	 	player_nn	2
+news_2000_627649.txt-202-17	mag_1817_552906.txt-34-42	annotator5	4.0	 	player_nn	2
+nf_1834_747621.txt-195-13	mag_1823_553496.txt-80-3	annotator5	2.0	 	player_nn	2
+news_1993_630359.txt-52-23	mag_1817_552906.txt-34-42	annotator5	2.0	 	player_nn	2
+fic_1992_30681.txt-25-26	mag_2004_414611.txt-17-0	annotator5	2.0	 	player_nn	2
+fic_1850_9136.txt-28-24	nf_1834_747621.txt-290-1	annotator5	4.0	 	player_nn	2
+news_1999_639410.txt-48-4	fic_1859_9192.txt-12566-11	annotator5	2.0	 	player_nn	2
+fic_1989_16255.txt-2555-6	news_1981_668210.txt-14-11	annotator5	4.0	 	player_nn	2
+fic_1859_270.txt-245-19	nf_1834_747621.txt-290-1	annotator5	4.0	 	player_nn	2
+fic_1840_7292.txt-119-46	nf_1834_747621.txt-34-4	annotator5	4.0	 	player_nn	2
+mag_2001_79818.txt-49-3	mag_1853_566330.txt-85-13	annotator5	4.0	 	player_nn	2
+nf_1834_747621.txt-74-7	mag_1969_213728.txt-11-1	annotator5	4.0	 	player_nn	2
+nf_1846_748061.txt-1602-22	mag_1823_553496.txt-80-3	annotator5	4.0	 	player_nn	2
+nf_1840_768793.txt-1049-0	nf_1834_747621.txt-34-4	annotator5	2.0	 	player_nn	2
+nf_1833_747505.txt-1515-21	mag_1823_553496.txt-80-3	annotator5	4.0	 	player_nn	2
+fic_1833_7046.txt-6734-2	mag_1853_566330.txt-85-13	annotator5	3.0	 	player_nn	2
+news_1998_615330.txt-27-16	fic_1859_9192.txt-12566-11	annotator5	4.0	 	player_nn	2
+nf_1833_747531.txt-1407-18	mag_1853_566330.txt-85-13	annotator5	2.0	 	player_nn	2
+news_1999_603005.txt-28-1	mag_2002_80772.txt-61-11	annotator5	3.0	 	player_nn	2
+news_1996_659232.txt-99-34	mag_1969_213728.txt-11-1	annotator5	3.0	 	player_nn	2
+mag_1963_492078.txt-28-12	mag_1997_68233.txt-15-32	annotator5	3.0	 	player_nn	2
+mag_1978_110781.txt-110-10	mag_1823_553496.txt-80-3	annotator5	2.0	 	player_nn	2
+mag_1997_389166.txt-31-27	news_1996_625833.txt-62-1	annotator5	2.0	 	player_nn	2
+news_2007_637876.txt-55-20	fic_1962_4271.txt-108-11	annotator5	2.0	 	player_nn	2
+nf_1834_747621.txt-77-5	mag_1853_566330.txt-85-13	annotator5	4.0	 	player_nn	2
+nf_1847_749455.txt-1337-64	news_1996_625833.txt-62-1	annotator5	3.0	 	player_nn	2
+mag_1857_556291.txt-79-2	news_1996_625833.txt-62-1	annotator5	4.0	 	player_nn	2
+fic_1843_7155.txt-1334-5	mag_1817_552906.txt-34-42	annotator5	2.0	 	player_nn	2
+news_2001_627702.txt-204-2	fic_1859_270.txt-2477-7	annotator5	4.0	 	player_nn	2
+nf_1859_748120.txt-2700-49	mag_1823_553496.txt-80-3	annotator5	2.0	 	player_nn	2
+mag_1984_125227.txt-110-4	mag_1853_566330.txt-85-13	annotator5	3.0	 	player_nn	2
+mag_1822_553391.txt-126-19	mag_1853_566330.txt-85-13	annotator5	3.0	 	player_nn	2
+fic_1833_7201.txt-475-16	mag_1817_552906.txt-34-42	annotator5	4.0	 	player_nn	2
+fic_1836_7053.txt-2899-11	fic_1859_9192.txt-12566-11	annotator5	2.0	 	player_nn	2
+fic_1979_10650.txt-16-31	mag_1817_552906.txt-34-42	annotator5	2.0	 	player_nn	2
+mag_1980_126102.txt-85-3	news_1995_638651.txt-27-25	annotator5	4.0	 	player_nn	2
+nf_2008_774810.txt-327-77	fic_1859_270.txt-2477-7	annotator5	2.0	 	player_nn	2
+nf_1834_747621.txt-190-43	mag_1997_68233.txt-15-32	annotator5	3.0	 	player_nn	2
+mag_1823_553496.txt-80-3	mag_1997_68233.txt-15-32	annotator4	4.0	 	player_nn	2
+nf_1834_747621.txt-276-5	news_1981_668210.txt-14-11	annotator4	3.0	 	player_nn	2
+mag_1975_431888.txt-523-6	mag_1997_68233.txt-15-32	annotator4	4.0	 	player_nn	2
+fic_1859_9192.txt-12566-11	mag_1853_566330.txt-85-13	annotator4	4.0	 	player_nn	2
+mag_1847_524594.txt-109-4	mag_1823_553496.txt-80-3	annotator4	0.0	Sentence 1 is ambigious (are they musical players or players of a sport?)	player_nn	2
+fic_1836_7052.txt-949-60	fic_1859_270.txt-2477-7	annotator4	2.0	 	player_nn	2
+news_1978_733812.txt-56-40	mag_1853_566330.txt-85-13	annotator4	3.0	 	player_nn	2
+mag_1846_524089.txt-294-22	mag_1853_566330.txt-85-13	annotator4	2.0	 	player_nn	2
+nf_1834_747621.txt-74-7	fic_1852_9031.txt-1889-30	annotator4	0.0	s1 is ambiguous	player_nn	2
+news_2006_607690.txt-28-12	fic_1859_9192.txt-12566-11	annotator4	1.0	 	player_nn	2
+fic_1995_53078.txt-338-25	nf_1859_748120.txt-2700-49	annotator4	1.0	 	player_nn	2
+fic_1859_270.txt-2477-7	fic_1962_4271.txt-108-11	annotator4	4.0	 	player_nn	2
+fic_1859_9192.txt-2469-6	nf_1834_747621.txt-290-1	annotator4	0.0	s1 is ambiguous	player_nn	2
+fic_1845_7170.txt-11079-11	mag_1997_68233.txt-15-32	annotator4	1.0	 	player_nn	2
+mag_2002_80772.txt-61-11	news_1996_625833.txt-62-1	annotator4	4.0	 	player_nn	2
+news_1993_630359.txt-52-23	mag_1817_552906.txt-34-42	annotator4	0.0	 	player_nn	2
+mag_1822_553391.txt-126-19	mag_1853_566330.txt-85-13	annotator4	4.0	 	player_nn	2
+fic_1850_9136.txt-28-24	nf_1834_747621.txt-290-1	annotator4	1.0	 	player_nn	2
+nf_1833_747531.txt-2898-40	mag_1823_553496.txt-80-3	annotator4	0.0	s2 is ambiguous/not enough context	player_nn	2
+mag_1857_556291.txt-79-2	news_1996_625833.txt-62-1	annotator4	4.0	 	player_nn	2
+news_1985_671471.txt-76-10	mag_2004_414611.txt-17-0	annotator4	4.0	 	player_nn	2
+fic_1833_7058.txt-508-44	mag_1997_68233.txt-15-32	annotator4	1.0	 	player_nn	2
+mag_1991_387449.txt-234-17	news_1995_638651.txt-27-25	annotator4	3.0	 	player_nn	2
+news_2005_607662.txt-32-4	mag_1853_566330.txt-85-13	annotator4	4.0	 	player_nn	2
+fic_1997_54827.txt-448-2	fic_1859_270.txt-2477-7	annotator4	4.0	 	player_nn	2
+nf_1834_747621.txt-92-11	fic_1836_7052.txt-1521-3	annotator4	4.0	 	player_nn	2
+nf_1834_747621.txt-276-19	fic_1962_4271.txt-108-11	annotator4	4.0	 	player_nn	2
+news_1994_620041.txt-12-3	mag_2004_414611.txt-17-0	annotator4	4.0	 	player_nn	2
+mag_1967_218804.txt-16-18	mag_1853_566330.txt-85-13	annotator4	4.0	 	player_nn	2
+mag_1963_492078.txt-28-12	nf_1834_747621.txt-317-16	annotator4	4.0	 	player_nn	2
+mag_1993_135894.txt-36-8	nf_1834_747621.txt-290-1	annotator4	4.0	 	player_nn	2
+mag_2004_414611.txt-17-0	news_1996_659232.txt-99-34	annotator4	4.0	 	player_nn	2
+news_1965_724715.txt-19-15	mag_1969_213728.txt-11-1	annotator4	4.0	 	player_nn	2
+news_1999_603005.txt-28-1	mag_2002_80772.txt-61-11	annotator4	4.0	 	player_nn	2
+news_1998_615330.txt-27-16	fic_1859_9192.txt-12566-11	annotator4	4.0	 	player_nn	2
+mag_2005_417448.txt-232-24	mag_1997_68233.txt-15-32	annotator4	4.0	 	player_nn	2
+fic_1859_270.txt-245-19	fic_1832_7176.txt-2067-3	annotator4	4.0	 	player_nn	2
+fic_1856_1562.txt-4096-55	mag_1817_552906.txt-34-42	annotator4	4.0	 	player_nn	2
+nf_1834_747621.txt-290-1	fic_1836_7052.txt-1521-3	annotator4	4.0	 	player_nn	2
+fic_1835_7134.txt-554-23	nf_1834_747621.txt-34-4	annotator4	4.0	 	player_nn	2
+news_1985_668647.txt-19-16	mag_1997_68233.txt-15-32	annotator4	4.0	 	player_nn	2
+nf_1833_747531.txt-1984-1	nf_1834_747621.txt-290-1	annotator4	4.0	 	player_nn	2
+mag_1823_553496.txt-80-3	mag_2004_414611.txt-17-0	annotator4	0.0	 	player_nn	2
+fic_1850_7304.txt-2438-13	mag_1853_566330.txt-85-13	annotator4	4.0	 	player_nn	2
+fic_1855_1209.txt-1870-1	nf_1834_747621.txt-34-4	annotator4	0.0	s1 is ambiguous	player_nn	2
+nf_1834_747621.txt-163-7	news_1995_638651.txt-27-25	annotator4	4.0	 	player_nn	2
+nf_1846_748061.txt-1602-22	mag_1823_553496.txt-80-3	annotator4	0.0	s1 is ambiguous	player_nn	2
+nf_2001_746390.txt-245-19	news_1995_638651.txt-27-25	annotator4	4.0	 	player_nn	2
+fic_1845_7170.txt-11079-11	mag_1994_63618.txt-68-2	annotator4	1.0	 	player_nn	2
+nf_1834_747621.txt-306-2	fic_1836_7052.txt-1521-3	annotator4	3.0	 	player_nn	2
+mag_2000_75252.txt-22-3	fic_1836_7052.txt-1521-3	annotator4	3.0	 	player_nn	2
+nf_1834_747621.txt-32-8	fic_1859_270.txt-2477-7	annotator4	4.0	 	player_nn	2
+nf_1834_747621.txt-176-55	fic_1859_9192.txt-12566-11	annotator4	4.0	 	player_nn	2
+nf_1834_747621.txt-192-1	mag_1823_553496.txt-80-3	annotator4	0.0	s1 is ambiguous	player_nn	2
+nf_1847_749455.txt-1337-64	news_1996_625833.txt-62-1	annotator4	4.0	 	player_nn	2
+fic_1993_25036.txt-2086-4	nf_1834_747621.txt-290-1	annotator4	1.0	 	player_nn	2
+mag_2001_138500.txt-19-8	mag_1997_68233.txt-15-32	annotator4	4.0	 	player_nn	2
+fic_2005_780529.txt-2279-8	news_1996_625833.txt-62-1	annotator4	4.0	 	player_nn	2
+fic_1836_7053.txt-667-9	mag_1853_566330.txt-85-13	annotator4	0.0	s2 is ambiguous	player_nn	2
+fic_1855_9098.txt-519-15	news_1995_638651.txt-27-25	annotator4	4.0	 	player_nn	2
+fic_2004_29720.txt-33-32	nf_1834_747621.txt-290-1	annotator4	1.0	 	player_nn	2
+fic_1850_7171.txt-4473-10	mag_2004_414611.txt-17-0	annotator4	1.0	 	player_nn	2
+mag_2006_385919.txt-27-40	news_1995_638651.txt-27-25	annotator4	1.0	 	player_nn	2
+nf_1834_747621.txt-16-8	mag_1823_553496.txt-80-3	annotator4	0.0	s1 is ambiguous	player_nn	2
+fic_1979_10650.txt-16-31	mag_1817_552906.txt-34-42	annotator4	4.0	 	player_nn	2
+news_2000_627632.txt-147-0	news_1996_625833.txt-62-1	annotator4	4.0	 	player_nn	2
+mag_1960_92723.txt-14-14	nf_1834_747621.txt-290-1	annotator4	4.0	 	player_nn	2
+nf_1833_747531.txt-1441-15	news_1995_638651.txt-27-25	annotator4	4.0	 	player_nn	2
+mag_1994_425778.txt-18-10	mag_1853_566330.txt-85-13	annotator4	2.0	 	player_nn	2
+mag_1970_313865.txt-9-2	fic_1836_7052.txt-1521-3	annotator4	4.0	 	player_nn	2
+mag_1978_320028.txt-3-2	mag_1817_552906.txt-34-42	annotator4	4.0	 	player_nn	2
+fic_1995_53078.txt-338-25	mag_1972_491391.txt-305-10	annotator4	4.0	 	player_nn	2
+nf_1834_747621.txt-190-43	mag_1997_68233.txt-15-32	annotator4	4.0	 	player_nn	2
+fic_1849_7347.txt-3166-3	nf_1834_747621.txt-34-4	annotator4	4.0	 	player_nn	2
+mag_1978_110781.txt-110-10	mag_1976_491744.txt-194-5	annotator4	4.0	 	player_nn	2
+mag_2006_112386.txt-19-14	news_1996_625833.txt-62-1	annotator4	4.0	 	player_nn	2
+fic_1855_602.txt-228-1	news_1996_625833.txt-62-1	annotator4	0.0	s1 is ambiguous	player_nn	2
+fic_1992_29899.txt-15-25	mag_1969_213728.txt-11-1	annotator4	1.0	 	player_nn	2
+news_1980_668008.txt-18-8	news_1981_668210.txt-14-11	annotator4	4.0	 	player_nn	2
+mag_1997_392275.txt-133-24	mag_1994_63618.txt-68-2	annotator4	4.0	 	player_nn	2
+fic_1835_7327.txt-1201-26	mag_1853_566330.txt-85-13	annotator4	4.0	 	player_nn	2
+mag_1834_564836.txt-651-9	fic_1859_9192.txt-12566-11	annotator4	4.0	 	player_nn	2
+mag_1823_553496.txt-80-3	news_1996_625833.txt-62-1	annotator4	0.0	s2 is ambiguous	player_nn	2
+fic_1836_7052.txt-3910-47	mag_2004_414611.txt-17-0	annotator4	1.0	 	player_nn	2
+nf_1834_747621.txt-167-3	fic_1962_4271.txt-108-11	annotator4	4.0	 	player_nn	2
+fic_2004_31868.txt-198-7	fic_1836_7052.txt-1521-3	annotator4	1.0	 	player_nn	2
+mag_1980_126102.txt-85-3	news_1995_638651.txt-27-25	annotator4	4.0	 	player_nn	2
+news_2005_629411.txt-92-2	news_1981_668210.txt-14-11	annotator4	4.0	 	player_nn	2
+mag_1963_248405.txt-21-14	fic_1859_9192.txt-12566-11	annotator4	4.0	 	player_nn	2
+fic_1832_7176.txt-2067-3	news_1981_668210.txt-14-11	annotator4	4.0	 	player_nn	2
+nf_1834_747621.txt-176-32	mag_1997_68233.txt-15-32	annotator4	4.0	 	player_nn	2
+mag_1984_326101.txt-12-15	fic_1859_9192.txt-12566-11	annotator4	2.0	 	player_nn	2
+news_1997_602128.txt-163-19	mag_1994_63618.txt-68-2	annotator4	4.0	 	player_nn	2
+fic_2004_29720.txt-33-32	nf_1834_747621.txt-290-1	annotator0	1.0	Unsure; perhaps a 2	player_nn	2
+mag_1972_491391.txt-305-10	mag_1969_213728.txt-11-1	annotator0	4.0	Unsure; difficult to judge the meaning in sentence 2	player_nn	2
+fic_1993_25036.txt-2086-4	nf_1834_747621.txt-290-1	annotator0	3.0	 	player_nn	2
+fic_1839_7067.txt-1476-9	mag_2004_414611.txt-17-0	annotator0	3.0	Unsure	player_nn	2
+mag_1967_218804.txt-16-18	mag_1853_566330.txt-85-13	annotator0	4.0	Unsure; difficult to judge the meaning in sentence 1	player_nn	2
+nf_1833_747531.txt-2898-40	mag_1823_553496.txt-80-3	annotator0	4.0	Unsure; difficult to judge the meaning in sentence 1	player_nn	2
+mag_1995_426949.txt-34-1	nf_1834_747621.txt-290-1	annotator0	4.0	Unsure; difficult to judge the meaning in sentence 1	player_nn	2
+mag_1994_425778.txt-18-10	mag_1853_566330.txt-85-13	annotator0	1.0	Unsure	player_nn	2
+news_1980_668002.txt-14-9	fic_1836_7052.txt-1521-3	annotator0	4.0	Unsure; difficult to judge the meaning in sentence 2	player_nn	2
+fic_1836_7052.txt-3910-47	mag_2004_414611.txt-17-0	annotator0	0.0	UNK	player_nn	2
+mag_2009_405435.txt-1-15	nf_1834_747621.txt-290-1	annotator0	1.0	 	player_nn	2
+mag_1976_491744.txt-194-5	mag_1817_552906.txt-34-42	annotator0	3.0	Unsure	player_nn	2
+fic_1855_9098.txt-6172-11	news_1981_668210.txt-14-11	annotator0	0.0	UNK	player_nn	2
+fic_1844_800.txt-1250-37	fic_1836_7052.txt-1521-3	annotator0	4.0	Unsure	player_nn	2
+fic_1973_10570.txt-2597-9	fic_1836_7052.txt-1521-3	annotator0	3.0	 	player_nn	2
+fic_1859_9220.txt-4976-45	mag_1997_68233.txt-15-32	annotator0	3.0	Unsure	player_nn	2
+nf_1834_747621.txt-291-1	fic_1962_4271.txt-108-11	annotator0	3.0	 	player_nn	2
+nf_1859_748120.txt-2700-49	mag_1823_553496.txt-80-3	annotator0	0.0	UNK; I can't determine the meaning in sentence 1 AND sentence 2	player_nn	2
+fic_1835_7327.txt-1201-26	mag_1853_566330.txt-85-13	annotator0	4.0	 	player_nn	2
+fic_1979_10650.txt-16-31	mag_1817_552906.txt-34-42	annotator0	3.0	 	player_nn	2
+news_1985_668647.txt-19-16	mag_1997_68233.txt-15-32	annotator0	3.0	 	player_nn	2
+fic_1992_29899.txt-15-25	mag_1969_213728.txt-11-1	annotator0	1.0	 	player_nn	2
+mag_1823_553496.txt-80-3	mag_2004_414611.txt-17-0	annotator0	0.0	UNK; I can't determine the meaning in sentence 2	player_nn	2
+mag_2006_428833.txt-18-13	nf_1834_747621.txt-290-1	annotator0	4.0	 	player_nn	2
+mag_2003_376656.txt-21-25	mag_1969_213728.txt-11-1	annotator0	2.0	Unsure	player_nn	2
+fic_2001_30165.txt-154-6	news_1995_638651.txt-27-25	annotator0	4.0	 	player_nn	2
+fic_2005_780529.txt-2279-8	news_1996_625833.txt-62-1	annotator0	4.0	Unsure	player_nn	2
+mag_1997_356208.txt-22-17	fic_1962_4271.txt-108-11	annotator0	1.0	 	player_nn	2
+nf_1846_748061.txt-948-16	mag_2004_414611.txt-17-0	annotator0	0.0	UNK; I can't determine the meaning in sentence 1	player_nn	2
+news_1981_669238.txt-41-4	fic_1962_4271.txt-108-11	annotator0	3.0	 	player_nn	2
+fic_2000_52519.txt-272-0	nf_1834_747621.txt-34-4	annotator0	4.0	 	player_nn	2
+mag_1822_553391.txt-126-19	mag_1853_566330.txt-85-13	annotator0	4.0	 	player_nn	2
+mag_1843_565272.txt-71-62	mag_1969_213728.txt-11-1	annotator0	3.0	Unsure	player_nn	2
+fic_1855_9098.txt-519-15	news_1995_638651.txt-27-25	annotator0	0.0	UNK; I can't determine the meaning in sentence 1	player_nn	2
+news_2006_607690.txt-28-12	fic_1859_9192.txt-12566-11	annotator0	3.0	 	player_nn	2
+mag_2007_391507.txt-108-16	mag_1817_552906.txt-34-42	annotator0	3.0	 	player_nn	2
+mag_1978_320028.txt-3-2	mag_1817_552906.txt-34-42	annotator0	3.0	 	player_nn	2
+mag_2000_75252.txt-22-3	fic_1836_7052.txt-1521-3	annotator0	0.0	UNK; I can't determine the meaning in sentence 2	player_nn	2
+nf_1834_747621.txt-192-1	mag_1823_553496.txt-80-3	annotator0	0.0	UNK; I can't determine the meaning in sentence 1	player_nn	2
+news_1981_669227.txt-22-11	mag_1823_553496.txt-80-3	annotator0	0.0	UNK; I can't determine the meaning in sentence 2	player_nn	2
+mag_1987_487708.txt-92-23	news_1981_668210.txt-14-11	annotator0	4.0	 	player_nn	2
+mag_1978_110781.txt-110-10	mag_1976_491744.txt-194-5	annotator0	3.0	 	player_nn	2
+mag_2003_384205.txt-92-21	news_1996_625833.txt-62-1	annotator0	3.0	 	player_nn	2
+fic_1995_53078.txt-338-25	fic_1859_270.txt-2477-7	annotator0	4.0	 	player_nn	2
+mag_2003_376656.txt-21-25	nf_1834_747621.txt-195-13	annotator0	3.0	Unsure	player_nn	2
+news_1978_733812.txt-56-40	mag_1853_566330.txt-85-13	annotator0	0.0	UNK; I can't determine the meaning in sentence 1	player_nn	2
+nf_1834_747621.txt-306-2	fic_1836_7052.txt-1521-3	annotator0	3.0	 	player_nn	2
+nf_1834_747621.txt-167-3	fic_1962_4271.txt-108-11	annotator0	3.0	 	player_nn	2
+news_2000_639446.txt-35-10	mag_1994_63618.txt-68-2	annotator0	4.0	 	player_nn	2
+mag_1997_392267.txt-29-6	fic_1859_9192.txt-12566-11	annotator0	0.0	UNK; I can't determine the meaning in sentence 1 AND 2	player_nn	2
+news_1971_729751.txt-43-22	mag_1853_566330.txt-85-13	annotator0	4.0	Unsure; difficult to judge the meaning in sentence 1 AND 2	player_nn	2
+nf_1833_747531.txt-1441-15	news_1995_638651.txt-27-25	annotator0	3.0	 	player_nn	2
+mag_1984_125227.txt-110-4	mag_1853_566330.txt-85-13	annotator0	4.0	Unsure; difficult to judge the meaning in sentence 2	player_nn	2
+mag_1823_553496.txt-80-3	mag_1997_68233.txt-15-32	annotator0	0.0	UNK; I can't determine the meaning in sentence 2	player_nn	2
+nf_1834_747621.txt-283-22	news_1996_625833.txt-62-1	annotator0	4.0	 	player_nn	2
+fic_1836_7053.txt-667-9	mag_1853_566330.txt-85-13	annotator0	4.0	Unsure; difficult to judge the meaning in sentence 1 AND 2	player_nn	2
+fic_1846_4462.txt-797-107	mag_1997_68233.txt-15-32	annotator0	3.0	 	player_nn	2
+news_2000_627632.txt-147-0	news_1996_625833.txt-62-1	annotator0	4.0	 	player_nn	2
+mag_1966_209742.txt-6-15	mag_1853_566330.txt-85-13	annotator0	0.0	 	player_nn	2
+news_2000_627649.txt-202-17	mag_1817_552906.txt-34-42	annotator0	3.0	 	player_nn	2
+nf_1834_747621.txt-176-32	mag_1997_68233.txt-15-32	annotator0	4.0	 	player_nn	2
+fic_1855_1209.txt-1870-1	nf_1834_747621.txt-34-4	annotator0	4.0	Unsure; difficult to judge the meaning in sentence 1	player_nn	2
+nf_1846_748061.txt-1725-12	mag_1817_552906.txt-34-42	annotator0	4.0	 	player_nn	2
+news_1980_668008.txt-18-8	news_1981_668210.txt-14-11	annotator0	4.0	Unsure; difficult to judge the meaning in sentence 1	player_nn	2
+nf_1834_747621.txt-289-14	mag_1853_566330.txt-85-13	annotator0	4.0	Unsure; difficult to judge the meaning in sentence 2	player_nn	2
+fic_1850_9136.txt-28-24	nf_1834_747621.txt-290-1	annotator0	3.0	Unsure	player_nn	2
+nf_1834_747621.txt-303-1	news_1996_625833.txt-62-1	annotator0	4.0	 	player_nn	2
+news_1996_659232.txt-99-34	mag_1969_213728.txt-11-1	annotator0	3.0	 	player_nn	2
+fic_1859_9192.txt-2469-6	nf_1834_747621.txt-290-1	annotator0	3.0	Unsure; difficult to judge the meaning in sentence 1 AND 2	player_nn	2
+news_2000_627649.txt-1314-0	mag_1853_566330.txt-85-13	annotator0	4.0	Unsure; difficult to judge the meaning in sentence 1 AND 2	player_nn	2
+nf_1834_747621.txt-74-7	mag_1969_213728.txt-11-1	annotator0	4.0	 	player_nn	2
+fic_1840_7292.txt-1966-31	fic_1859_270.txt-2477-7	annotator0	3.0	Unsure; difficult to judge the meaning in sentence 2	player_nn	2
+nf_1834_747621.txt-195-13	mag_1823_553496.txt-80-3	annotator0	0.0	UNK; I can't determine the meaning in sentence 2	player_nn	2
+nf_2001_746390.txt-245-19	news_1995_638651.txt-27-25	annotator0	4.0	 	player_nn	2
+fic_1836_7053.txt-229-6	mag_1823_553496.txt-80-3	annotator0	4.0	Unsure; difficult to judge the meaning in sentence 1 AND 2	player_nn	2
+mag_1823_553496.txt-80-3	news_1996_625833.txt-62-1	annotator0	4.0	Unsure; difficult to judge the meaning in sentence 1	player_nn	2
+news_1998_615330.txt-27-16	fic_1859_9192.txt-12566-11	annotator0	0.0	UNK; I can't determine the meaning in sentence 1	player_nn	2
+fic_1992_30681.txt-25-26	mag_2004_414611.txt-17-0	annotator0	3.0	 	player_nn	2
+fic_2009_36644.txt-534-12	mag_1853_566330.txt-85-13	annotator0	1.0	 	player_nn	2
+fic_1982_10699.txt-11773-1	fic_1836_7052.txt-1521-3	annotator0	4.0	Unsure; difficult to judge the meaning in sentence 2	player_nn	2
+nf_1834_747621.txt-276-19	fic_1962_4271.txt-108-11	annotator0	3.0	 	player_nn	2
+fic_1855_604.txt-3943-23	mag_1997_68233.txt-15-32	annotator0	3.0	 	player_nn	2
+fic_1841_799.txt-1809-16	nf_1834_747621.txt-290-1	annotator0	3.0	 	player_nn	2
+fic_1856_1562.txt-4096-55	mag_1817_552906.txt-34-42	annotator0	4.0	Unsure; difficult to judge the meaning in sentence 2	player_nn	2
+nf_1834_747621.txt-232-29	nf_1834_747621.txt-290-1	annotator0	4.0	 	player_nn	2
+fic_1844_800.txt-1250-37	mag_1984_326101.txt-12-15	annotator2	3.0	 	player_nn	4
+fic_1844_800.txt-1250-37	news_2007_637876.txt-55-20	annotator2	4.0	 	player_nn	4
+mag_1997_356208.txt-22-17	fic_1832_7176.txt-2067-3	annotator2	1.0	 	player_nn	4
+fic_1844_7114.txt-1647-20	news_2005_648986.txt-71-14	annotator2	3.0	 	player_nn	4
+nf_1859_748120.txt-2700-49	fic_1844_800.txt-1250-37	annotator2	3.0	 	player_nn	4
+fic_1992_30681.txt-25-26	nf_1833_747531.txt-2900-1	annotator2	3.0	 	player_nn	4
+fic_1993_25036.txt-2086-4	mag_2003_376656.txt-21-25	annotator2	2.0	 	player_nn	4
+fic_2004_29720.txt-33-32	fic_1841_799.txt-1809-16	annotator2	2.0	 	player_nn	4
+fic_1843_7155.txt-1334-5	mag_1997_356208.txt-22-17	annotator2	2.0	 	player_nn	4
+nf_1833_747531.txt-1407-18	mag_2006_385919.txt-27-40	annotator2	2.0	 	player_nn	4
+fic_1845_7170.txt-11079-11	fic_1833_7058.txt-508-44	annotator2	4.0	 	player_nn	4
+fic_2004_31868.txt-198-7	fic_1992_29899.txt-15-25	annotator2	4.0	 	player_nn	4
+fic_1993_25036.txt-2086-4	fic_1841_799.txt-1809-16	annotator2	3.0	 	player_nn	4
+fic_1992_30681.txt-25-26	fic_2004_29720.txt-33-32	annotator2	1.0	 	player_nn	4
+nf_1834_747621.txt-291-1	fic_1962_4271.txt-108-11	annotator2	3.0	 	player_nn	4
+nf_1834_747621.txt-290-1	fic_1836_7052.txt-1521-3	annotator8	3.0	 	player_nn	4
+fic_1993_25036.txt-2086-4	news_2006_607690.txt-28-12	annotator8	3.0	 	player_nn	4
+nf_1834_747621.txt-292-8	fic_1962_4271.txt-108-11	annotator8	3.0	 	player_nn	4
+nf_1834_747621.txt-291-1	mag_1997_356208.txt-22-17	annotator8	2.0	 	player_nn	4
+mag_1997_389166.txt-31-27	fic_1992_30681.txt-25-26	annotator8	4.0	 	player_nn	4
+mag_1976_491744.txt-194-5	news_2006_607690.txt-28-12	annotator8	3.0	 	player_nn	4
+fic_1845_7170.txt-11079-11	mag_1997_389166.txt-31-27	annotator8	3.0	 	player_nn	4
+fic_1846_4462.txt-797-107	mag_1822_553391.txt-126-19	annotator8	3.0	 	player_nn	4
+fic_1850_7171.txt-4473-10	news_1997_602128.txt-163-19	annotator8	3.0	 	player_nn	4
+mag_1823_553496.txt-80-3	news_1996_625833.txt-62-1	annotator8	3.0	 	player_nn	4
+fic_1841_799.txt-1809-16	nf_1833_747531.txt-2900-1	annotator8	3.0	 	player_nn	4
+fic_1844_800.txt-1250-37	fic_2004_29720.txt-33-32	annotator8	4.0	 	player_nn	4
+mag_1846_524089.txt-294-22	fic_1836_7052.txt-949-60	annotator8	3.0	 	player_nn	4
+fic_1841_799.txt-1809-16	fic_2009_36644.txt-534-12	annotator8	2.0	 	player_nn	4
+fic_1836_7052.txt-949-60	fic_1841_799.txt-1809-16	annotator8	3.0	 	player_nn	4
+fic_1836_7052.txt-949-60	nf_1859_748120.txt-2700-49	annotator8	3.0	 	player_nn	4
+mag_2003_376656.txt-21-25	nf_1833_747531.txt-2900-1	annotator8	3.0	 	player_nn	4
+fic_1973_10570.txt-2597-9	mag_1832_554166.txt-207-13	annotator8	3.0	 	player_nn	4
+fic_1844_7114.txt-1647-20	nf_1833_747531.txt-2900-1	annotator8	3.0	 	player_nn	4
+mag_1846_524089.txt-294-22	fic_1993_25036.txt-2086-4	annotator8	3.0	 	player_nn	4
+fic_1836_7052.txt-949-60	fic_1993_25036.txt-2086-4	annotator8	3.0	 	player_nn	4
+mag_2003_376656.txt-21-25	nf_2008_774810.txt-327-77	annotator6	3.0	 	player_nn	4
+mag_2003_376656.txt-21-25	nf_1859_748120.txt-2700-49	annotator6	2.0	 	player_nn	4
+nf_1859_748120.txt-2700-49	mag_1846_524089.txt-294-22	annotator6	4.0	 	player_nn	4
+nf_1834_747621.txt-290-1	fic_1841_799.txt-1809-16	annotator6	3.0	 	player_nn	4
+mag_1997_356208.txt-22-17	nf_1833_747531.txt-2900-1	annotator6	2.0	 	player_nn	4
+mag_1997_389166.txt-31-27	mag_1846_524089.txt-294-22	annotator6	2.0	 	player_nn	4
+mag_1823_553496.txt-80-3	mag_2004_414611.txt-17-0	annotator6	3.0	 	player_nn	4
+fic_1836_7052.txt-949-60	mag_2006_385919.txt-27-40	annotator6	2.0	 	player_nn	4
+fic_1976_780159.txt-418-30	nf_1833_747531.txt-2900-1	annotator6	3.0	 	player_nn	4
+nf_1833_747531.txt-1407-18	mag_1822_553391.txt-126-19	annotator6	3.0	 	player_nn	4
+fic_1836_7052.txt-949-60	mag_1984_326101.txt-12-15	annotator6	4.0	 	player_nn	4
+fic_1841_799.txt-1809-16	fic_1844_7114.txt-1647-20	annotator6	3.0	 	player_nn	4
+mag_2003_376656.txt-21-25	fic_2009_36644.txt-534-12	annotator6	2.0	 	player_nn	4
+fic_1843_7155.txt-1334-5	fic_1851_3300.txt-2782-16	annotator6	3.0	 	player_nn	4
+nf_1859_748120.txt-2700-49	news_2006_607690.txt-28-12	annotator6	3.0	 	player_nn	4
+mag_1997_68233.txt-15-32	fic_1833_7058.txt-508-44	annotator6	2.0	 	player_nn	4
+news_2005_648986.txt-71-14	news_1993_630359.txt-52-23	annotator5	2.0	 	player_nn	4
+nf_1859_748120.txt-2700-49	fic_1993_25036.txt-2086-4	annotator5	2.0	 	player_nn	4
+fic_1841_799.txt-1809-16	mag_1994_425778.txt-18-10	annotator5	2.0	 	player_nn	4
+fic_1992_30681.txt-25-26	fic_1841_799.txt-1809-16	annotator5	2.0	 	player_nn	4
+fic_1843_7155.txt-1334-5	nf_2008_774810.txt-327-77	annotator5	2.0	 	player_nn	4
+fic_2004_29720.txt-33-32	fic_2009_36644.txt-534-12	annotator5	4.0	 	player_nn	4
+news_2007_637876.txt-55-20	news_1993_630359.txt-52-23	annotator5	2.0	 	player_nn	4
+fic_1833_7058.txt-508-44	nf_1833_747531.txt-1407-18	annotator5	2.0	 	player_nn	4
+nf_1834_747621.txt-291-1	nf_2008_774810.txt-327-77	annotator5	2.0	 	player_nn	4
+fic_2004_29720.txt-33-32	fic_1836_7052.txt-949-60	annotator5	2.0	 	player_nn	4
+fic_1844_800.txt-1250-37	mag_2006_385919.txt-27-40	annotator5	2.0	 	player_nn	4
+mag_1994_425778.txt-18-10	mag_1997_389166.txt-31-27	annotator5	2.0	 	player_nn	4
+fic_1841_799.txt-1809-16	nf_1859_748120.txt-2700-49	annotator5	4.0	 	player_nn	4
+fic_1992_30681.txt-25-26	news_1993_630359.txt-52-23	annotator5	2.0	 	player_nn	4
+mag_1846_524089.txt-294-22	mag_2003_376656.txt-21-25	annotator5	2.0	 	player_nn	4
+mag_2009_405435.txt-1-15	mag_1834_564836.txt-651-9	annotator5	2.0	 	player_nn	4
+fic_1841_799.txt-1809-16	mag_1846_524089.txt-294-22	annotator0	3.0	 	player_nn	4
+news_2007_637876.txt-55-20	news_2005_648986.txt-71-14	annotator0	4.0	 	player_nn	4
+fic_2004_29720.txt-33-32	news_2007_637876.txt-55-20	annotator0	1.0	 	player_nn	4
+fic_1836_7052.txt-949-60	nf_1833_747531.txt-2900-1	annotator0	2.0	Unsure	player_nn	4
+nf_1834_747621.txt-291-1	news_2006_607690.txt-28-12	annotator0	4.0	 	player_nn	4
+fic_1844_7114.txt-1647-20	fic_1833_7058.txt-508-44	annotator0	3.0	Unsure	player_nn	4
+mag_2009_405435.txt-1-15	news_2006_607690.txt-28-12	annotator0	1.0	 	player_nn	4
+news_2005_648986.txt-71-14	nf_1833_747531.txt-2900-1	annotator0	4.0	 	player_nn	4
+mag_1984_326101.txt-12-15	fic_1992_29899.txt-15-25	annotator0	1.0	 	player_nn	4
+fic_1992_30681.txt-25-26	fic_2009_36644.txt-534-12	annotator0	1.0	 	player_nn	4
+fic_1993_25036.txt-2086-4	mag_1997_389166.txt-31-27	annotator0	2.0	Unsure	player_nn	4
+mag_2003_376656.txt-21-25	fic_1836_7052.txt-949-60	annotator0	2.0	 	player_nn	4
+mag_1823_553496.txt-80-3	mag_1978_110781.txt-110-10	annotator0	0.0	UNK; I can't determine the meaning in sentence 2	player_nn	4
+mag_1846_524089.txt-294-22	fic_1992_30681.txt-25-26	annotator0	2.0	Unsure	player_nn	4
+news_1981_668210.txt-14-11	nf_1834_747621.txt-290-1	annotator2	4.0	 	player_nn	1
+news_1982_671110.txt-94-9	fic_1836_7052.txt-1521-3	annotator2	2.0	 	player_nn	1
+news_1982_671110.txt-94-9	news_1996_625833.txt-62-1	annotator2	1.0	 	player_nn	1
+fic_1836_7052.txt-1521-3	nf_1834_747621.txt-290-1	annotator2	1.0	 	player_nn	1
+nf_1834_747621.txt-290-1	news_1993_630359.txt-52-23	annotator2	1.0	 	player_nn	1
+news_1996_625833.txt-62-1	news_1995_638651.txt-27-25	annotator2	4.0	 	player_nn	1
+fic_1845_7170.txt-11079-11	mag_1853_566330.txt-85-13	annotator2	1.0	 	player_nn	1
+mag_1994_63618.txt-68-2	news_1996_625833.txt-62-1	annotator2	4.0	 	player_nn	1
+news_1995_638651.txt-27-25	nf_1834_747621.txt-290-1	annotator2	4.0	 	player_nn	1
+mag_2004_414611.txt-17-0	mag_1823_553496.txt-80-3	annotator2	1.0	 	player_nn	1
+news_1996_625833.txt-62-1	mag_2004_414611.txt-17-0	annotator2	3.0	 	player_nn	1
+nf_1847_747756.txt-1191-18	mag_1997_68233.txt-15-32	annotator2	1.0	 	player_nn	1
+news_1993_630359.txt-52-23	mag_1853_566330.txt-85-13	annotator2	1.0	 	player_nn	1
+nf_1834_747621.txt-290-1	mag_1969_213728.txt-11-1	annotator2	4.0	 	player_nn	1
+nf_1834_747621.txt-290-1	mag_2004_414611.txt-17-0	annotator2	3.0	 	player_nn	1
+news_1996_625833.txt-62-1	nf_1847_747756.txt-1191-18	annotator2	1.0	 	player_nn	1
+mag_1997_68233.txt-15-32	mag_1823_553496.txt-80-3	annotator2	2.0	 	player_nn	1
+mag_1853_566330.txt-85-13	fic_1962_4271.txt-108-11	annotator2	3.0	 	player_nn	1
+mag_1994_63618.txt-68-2	news_1993_630359.txt-52-23	annotator2	1.0	 	player_nn	1
+fic_1962_4271.txt-108-11	fic_1859_270.txt-2477-7	annotator2	2.0	 	player_nn	1
+nf_1847_747756.txt-1191-18	mag_1853_566330.txt-85-13	annotator2	1.0	 	player_nn	1
+mag_1853_566330.txt-85-13	mag_1823_553496.txt-80-3	annotator2	3.0	 	player_nn	1
+fic_1859_9192.txt-12566-11	mag_1853_566330.txt-85-13	annotator2	2.0	 	player_nn	1
+mag_1823_553496.txt-80-3	news_1996_625833.txt-62-1	annotator2	2.0	 	player_nn	1
+fic_1859_9192.txt-12566-11	mag_1817_552906.txt-34-42	annotator2	3.0	 	player_nn	1
+mag_1817_552906.txt-34-42	nf_1834_747621.txt-290-1	annotator1	4.0	 	player_nn	1
+fic_1845_7170.txt-11079-11	mag_1994_63618.txt-68-2	annotator1	4.0	 	player_nn	1
+mag_1823_553496.txt-80-3	news_1993_630359.txt-52-23	annotator1	3.0	 	player_nn	1
+fic_1962_4271.txt-108-11	fic_1859_9192.txt-12566-11	annotator1	4.0	 	player_nn	1
+mag_1969_213728.txt-11-1	mag_2004_414611.txt-17-0	annotator1	3.0	 	player_nn	1
+mag_1994_63618.txt-68-2	mag_1997_68233.txt-15-32	annotator1	4.0	 	player_nn	1
+fic_1845_7170.txt-11079-11	nf_1834_747621.txt-290-1	annotator1	2.0	 	player_nn	1
+news_1981_668210.txt-14-11	nf_1834_747621.txt-34-4	annotator1	4.0	 	player_nn	1
+nf_1834_747621.txt-290-1	fic_1962_4271.txt-108-11	annotator3	3.0	 	player_nn	1
+news_1993_630359.txt-52-23	mag_1817_552906.txt-34-42	annotator3	2.0	 	player_nn	1
+nf_1847_747756.txt-1191-18	news_1982_671110.txt-94-9	annotator3	0.0	Not enough context in either sentence	player_nn	1
+news_1981_668210.txt-14-11	nf_1834_747621.txt-290-1	annotator3	3.0	 	player_nn	1
+fic_1859_9192.txt-12566-11	mag_1853_566330.txt-85-13	annotator3	3.0	 	player_nn	1
+mag_2004_414611.txt-17-0	mag_1823_553496.txt-80-3	annotator3	4.0	 	player_nn	1
+mag_1823_553496.txt-80-3	news_1993_630359.txt-52-23	annotator3	2.0	 	player_nn	1
+fic_1836_7052.txt-1521-3	nf_1847_747756.txt-1191-18	annotator3	0.0	Sentence 1 not understood	player_nn	1
+mag_2004_414611.txt-17-0	mag_1994_63618.txt-68-2	annotator3	4.0	 	player_nn	1
+fic_1845_7170.txt-11079-11	nf_1834_747621.txt-290-1	annotator3	2.0	 	player_nn	1
+mag_1997_68233.txt-15-32	fic_1845_7170.txt-11079-11	annotator3	1.0	 	player_nn	1
+fic_1962_4271.txt-108-11	fic_1845_7170.txt-11079-11	annotator3	2.0	 	player_nn	1
+news_1993_630359.txt-52-23	mag_1853_566330.txt-85-13	annotator3	2.0	 	player_nn	1
+fic_1859_270.txt-2477-7	mag_1994_63618.txt-68-2	annotator3	4.0	 	player_nn	1
+news_1996_625833.txt-62-1	mag_1969_213728.txt-11-1	annotator3	4.0	 	player_nn	1
+fic_1962_4271.txt-108-11	fic_1859_9192.txt-12566-11	annotator3	0.0	Sentence 2 not contextualized	player_nn	1
+mag_1853_566330.txt-85-13	fic_1962_4271.txt-108-11	annotator3	4.0	 	player_nn	1
+news_1996_625833.txt-62-1	mag_2004_414611.txt-17-0	annotator3	4.0	 	player_nn	1
+nf_1834_747621.txt-290-1	mag_2004_414611.txt-17-0	annotator3	4.0	 	player_nn	1
+nf_1847_747756.txt-1191-18	mag_1853_566330.txt-85-13	annotator3	0.0	Meaning 2 not understood	player_nn	1
+nf_1834_747621.txt-290-1	fic_1859_270.txt-2477-7	annotator3	4.0	 	player_nn	1
+mag_1994_63618.txt-68-2	mag_1997_68233.txt-15-32	annotator3	4.0	 	player_nn	1
+mag_1997_68233.txt-15-32	mag_1823_553496.txt-80-3	annotator3	4.0	 	player_nn	1
+nf_1834_747621.txt-34-4	news_1996_625833.txt-62-1	annotator3	4.0	 	player_nn	1
+mag_2004_414611.txt-17-0	mag_1997_68233.txt-15-32	annotator3	4.0	 	player_nn	1
+news_1981_668210.txt-14-11	nf_1834_747621.txt-34-4	annotator0	3.0	I believe sentence 1 uses player to mean someone who is employed as a (baseball?) player	player_nn	1
+fic_1836_7052.txt-1521-3	nf_1847_747756.txt-1191-18	annotator0	0.0	UNK	player_nn	1
+news_1982_671110.txt-94-9	fic_1845_7170.txt-11079-11	annotator0	0.0	UNK; sentence 1 does not provide enough context	player_nn	1
+nf_1834_747621.txt-290-1	fic_1859_270.txt-2477-7	annotator0	4.0	 	player_nn	1
+news_1993_630359.txt-52-23	mag_1817_552906.txt-34-42	annotator0	3.0	Unsure	player_nn	1
+nf_1834_747621.txt-290-1	news_1982_671110.txt-94-9	annotator0	0.0	UNK; the context in sentence 2 is unclear	player_nn	1
+mag_1817_552906.txt-34-42	fic_1962_4271.txt-108-11	annotator0	3.0	 	player_nn	1
+mag_1853_566330.txt-85-13	mag_1823_553496.txt-80-3	annotator0	0.0	UNK	player_nn	1
+nf_1834_747621.txt-290-1	fic_1962_4271.txt-108-11	annotator0	3.0	 	player_nn	1
+mag_1997_68233.txt-15-32	fic_1845_7170.txt-11079-11	annotator0	3.0	 	player_nn	1
+mag_1997_68233.txt-15-32	fic_1836_7052.txt-1521-3	annotator0	3.0	 	player_nn	1
+fic_1836_7052.txt-1521-3	nf_1834_747621.txt-290-1	annotator0	3.0	 	player_nn	1
+nf_1834_747621.txt-290-1	mag_2004_414611.txt-17-0	annotator0	0.0	UNK	player_nn	1
+mag_1853_566330.txt-85-13	news_1982_671110.txt-94-9	annotator0	0.0	UNK	player_nn	1
+mag_1994_63618.txt-68-2	mag_1997_68233.txt-15-32	annotator0	4.0	 	player_nn	1
+fic_1859_270.txt-2477-7	mag_1994_63618.txt-68-2	annotator0	4.0	 	player_nn	1
+fic_1845_7170.txt-11079-11	nf_1847_747756.txt-1191-18	annotator0	0.0	UNK	player_nn	1
+fic_1845_7170.txt-11079-11	mag_1994_63618.txt-68-2	annotator0	3.0	 	player_nn	1
+mag_1853_566330.txt-85-13	nf_1834_747621.txt-290-1	annotator0	4.0	 	player_nn	1
+mag_2004_414611.txt-17-0	mag_1997_68233.txt-15-32	annotator0	0.0	UNK	player_nn	1
+fic_1859_9192.txt-12566-11	mag_1853_566330.txt-85-13	annotator0	0.0	UNK	player_nn	1
+mag_1969_213728.txt-11-1	mag_1817_552906.txt-34-42	annotator0	2.0	 	player_nn	1
+mag_1817_552906.txt-34-42	news_1981_668210.txt-14-11	annotator0	3.0	 	player_nn	1
+mag_1823_553496.txt-80-3	news_1993_630359.txt-52-23	annotator0	0.0	UNK	player_nn	1
+mag_1994_63618.txt-68-2	news_1996_625833.txt-62-1	annotator0	4.0	 	player_nn	1
+mag_1969_213728.txt-11-1	mag_2004_414611.txt-17-0	annotator0	0.0	UNK	player_nn	1

@@ -1,0 +1,1 @@
+defaultdict(<class 'float'>, {'eval_total_loss': 0.6960902974939681, 'accuracy.dev.krita.score': 0.5118305720220905, 'accuracy.dev.nen-nen.score': 0.5118305720220905})

@@ -1,0 +1,1 @@
+defaultdict(<class 'float'>, {'eval_total_loss': 0.6673181837559522, 'accuracy.dev.gloria.score': 0.8418874589957103, 'accuracy.dev.nen-nen.score': 0.8418874589957103})

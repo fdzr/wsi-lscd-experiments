@@ -1,0 +1,3 @@
+metric	0	part
+calinski_harabasz_silhouette	0.34540402860927644	russe_bts-rnc-ru-test-public
+calinski_harabasz_silhouette	0.3691632036041088	russe_bts-rnc-ru-train

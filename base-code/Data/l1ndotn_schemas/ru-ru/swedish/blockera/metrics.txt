@@ -1,0 +1,1 @@
+defaultdict(<class 'float'>, {'eval_total_loss': 0.7156080481296425, 'accuracy.dev.blockera.score': 0.19352881698685542, 'accuracy.dev.nen-nen.score': 0.19352881698685542})

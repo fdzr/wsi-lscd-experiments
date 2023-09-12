@@ -1,0 +1,3 @@
+metric	0	part
+calinski_harabasz_NMI	53.57573111763196	russe_bts-rnc-ru-test-public
+calinski_harabasz_NMI	52.17484220163755	russe_bts-rnc-ru-train

@@ -1,0 +1,38 @@
+<div id="clustering-panel">
+    Word: <span class="word">{{ word }}</span>
+
+    <div style="display: inline-block" id="status"></div>
+    <br style="clear: both"/>
+
+    <div>
+        <br />
+        <label for="filter-tag">Tag</label>
+        <select id="filter-tag" class="mdl-select-workaround">
+            <option value="cluster" selected>Cluster</option>
+            <option value="imbalanced_merge">Imbalanced merge</option>
+            <option value="increased_entropy">Increased entropy</option>
+            <option value="high_pmi">High PMI</option>
+            <option value="any">Any tag</option>
+        </select>
+        <br style="clear: both" /><br style="clear: both" />
+        <label for="filter-senses">Sense</label>
+        <select id="filter-senses" class="mdl-select-workaround">
+            <option value="any">any</option>
+            <option value="none">none</option>
+        </select>
+        <br style="clear: both" /><br style="clear: both" />
+        <label for="filter-min-samples">Min. samples</label>
+        <input type="number" id="filter-min-samples" value="1">
+        <br style="clear: both" /><br style="clear: both" />
+        <label for="filter-max-samples">Max. samples</label>
+        <input type="number" id="filter-max-samples" value="10000">
+        <br style="clear: both" /><br style="clear: both" />
+        <label for="filter-max-results">Max. results</label>
+        <input type="number" id="filter-max-results" value="10000">
+        <br style="clear: both" /><br style="clear: both" />
+        <button onclick="draw(true);" class="mdl-button mdl-js-button mdl-button--colored">Filter</button>
+    </div>
+
+    <div id="senses-container"></div>
+
+</div>

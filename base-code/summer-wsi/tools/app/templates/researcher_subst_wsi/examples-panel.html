@@ -1,0 +1,20 @@
+<div id="examples-panel">
+    Word: <span class="word">{{ word }}</span>
+
+    <div style="display: inline-block" id="status"></div>
+    <br style="clear: both"/>
+    <div class="experiment-summary-container">
+        <b>Status:</b> {{ experiment.status }}<br/>
+        <b>Dataset:</b> {{ experiment.dataset_id }}<br/>
+        <b>Start time:</b> {{ experiment.start_time }}<br/>
+        <b>End time:</b> {{ experiment.end_time }}<br/>
+        <b>Clusterer:</b> {{ experiment.result[word].config['clusterer'].split('.')[-1] }}<br/>
+        <b>Clusterer params:</b> {% for param in experiment.result[word].config['clusterer_params'] %}
+        {{ param }}: {{ experiment.result[word].config['clusterer_params'][param] }},
+    {% endfor %}<br/>
+        <b>Vectorizer:</b> {{ experiment.result[word].config['vectorizer'].split('.')[-1] }}<br/>
+        <b>Vectorizer params:</b> {% for param in experiment.result[word].config['vectorizer_params'] %}
+        {{ param }}: {{ experiment.result[word].config['vectorizer_params'][param] }},
+    {% endfor %}
+    </div>
+</div>

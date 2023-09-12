@@ -1,0 +1,17 @@
+defaults:
+  - _self_
+  - model_vec: glm # my_vec glm bow
+
+evaluator:
+  input_path: ../../../../../datasets/framenet/en/framenet_v17_small.csv
+  output_path: ../../../../results
+  preload:  #../../../../vectors/framenet_12_small_glm.npy #../../../../vectors/framenet_12_small_glm.npy
+  save_embeds: #../../../../vectors/framenet_12_small_glm.npy
+  eval_type: synchronic
+  dist_func: euclidean
+  threshold: 1.0
+  visualize: True
+  window: subword
+  norm: False
+  use_decision: True
+  min_precision: 0.8
